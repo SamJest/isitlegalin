@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Laws in Italy | IsItLegalIn</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content="Explore laws in Italy. Find out which activities are legal, illegal, or restricted under current regulations.">
+
+<link rel="canonical" href="https://isitlegalin.com/laws-in-italy">
+
+<meta name="robots" content="index,follow">
+
+<link rel="stylesheet" href="/styles.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<meta property="og:title" content="Laws in Italy">
+<meta property="og:description" content="Explore legality of activities in Italy.">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="IsItLegalIn">
+
+<meta name="twitter:card" content="summary_large_image">
+
+</head>
+
+<body>
+
+<div class="progress-bar" id="progressBar"></div>
+
+<header class="navbar">
+<div class="nav-inner">
+
+<div class="logo">IsItLegalIn</div>
+
+<div class="search-box">
+<input id="lawSearch" placeholder="Search laws (e.g. pepper spray UK)">
+</div>
+
+</div>
+</header>
+
+<div class="container">
+
+<div class="breadcrumbs">
+Home › Italy
+</div>
+
+<!-- HERO -->
+
+<div class="card card-hero">
+
+<h1>Laws in Italy</h1>
+
+<p class="text-muted">Country law overview</p>
+
+<p>
+Explore the legality of activities in Italy, including restrictions and relevant laws.
+National legislation and regulatory authorities determine how different activities are classified and enforced.
+</p>
+
+</div>
+
+<!-- AD SLOT -->
+
+<div class="ad-slot">
+Advertisement
+</div>
+
+<!-- LEGALITY OVERVIEW -->
+
+<div class="section card">
+
+<h2>Legal Status of Activities in Italy</h2>
+
+<p class="text-muted">
+Select an activity below to view full legal details.
+</p>
+
+<div class="link-grid">
+
+{{activity_links}}
+
+</div>
+
+</div>
+
+<!-- LEGAL FRAMEWORK -->
+
+<div class="section card">
+
+<h2>Legal Framework</h2>
+
+<p>
+Laws in Italy are governed by national legislation and regulatory authorities.
+Different activities may be classified as legal, restricted, or illegal depending on applicable statutes and enforcement policies.
+</p>
+
+<p>
+Always consult official legal sources and government legislation for the most current legal requirements.
+</p>
+
+</div>
+
+<!-- DISCOVERY PROMPT -->
+
+<div class="section card">
+
+<h2>How Laws Compare Worldwide</h2>
+
+<p>
+Legal approaches to regulated activities often vary significantly between countries.
+Explore how different jurisdictions classify and regulate similar activities.
+</p>
+
+<a class="button" href="/discover/global-law-differences.html">
+Explore global law differences
+</a>
+
+</div>
+
+<!-- RELATED COUNTRIES -->
+
+<div class="section card">
+
+<h2>Compare Laws in Other Countries</h2>
+
+<div class="link-grid">
+
+{{country_links}}
+
+</div>
+
+</div>
+
+<!-- SOURCES -->
+
+<div class="section card">
+
+<h2>Legal Sources</h2>
+
+<p>
+Information presented on this page is compiled from government legislation, legal codes, and official regulatory sources in Italy.
+</p>
+
+</div>
+
+<!-- PLATFORM DEPTH SIGNAL -->
+
+<div class="section card">
+
+<p class="text-muted">
+Part of the global legality database covering laws across 190+ countries.
+</p>
+
+</div>
+
+</div>
+
+<footer class="footer">
+© 2026 IsItLegalIn.com
+</footer>
+
+<script>
+
+const bar = document.getElementById("progressBar");
+
+window.addEventListener("scroll", () => {
+
+const height = document.documentElement.scrollHeight - window.innerHeight;
+
+const scrolled = (window.scrollY / height) * 100;
+
+bar.style.width = scrolled + "%";
+
+});
+
+</script>
+
+<script src="/site.js"></script>
+
+</body>
+</html>
