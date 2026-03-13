@@ -17,6 +17,11 @@
 
 <link rel="stylesheet" href="/styles.css">
 
+<!-- PERFORMANCE -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <meta property="og:title" content="Is It Legal In? | Global Legality Database">
@@ -38,6 +43,64 @@
 }
 </script>
 
+<!-- WEBSITE SCHEMA WITH SEARCH -->
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebSite",
+ "url": "https://isitlegalin.com/",
+ "potentialAction": {
+   "@type": "SearchAction",
+   "target": "https://isitlegalin.com/search?q={search_term_string}",
+   "query-input": "required name=search_term_string"
+ }
+}
+</script>
+
+<!-- WEBPAGE SCHEMA -->
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebPage",
+ "name": "Is It Legal In? Global Legality Database",
+ "url": "https://isitlegalin.com/",
+ "description": "Explore laws and regulations across countries and discover whether activities are legal worldwide."
+}
+</script>
+
+<!-- FAQ SCHEMA -->
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [{
+   "@type": "Question",
+   "name": "What does legal, restricted, or illegal mean?",
+   "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Legal means the activity is generally permitted under national law. Restricted means the activity may require permits, licensing, or have limitations. Illegal means the activity is prohibited or treated as a criminal offence."
+   }
+ },{
+   "@type": "Question",
+   "name": "Where does the legal information come from?",
+   "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Information is compiled from legislation, legal codes, regulatory agencies, and publicly available government guidance."
+   }
+ },{
+   "@type": "Question",
+   "name": "Is this website legal advice?",
+   "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "No. The database is intended for informational purposes only and does not constitute legal advice."
+   }
+ }]
+}
+</script>
+
 </head>
 
 <body>
@@ -50,7 +113,7 @@
 </div>
 
 <div class="search-box">
-<input id="lawSearch" placeholder="Search laws (e.g. pepper spray UK)">
+<input id="lawSearch" placeholder="Search laws (e.g. pepper spray UK)" aria-label="Search global laws">
 </div>
 
 </div>
@@ -72,11 +135,11 @@ Discover whether activities are legal, restricted, or illegal across countries w
 </p>
 
 <p class="hero-description">
-Search global laws instantly or explore the database by activity, country, or legal topic.
+Search global laws instantly or explore the legality database by activity, country, or legal topic.
 </p>
 
 <p class="text-muted">
-Covering laws across 190+ countries and hundreds of regulated activities.
+Covering laws across <strong>190+ countries</strong> and hundreds of regulated activities.
 </p>
 
 </div>
@@ -84,33 +147,55 @@ Covering laws across 190+ countries and hundreds of regulated activities.
 </section>
 
 
-<div class="container">
+<main class="container" role="main">
 
 
 <!-- INTRO -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>Understanding Laws Across Countries</h2>
 
 <p>
-Laws differ dramatically between countries. An activity that is completely legal in one country may be restricted or illegal in another.
+Laws differ dramatically between countries. An activity that is completely legal in one jurisdiction may be restricted or prohibited in another depending on national legislation and regulatory policy.
 </p>
 
 <p>
-IsItLegalIn provides a structured global legality database designed to help people quickly understand how regulations differ between jurisdictions.
+IsItLegalIn provides a structured global legality database designed to help people quickly understand how laws differ between jurisdictions.
 </p>
 
 <p>
-Each page explains the legal status of a specific activity in a specific country and links to related laws, countries, and legal topics to provide deeper context.
+Each legality page explains the legal status of a specific activity in a specific country, including restrictions, legal classifications, and links to related laws.
 </p>
+
+</section>
+
+
+<!-- POPULAR SEARCHES -->
+
+<section class="section card">
+
+<h2>Popular Legal Searches</h2>
+
+<p class="text-muted">
+Some of the most commonly searched legal questions worldwide.
+</p>
+
+<div class="link-grid">
+
+<a class="link-card" href="/legality/is-pepper-spray-legal-in-uk.html">Is pepper spray legal in the UK?</a>
+<a class="link-card" href="/legality/is-dashcam-legal-in-germany.html">Is dashcam legal in Germany?</a>
+<a class="link-card" href="/legality/is-vpn-legal-in-china.html">Is VPN legal in China?</a>
+<a class="link-card" href="/legality/is-drone-legal-in-france.html">Is drone legal in France?</a>
 
 </div>
+
+</section>
 
 
 <!-- ACTIVITIES -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>Browse Laws by Activity</h2>
 
@@ -133,12 +218,12 @@ Explore legality of specific activities across different countries.
 
 </div>
 
-</div>
+</section>
 
 
 <!-- COUNTRIES -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>Browse Laws by Country</h2>
 
@@ -166,12 +251,12 @@ Explore laws and regulations for activities within specific countries.
 
 </div>
 
-</div>
+</section>
 
 
 <!-- TOPICS -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>Browse by Legal Topic</h2>
 
@@ -190,12 +275,12 @@ Discover related activities grouped by legal topic.
 
 </div>
 
-</div>
+</section>
 
 
 <!-- REGIONS -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>Browse Laws by Region</h2>
 
@@ -214,12 +299,12 @@ Compare legal frameworks across geographic regions.
 
 </div>
 
-</div>
+</section>
 
 
 <!-- DISCOVERY -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>Explore Interesting Law Differences</h2>
 
@@ -231,12 +316,12 @@ Discover surprising differences in laws between countries and explore unusual le
 Explore law insights
 </a>
 
-</div>
+</section>
 
 
 <!-- ABOUT -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>About This Database</h2>
 
@@ -256,18 +341,18 @@ Learn more about how the database works:
 <a href="/methodology">How the legality database is compiled</a>
 </p>
 
-</div>
+</section>
 
 
-<!-- FAQ (SEO BOOST) -->
+<!-- FAQ -->
 
-<div class="section card">
+<section class="section card">
 
 <h2>Frequently Asked Questions</h2>
 
 <h3>What does "legal", "restricted", or "illegal" mean?</h3>
 <p>
-Legal means the activity is generally permitted under national law. Restricted means the activity may be regulated, require permits, or have limitations. Illegal means the activity is prohibited or treated as a criminal offence.
+Legal means the activity is generally permitted under national law. Restricted means the activity may require permits, licensing, or have limitations. Illegal means the activity is prohibited or treated as a criminal offence.
 </p>
 
 <h3>Where does the legal information come from?</h3>
@@ -280,10 +365,9 @@ Information is compiled from legislation, legal codes, regulatory agencies, and 
 No. The database is intended for informational purposes only and does not constitute legal advice.
 </p>
 
-</div>
+</section>
 
-
-</div>
+</main>
 
 
 <footer class="footer">
@@ -296,6 +380,10 @@ No. The database is intended for informational purposes only and does not consti
 <a href="/methodology">Methodology</a> |
 <a href="/about">About</a> |
 <a href="/legal-disclaimer">Legal Disclaimer</a>
+</p>
+
+<p class="text-muted">
+A global reference for understanding legal differences across jurisdictions.
 </p>
 
 </div>
