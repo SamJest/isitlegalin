@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Bulgaria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

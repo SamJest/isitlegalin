@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Turkey,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

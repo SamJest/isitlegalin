@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,Germany,restricted,"Batons may be legal to own in Germany, but carrying them in public is restricted and may require justification.",self-defence-weapons
+carry a kubotan,Germany,legal,Kubotans are generally legal in Germany as simple everyday items,self-defence-weapons
+carry a self-defence keychain,Germany,restricted,"Self-defence keychains are legal if they are simple tools, but weaponised designs may be restricted under weapons law.",self-defence-weapons
+carry a sword in public,Germany,restricted,Carrying a sword in public in Germany is restricted and generally requires a legitimate reason such as transport or events.,self-defence-weapons
+carry a taser,Germany,illegal,Tasers are generally restricted in Germany and are not legal for civilian possession.,self-defence-weapons
+carry pepper spray,Germany,restricted,Pepper spray is legal in Germany as animal repellent but carrying it for self-defence against people can create legal risk,self-defence-weapons
+own a switchblade,Germany,restricted,"Switchblades are restricted in Germany, with legality depending on blade length and opening mechanism.",self-defence-weapons
+possess a butterfly knife,Germany,illegal,Butterfly knives are prohibited weapons in Germany and cannot be legally owned or carried.,self-defence-weapons
+possess a stun gun,Germany,restricted,Stun guns are legal in Germany only if they meet strict certification requirements and are approved for civilian use.,self-defence-weapons
+possess brass knuckles,Germany,illegal,Brass knuckles are prohibited weapons in Germany and cannot be legally owned or carried.,self-defence-weapons

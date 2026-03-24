@@ -1,0 +1,442 @@
+[
+  {
+    "id": "canada-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "You can bring alcohol into Canada within duty-free limits, but provincial laws and quantity restrictions apply.",
+    "conditions": [
+      "Alcohol must be for personal use.",
+      "Federal duty-free limits apply.",
+      "Provincial rules may affect transport."
+    ],
+    "exceptions": [
+      "Higher quantities may be taxed.",
+      "Some provinces have stricter limits."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance may lead to seizure."
+    },
+    "enforcement": "Canada Border Services Agency inspects alcohol imports.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canada Border Services Agency",
+      "Canadian customs law"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "canada-carrying-cash-limit",
+    "query": "how much cash can you bring into canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "There is no limit on bringing cash into Canada, but amounts over CAD 10,000 must be declared.",
+    "conditions": [
+      "Cash over CAD 10,000 must be declared.",
+      "Declaration must be accurate.",
+      "Funds must be legally obtained."
+    ],
+    "exceptions": [
+      "Failure to declare can result in seizure.",
+      "Structuring funds to avoid declaration is illegal."
+    ],
+    "penalties": {
+      "fine": "Seizure and fines",
+      "jail": "Possible in serious cases",
+      "notes": "Anti-money laundering rules are strictly enforced."
+    },
+    "enforcement": "Border officials monitor and investigate undeclared funds.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBSA guidance",
+      "Canadian financial reporting laws"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "canada-bringing-medication",
+    "query": "can you bring medication into canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Medication can be brought into Canada for personal use, but documentation and quantity limits may apply.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry prescriptions or documentation.",
+      "Keep medication in original packaging."
+    ],
+    "exceptions": [
+      "Controlled drugs have stricter limits.",
+      "Certain substances may be restricted."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Rules depend on the specific medication."
+    },
+    "enforcement": "Border officers may inspect medication and verify documentation.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Health Canada guidance",
+      "CBSA rules"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "canada-bringing-food-into-country",
+    "query": "can you bring food into canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Some food items can be brought into Canada, but strict agricultural restrictions apply to many products.",
+    "conditions": [
+      "All food must be declared.",
+      "Certain items are restricted or prohibited.",
+      "Inspection may be required."
+    ],
+    "exceptions": [
+      "Packaged foods are more likely to be allowed.",
+      "Fresh and animal products are often restricted."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Not specified",
+      "notes": "Agricultural rules are strictly enforced."
+    },
+    "enforcement": "CBSA inspects food items at border entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBSA guidance",
+      "Canadian food import regulations"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "canada-carrying-tobacco",
+    "query": "how much tobacco can you bring into canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Tobacco can be brought into Canada within duty-free limits, but taxes apply above allowances.",
+    "conditions": [
+      "Federal limits apply.",
+      "Items must be for personal use.",
+      "Exceeding limits requires duty payment."
+    ],
+    "exceptions": [
+      "Higher quantities may be taxed.",
+      "Provincial rules may vary."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance may result in seizure."
+    },
+    "enforcement": "Border officers enforce tobacco import limits.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBSA tobacco rules",
+      "Canadian customs law"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "canada-bringing-electronics",
+    "query": "can you bring electronics into canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Personal electronics can be brought into Canada, but high-value items may be subject to duty.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Duty may apply above allowances."
+    ],
+    "exceptions": [
+      "Commercial imports require documentation.",
+      "New items may be taxed."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare can lead to penalties."
+    },
+    "enforcement": "Customs officers may inspect goods and enforce declaration rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBSA guidance",
+      "Canadian customs law"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "canada-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Prescription drugs can be brought into Canada for personal use if properly documented.",
+    "conditions": [
+      "Carry a prescription or doctor’s note.",
+      "Keep medication in original packaging.",
+      "Only bring reasonable quantities."
+    ],
+    "exceptions": [
+      "Controlled substances have stricter rules.",
+      "Certain drugs may be prohibited."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Strict rules apply to controlled drugs."
+    },
+    "enforcement": "Border officers may inspect medication and verify documentation.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Health Canada guidance",
+      "CBSA rules"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "canada-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Some weapons can be brought into Canada under strict regulations, but many are prohibited.",
+    "conditions": [
+      "Firearms must be declared and registered.",
+      "Permits may be required.",
+      "Airline rules must be followed."
+    ],
+    "exceptions": [
+      "Prohibited weapons cannot be imported.",
+      "Certain sporting equipment may be allowed."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible imprisonment",
+      "notes": "Strict weapons laws apply."
+    },
+    "enforcement": "Border services strictly enforce weapon import laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian firearms law",
+      "CBSA guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "canada-customs-declaration-required",
+    "query": "do you need to declare items at canada customs",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Travelers must declare certain goods when entering Canada, especially items exceeding limits or restricted goods.",
+    "conditions": [
+      "Declare all goods above allowances.",
+      "Complete customs declaration forms accurately.",
+      "Declare food, cash, and restricted items."
+    ],
+    "exceptions": [
+      "Personal goods within limits may not require declaration.",
+      "Certain items must always be declared."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations can lead to penalties."
+    },
+    "enforcement": "CBSA officers verify declarations and inspect luggage.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBSA customs rules",
+      "Canadian border regulations"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "canada-duty-free-limits",
+    "query": "what are duty free limits in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply when entering Canada, covering alcohol, tobacco, and other goods within set limits.",
+    "conditions": [
+      "Allowances depend on length of absence.",
+      "Goods must be for personal use.",
+      "Exceeding limits requires duty payment."
+    ],
+    "exceptions": [
+      "Short trips have lower allowances.",
+      "Commercial goods are excluded."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance leads to penalties."
+    },
+    "enforcement": "Customs checks ensure compliance with duty-free limits.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBSA duty-free rules",
+      "Canadian customs law"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

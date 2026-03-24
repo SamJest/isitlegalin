@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Hong Kong,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

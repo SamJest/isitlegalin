@@ -1,0 +1,222 @@
+[
+{
+"id": "usa-minimum-wage-laws",
+"query": "minimum wage law usa",
+"location": "United States",
+"verdict": "Yes",
+"summary": "The US has a federal minimum wage, but states can set higher rates.",
+"conditions": [
+"Federal minimum wage applies",
+"States may set higher rates",
+"Applies to most employees"
+],
+"exceptions": [
+"Tipped workers have different rules",
+"Some exemptions apply"
+],
+"penalties": {
+"fine": "Fines and back pay",
+"jail": "Possible in serious violations",
+"notes": "Employers must comply with highest applicable rate"
+},
+"enforcement": "Department of Labor enforces wage laws",
+"last_updated": "2026-01-01",
+"sources": [
+"US Department of Labor",
+"Fair Labor Standards Act"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "minimum-wage-laws",
+"label": "Minimum Wage Laws",
+"query_label": "minimum wage legal",
+"action_label": "pay minimum wage",
+"requirement_label": "minimum wage requirement",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"overtime-pay-laws",
+"maximum-working-hours"
+]
+},
+{
+"id": "usa-maximum-working-hours",
+"query": "maximum working hours usa law",
+"location": "United States",
+"verdict": "No",
+"summary": "There is generally no maximum working hours limit in US federal law for adult workers.",
+"conditions": [
+"No federal weekly limit",
+"Employers can set hours",
+"Overtime rules still apply"
+],
+"exceptions": [
+"Some states have additional protections",
+"Certain industries regulated"
+],
+"penalties": {
+"fine": "Applies if overtime laws breached",
+"jail": "Rare",
+"notes": "Focus is on overtime pay rather than limits"
+},
+"enforcement": "Department of Labor enforces wage and hour laws",
+"last_updated": "2026-01-01",
+"sources": [
+"FLSA",
+"US Department of Labor"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "maximum-working-hours",
+"label": "Working Hours Laws",
+"query_label": "working hours legal",
+"action_label": "work hours",
+"requirement_label": "working hours limit",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"minimum-wage-laws",
+"overtime-pay-laws"
+]
+},
+{
+"id": "usa-overtime-pay-laws",
+"query": "is overtime pay required usa",
+"location": "United States",
+"verdict": "Yes",
+"summary": "Overtime pay is required in the US for eligible employees working over 40 hours per week.",
+"conditions": [
+"Applies to non-exempt employees",
+"Time-and-a-half pay required",
+"Threshold is 40 hours per week"
+],
+"exceptions": [
+"Exempt employees not covered",
+"Some roles excluded"
+],
+"penalties": {
+"fine": "Back pay and penalties",
+"jail": "Possible in severe cases",
+"notes": "Strict enforcement of wage violations"
+},
+"enforcement": "Department of Labor enforces overtime rules",
+"last_updated": "2026-01-01",
+"sources": [
+"FLSA",
+"US Department of Labor"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "overtime-pay-laws",
+"label": "Overtime Pay Laws",
+"query_label": "overtime legal",
+"action_label": "pay overtime",
+"requirement_label": "overtime requirement",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"minimum-wage-laws",
+"maximum-working-hours"
+]
+},
+{
+"id": "usa-employment-contract-requirements",
+"query": "is employment contract required usa",
+"location": "United States",
+"verdict": "No",
+"summary": "Employment contracts are not generally required in the US, where most employment is at-will.",
+"conditions": [
+"At-will employment common",
+"Contracts optional",
+"State laws may vary"
+],
+"exceptions": [
+"Union agreements apply",
+"Certain roles require contracts"
+],
+"penalties": {
+"fine": "Not applicable",
+"jail": "Not applicable",
+"notes": "Disputes handled through courts"
+},
+"enforcement": "Employment law enforced through courts and agencies",
+"last_updated": "2026-01-01",
+"sources": [
+"US Employment Law",
+"State laws"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "employment-contract-requirements",
+"label": "Employment Contract Laws",
+"query_label": "employment contract legal",
+"action_label": "provide contract",
+"requirement_label": "contract requirement",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"probation-period-laws",
+"employee-termination-laws"
+]
+},
+{
+"id": "usa-probation-period-laws",
+"query": "probation period law usa",
+"location": "United States",
+"verdict": "Depends",
+"summary": "Probation periods are allowed in the US but are defined by employer policy rather than law.",
+"conditions": [
+"Set by employer",
+"Common in many jobs",
+"Must follow general employment law"
+],
+"exceptions": [
+"No fixed legal requirement",
+"Union rules may differ"
+],
+"penalties": {
+"fine": "Not applicable",
+"jail": "Not applicable",
+"notes": "General protections still apply"
+},
+"enforcement": "Handled through courts if disputes arise",
+"last_updated": "2026-01-01",
+"sources": [
+"US Employment Law",
+"HR guidelines"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "probation-period-laws",
+"label": "Probation Period Laws",
+"query_label": "probation legal",
+"action_label": "set probation",
+"requirement_label": "probation rules",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"employment-contract-requirements",
+"employee-termination-laws"
+]
+}
+]

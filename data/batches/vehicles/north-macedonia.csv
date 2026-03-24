@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,North Macedonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,222 @@
+[
+{
+"id": "canada-vpn-legality",
+"query": "is vpn legal in canada",
+"location": "Canada",
+"verdict": "Yes",
+"summary": "Using a VPN is legal in Canada, but it does not make illegal online activity lawful.",
+"conditions": [
+"VPN use is permitted for privacy",
+"Illegal activities remain illegal",
+"Providers must comply with Canadian law"
+],
+"exceptions": [
+"Using VPN to bypass contractual terms may breach agreements",
+"Some workplaces restrict VPN use"
+],
+"penalties": {
+"fine": "Depends on underlying offence",
+"jail": "Depends on underlying offence",
+"notes": "VPN itself is not penalised"
+},
+"enforcement": "Authorities target illegal conduct rather than VPN usage itself",
+"last_updated": "2026-01-01",
+"sources": [
+"Canadian law",
+"CRTC guidance"
+],
+"country": {
+"slug": "canada",
+"name": "Canada",
+"region": "North America"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "canada-torrenting-legality",
+"query": "is torrenting legal in canada",
+"location": "Canada",
+"verdict": "Depends",
+"summary": "Torrenting is legal in Canada, but sharing copyrighted content without permission is illegal.",
+"conditions": [
+"Legal for non-copyrighted files",
+"Illegal for pirated content",
+"Notice-and-notice system applies"
+],
+"exceptions": [
+"Open-source files are allowed",
+"Licensed content is legal"
+],
+"penalties": {
+"fine": "Statutory damages capped in some cases",
+"jail": "Rare",
+"notes": "Primarily civil enforcement"
+},
+"enforcement": "ISPs forward notices from rights holders",
+"last_updated": "2026-01-01",
+"sources": [
+"Canadian Copyright Act",
+"CRTC"
+],
+"country": {
+"slug": "canada",
+"name": "Canada",
+"region": "North America"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "canada-streaming-pirated-content",
+"query": "is streaming pirated content legal in canada",
+"location": "Canada",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in Canada as it involves accessing copyrighted material without permission.",
+"conditions": [
+"Applies to films, TV and sports",
+"Includes live and on-demand streams",
+"Copyright protections apply"
+],
+"exceptions": [
+"Licensed services are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "Fines or damages possible",
+"jail": "Rare",
+"notes": "Focus is often on providers"
+},
+"enforcement": "Authorities and rights holders target illegal platforms",
+"last_updated": "2026-01-01",
+"sources": [
+"Canadian Copyright Act",
+"Industry Canada"
+],
+"country": {
+"slug": "canada",
+"name": "Canada",
+"region": "North America"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "canada-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in canada",
+"location": "Canada",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in Canada under copyright law.",
+"conditions": [
+"Applies to copyrighted works",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Damages capped for non-commercial use",
+"jail": "Rare",
+"notes": "Civil enforcement common"
+},
+"enforcement": "Rights holders may pursue legal action",
+"last_updated": "2026-01-01",
+"sources": [
+"Canadian Copyright Act",
+"CRTC"
+],
+"country": {
+"slug": "canada",
+"name": "Canada",
+"region": "North America"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "canada-online-gambling-legality",
+"query": "is online gambling legal in canada",
+"location": "Canada",
+"verdict": "Depends",
+"summary": "Online gambling is regulated at the provincial level in Canada, with some provinces offering legal platforms.",
+"conditions": [
+"Provincial regulation applies",
+"Licensed operators required",
+"Age restrictions enforced"
+],
+"exceptions": [
+"Offshore sites exist in grey areas",
+"Some provinces restrict access"
+],
+"penalties": {
+"fine": "Varies by province",
+"jail": "Possible for illegal operators",
+"notes": "Players rarely targeted"
+},
+"enforcement": "Handled by provincial regulators",
+"last_updated": "2026-01-01",
+"sources": [
+"Provincial gaming laws",
+"Canadian Criminal Code"
+],
+"country": {
+"slug": "canada",
+"name": "Canada",
+"region": "North America"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

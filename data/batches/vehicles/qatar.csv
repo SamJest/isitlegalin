@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Qatar,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

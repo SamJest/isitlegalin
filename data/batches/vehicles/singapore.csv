@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Singapore,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

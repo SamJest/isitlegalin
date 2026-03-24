@@ -1,0 +1,412 @@
+[
+  {
+    "id": "japan-speeding",
+    "query": "is speeding illegal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Speeding is illegal in Japan and is strictly enforced with cameras and police patrols.",
+    "conditions": [
+      "Speed limits vary by road type",
+      "Urban areas have low limits",
+      "Excessive speeding leads to harsher penalties"
+    ],
+    "exceptions": [
+      "Emergency vehicles on duty",
+      "Limited enforcement discretion"
+    ],
+    "penalties": {
+      "fine": "Fines depending on severity",
+      "jail": "Possible for serious offences",
+      "notes": "Points added to licence"
+    },
+    "enforcement": "Speed cameras and roadside enforcement are common across Japan.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese road traffic law",
+      "National police agency guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "drink-driving"]
+  },
+  {
+    "id": "japan-driving-without-license",
+    "query": "is it illegal to drive without a license in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Driving without a valid licence in Japan is illegal and treated as a serious offence.",
+    "conditions": [
+      "Drivers must hold a valid licence",
+      "Foreign licences must be recognised",
+      "Driving while banned increases penalties"
+    ],
+    "exceptions": [
+      "Learner drivers with supervision",
+      "Short-term international permit use"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Criminal offence in many cases"
+    },
+    "enforcement": "Police verify licence status during stops and investigations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese traffic law",
+      "Police enforcement guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "japan-drink-driving",
+    "query": "is drink driving illegal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Drink driving is illegal in Japan with very strict penalties and low tolerance levels.",
+    "conditions": [
+      "Very low alcohol limits apply",
+      "Passengers can also be penalised",
+      "Applies to all drivers"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "Strict enforcement applies"
+    ],
+    "penalties": {
+      "fine": "High fines",
+      "jail": "Possible imprisonment",
+      "notes": "Severe penalties compared to many countries"
+    },
+    "enforcement": "Police conduct regular roadside alcohol checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese road traffic law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "japan-using-phone-driving",
+    "query": "is using your phone while driving illegal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal in Japan and strictly enforced.",
+    "conditions": [
+      "Handheld phone use is banned",
+      "Applies to calls and messaging",
+      "Drivers must stop to use devices"
+    ],
+    "exceptions": [
+      "Hands-free systems allowed",
+      "Emergency calls may be considered"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible in serious cases",
+      "notes": "Points added to licence"
+    },
+    "enforcement": "Police and cameras monitor distracted driving violations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese traffic law",
+      "Road safety guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "japan-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Driving without mandatory insurance is illegal in Japan and subject to penalties.",
+    "conditions": [
+      "Compulsory insurance is required",
+      "Applies to all vehicles",
+      "Proof must be maintained"
+    ],
+    "exceptions": [
+      "None for public road use",
+      "Special exemptions are rare"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible imprisonment",
+      "notes": "Vehicle may be seized"
+    },
+    "enforcement": "Authorities verify insurance through registration checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese insurance law",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "driving-without-registration"]
+  },
+  {
+    "id": "japan-driving-without-registration",
+    "query": "is it illegal to drive without registration in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in Japan and can lead to fines and penalties.",
+    "conditions": [
+      "Vehicles must be registered",
+      "Registration must be valid",
+      "Number plates must be displayed"
+    ],
+    "exceptions": [
+      "Temporary permits",
+      "Short grace periods"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible in serious cases",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Police and systems verify registration status regularly.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese vehicle law",
+      "Transport authority"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "japan-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Seatbelt use is mandatory in Japan for drivers and passengers.",
+    "conditions": [
+      "Seatbelts must be worn if available",
+      "Applies to front and rear seats",
+      "Child safety rules apply"
+    ],
+    "exceptions": [
+      "Medical exemptions",
+      "Certain vehicle types"
+    ],
+    "penalties": {
+      "fine": "Fines or points",
+      "jail": "Not typical",
+      "notes": "Enforcement is consistent"
+    },
+    "enforcement": "Police enforce seatbelt laws through routine stops.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese road traffic law",
+      "Safety regulations"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "japan-driving-on-sidewalk",
+    "query": "is it illegal to drive on the sidewalk in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Driving on sidewalks is illegal in Japan except for specific access purposes.",
+    "conditions": [
+      "Sidewalks are for pedestrians",
+      "Driving is restricted",
+      "Must use designated access points"
+    ],
+    "exceptions": [
+      "Accessing property",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "May be treated as unsafe driving"
+    },
+    "enforcement": "Police enforce based on safety and local rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese traffic law",
+      "Municipal regulations"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-on-sidewalk",
+      "label": "Driving on Sidewalk",
+      "query_label": "drive on sidewalk legality",
+      "action_label": "drive on sidewalk",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "japan-dangerous-driving",
+    "query": "what is dangerous driving in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Dangerous driving is illegal in Japan and includes behaviour that endangers others.",
+    "conditions": [
+      "Reckless or aggressive driving",
+      "Putting others at risk",
+      "Includes excessive speeding"
+    ],
+    "exceptions": [
+      "Emergency services in duty",
+      "None for normal drivers"
+    ],
+    "penalties": {
+      "fine": "High fines",
+      "jail": "Possible imprisonment",
+      "notes": "Serious criminal offence"
+    },
+    "enforcement": "Police investigate incidents and enforce based on behaviour.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese criminal code",
+      "Traffic law guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "japan-driving-without-shaken",
+    "query": "is it illegal to drive without shaken in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Driving without a valid shaken (vehicle inspection) is illegal in Japan.",
+    "conditions": [
+      "Vehicles must pass periodic inspections",
+      "Inspection must be current",
+      "Applies to most vehicles"
+    ],
+    "exceptions": [
+      "New vehicles within initial period",
+      "Driving to inspection appointment"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible in serious cases",
+      "notes": "Vehicle may be prohibited from use"
+    },
+    "enforcement": "Authorities verify inspection status through registration systems.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese vehicle inspection law",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-shaken",
+      "label": "Driving Without Shaken",
+      "query_label": "vehicle inspection legality",
+      "action_label": "drive without inspection",
+      "requirement_label": "valid inspection required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "driving-without-insurance"]
+  }
+]

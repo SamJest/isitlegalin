@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,Canada,restricted,"Batons are not outright banned in Canada, but carrying one for self-defence can make it an illegal weapon.",self-defence-weapons
+carry a kubotan,Canada,restricted,Kubotans are generally legal as everyday items but carrying one as a weapon can make it illegal,self-defence-weapons
+carry a self-defence keychain,Canada,restricted,"Self-defence keychains may be legal if they are ordinary items, but weaponised versions can be treated as prohibited weapons.",self-defence-weapons
+carry a sword in public,Canada,restricted,Carrying a sword in public is legal in Canada only if there is a legitimate reason and no intent to use it as a weapon.,self-defence-weapons
+carry a taser,Canada,illegal,Tasers are prohibited weapons in Canada and are not legal for civilian ownership.,self-defence-weapons
+carry pepper spray,Canada,restricted,Pepper spray for use against humans is generally prohibited in Canada,self-defence-weapons
+own a switchblade,Canada,illegal,Switchblades are prohibited in Canada and cannot be legally owned or imported.,self-defence-weapons
+possess a butterfly knife,Canada,illegal,Butterfly knives are considered prohibited weapons in Canada and are illegal to possess.,self-defence-weapons
+possess a stun gun,Canada,illegal,Stun guns are prohibited weapons in Canada and cannot be legally possessed by civilians.,self-defence-weapons
+possess brass knuckles,Canada,illegal,Brass knuckles are prohibited weapons in Canada and cannot be legally owned or carried.,self-defence-weapons

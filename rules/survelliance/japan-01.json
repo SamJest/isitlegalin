@@ -1,0 +1,442 @@
+[
+  {
+    "id": "japan-cctv-home",
+    "query": "is home cctv legal in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Home CCTV is generally legal in Japan for security purposes, but privacy laws apply if cameras capture others.",
+    "conditions": [
+      "Cameras should focus on your own property.",
+      "Recording public areas must be reasonable.",
+      "Footage must not be misused."
+    ],
+    "exceptions": [
+      "Recording neighbours’ private areas can lead to disputes.",
+      "Local building rules may apply."
+    ],
+    "penalties": {
+      "fine": "Possible civil liability",
+      "jail": "Not specified",
+      "notes": "Issues usually arise from privacy violations."
+    },
+    "enforcement": "Complaints are typically handled through civil or local dispute resolution.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Act on the Protection of Personal Information",
+      "General privacy principles"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "japan-cctv-business",
+    "query": "is business cctv legal in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Businesses in Japan can use CCTV for security, but must comply with data protection and privacy expectations.",
+    "conditions": [
+      "Use must have a legitimate purpose.",
+      "Clear notice should be provided.",
+      "Data must be handled responsibly."
+    ],
+    "exceptions": [
+      "Excessive monitoring may be challenged.",
+      "Sensitive areas must not be recorded."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil claims",
+      "jail": "Not specified",
+      "notes": "Penalties depend on misuse or privacy breaches."
+    },
+    "enforcement": "Authorities and courts handle complaints involving misuse or overreach.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Act on the Protection of Personal Information",
+      "Labor law guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "japan-hidden-cameras",
+    "query": "are hidden cameras legal in japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Hidden cameras are generally illegal in Japan when used to secretly record individuals, especially in private spaces.",
+    "conditions": [
+      "Secret recording without consent is prohibited.",
+      "Privacy must not be violated.",
+      "Use must not exploit individuals."
+    ],
+    "exceptions": [
+      "Law enforcement may operate under specific authority.",
+      "Limited investigative use may exist in rare cases."
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict laws exist against covert filming."
+    },
+    "enforcement": "Authorities actively prosecute cases involving hidden recording devices.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese criminal law",
+      "Privacy protection laws"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "japan-audio-recording",
+    "query": "is audio recording legal in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Audio recording is generally legal in Japan, including recording conversations you are part of, but misuse can still lead to legal issues.",
+    "conditions": [
+      "You can record conversations you are involved in.",
+      "Recording must not violate privacy expectations.",
+      "Use must not be for unlawful purposes."
+    ],
+    "exceptions": [
+      "Secret recording in private settings may be challenged.",
+      "Publishing recordings may raise legal concerns."
+    ],
+    "penalties": {
+      "fine": "Possible civil liability",
+      "jail": "Not specified",
+      "notes": "Legal issues usually arise from misuse rather than recording itself."
+    },
+    "enforcement": "Disputes are typically handled through civil law.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese legal principles",
+      "Privacy law guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "japan-video-recording-public",
+    "query": "is it legal to record video in public in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Recording video in public is generally allowed in Japan, but privacy and harassment laws still apply.",
+    "conditions": [
+      "Filming in public is generally permitted.",
+      "Recording must not target individuals inappropriately.",
+      "Use of footage must respect privacy."
+    ],
+    "exceptions": [
+      "Filming in restricted or sensitive areas may be prohibited.",
+      "Recording minors or vulnerable individuals may raise issues."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil claims",
+      "jail": "Possible in serious cases",
+      "notes": "Penalties relate to misuse or harassment."
+    },
+    "enforcement": "Authorities intervene if recording leads to complaints or harassment.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese criminal law",
+      "Public order regulations"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "japan-recording-police",
+    "query": "is it legal to record police in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Recording police in public is generally allowed in Japan as long as it does not interfere with their duties.",
+    "conditions": [
+      "You must not obstruct police operations.",
+      "Recording should occur in public areas.",
+      "You must follow lawful instructions."
+    ],
+    "exceptions": [
+      "Restricted areas may prohibit recording.",
+      "Interference may lead to legal consequences."
+    ],
+    "penalties": {
+      "fine": "Possible fines for obstruction",
+      "jail": "Possible if interfering with duties",
+      "notes": "Issues arise from behaviour, not recording itself."
+    },
+    "enforcement": "Authorities may act if recording interferes with police work.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese legal principles",
+      "Public order laws"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "japan-drone-surveillance",
+    "query": "is drone surveillance legal in japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Drone use is regulated in Japan, and using drones for surveillance is restricted depending on location and permissions.",
+    "conditions": [
+      "Drone flights must follow aviation rules.",
+      "Restricted zones prohibit flying.",
+      "Recording private property may raise legal issues."
+    ],
+    "exceptions": [
+      "Authorized commercial use may be permitted.",
+      "Designated areas may allow drone operation."
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible in serious violations",
+      "notes": "Both aviation and privacy laws apply."
+    },
+    "enforcement": "Authorities enforce drone laws through inspections and reports.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Civil Aeronautics Act",
+      "Privacy law guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "japan-gps-tracking",
+    "query": "is gps tracking someone legal in japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "GPS tracking in Japan can be legal in some contexts, but tracking someone without consent may violate privacy laws.",
+    "conditions": [
+      "Consent is generally required to track individuals.",
+      "Tracking must not violate privacy rights.",
+      "Use must have a lawful purpose."
+    ],
+    "exceptions": [
+      "Tracking your own property may be allowed.",
+      "Law enforcement may track under authority."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil claims",
+      "jail": "Possible in serious cases",
+      "notes": "Penalties depend on misuse and intent."
+    },
+    "enforcement": "Authorities act when tracking is linked to harassment or illegal activity.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese criminal law",
+      "Privacy protection laws"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "japan-employee-monitoring",
+    "query": "is employee monitoring legal in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Employee monitoring is allowed in Japan but must be reasonable and respect worker privacy rights.",
+    "conditions": [
+      "Monitoring must have a legitimate purpose.",
+      "Employees should be informed.",
+      "Data must be handled securely."
+    ],
+    "exceptions": [
+      "Excessive monitoring may be challenged legally.",
+      "Sensitive areas must not be monitored."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Not specified",
+      "notes": "Penalties relate to misuse or excessive surveillance."
+    },
+    "enforcement": "Labor disputes and complaints may trigger investigations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese labor law",
+      "Privacy law guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "japan-phone-call-recording",
+    "query": "is recording phone calls legal in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Recording phone calls is generally legal in Japan if you are a participant in the conversation, but misuse can create legal risks.",
+    "conditions": [
+      "You can record calls you are part of.",
+      "Use must not violate privacy rights.",
+      "Publishing recordings may require caution."
+    ],
+    "exceptions": [
+      "Secret recording for harmful purposes may be illegal.",
+      "Business recordings may require disclosure."
+    ],
+    "penalties": {
+      "fine": "Possible civil liability",
+      "jail": "Not specified",
+      "notes": "Issues arise from misuse rather than recording itself."
+    },
+    "enforcement": "Disputes are typically handled through civil proceedings.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese legal principles",
+      "Privacy law guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

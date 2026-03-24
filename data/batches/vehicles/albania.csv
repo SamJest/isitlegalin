@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Albania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

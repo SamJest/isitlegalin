@@ -1,0 +1,222 @@
+[
+{
+"id": "uae-vpn-legality",
+"query": "is vpn legal in uae",
+"location": "United Arab Emirates",
+"verdict": "Depends",
+"summary": "Using a VPN is legal in the UAE, but using it to commit a crime or bypass restrictions is illegal.",
+"conditions": [
+"VPN use is permitted for legitimate purposes",
+"Illegal if used to access banned content",
+"Must comply with UAE cybercrime laws"
+],
+"exceptions": [
+"Corporate VPNs are commonly used legally",
+"Bypassing VoIP restrictions may be penalised"
+],
+"penalties": {
+"fine": "Heavy fines possible",
+"jail": "Possible for misuse",
+"notes": "Penalties depend on intent and usage"
+},
+"enforcement": "Authorities actively monitor misuse of VPN services",
+"last_updated": "2026-01-01",
+"sources": [
+"UAE Cybercrime Law",
+"TRA UAE"
+],
+"country": {
+"slug": "uae",
+"name": "United Arab Emirates",
+"region": "Middle East"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "uae-torrenting-legality",
+"query": "is torrenting legal in uae",
+"location": "United Arab Emirates",
+"verdict": "No",
+"summary": "Torrenting copyrighted content is illegal in the UAE and strictly enforced.",
+"conditions": [
+"Applies to copyrighted material",
+"File sharing without permission is illegal",
+"Strict cybercrime laws apply"
+],
+"exceptions": [
+"Non-copyrighted files may be legal",
+"Licensed downloads are allowed"
+],
+"penalties": {
+"fine": "Significant fines possible",
+"jail": "Possible",
+"notes": "Strict enforcement compared to many countries"
+},
+"enforcement": "Authorities actively enforce copyright violations",
+"last_updated": "2026-01-01",
+"sources": [
+"UAE Copyright Law",
+"Cybercrime Law"
+],
+"country": {
+"slug": "uae",
+"name": "United Arab Emirates",
+"region": "Middle East"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "uae-streaming-pirated-content",
+"query": "is streaming pirated content legal in uae",
+"location": "United Arab Emirates",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in the UAE and can lead to serious penalties.",
+"conditions": [
+"Applies to movies, TV and sports",
+"Includes illegal IPTV services",
+"Covered by cybercrime laws"
+],
+"exceptions": [
+"Licensed platforms are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "High fines possible",
+"jail": "Possible",
+"notes": "Strict penalties compared to many countries"
+},
+"enforcement": "Authorities block and prosecute illegal streaming services",
+"last_updated": "2026-01-01",
+"sources": [
+"UAE Cybercrime Law",
+"TRA UAE"
+],
+"country": {
+"slug": "uae",
+"name": "United Arab Emirates",
+"region": "Middle East"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "uae-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in uae",
+"location": "United Arab Emirates",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in the UAE and subject to strict penalties.",
+"conditions": [
+"Applies to copyrighted media",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Heavy fines",
+"jail": "Possible",
+"notes": "Strict enforcement environment"
+},
+"enforcement": "Authorities actively monitor and enforce violations",
+"last_updated": "2026-01-01",
+"sources": [
+"UAE Copyright Law",
+"Cybercrime Law"
+],
+"country": {
+"slug": "uae",
+"name": "United Arab Emirates",
+"region": "Middle East"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "uae-online-gambling-legality",
+"query": "is online gambling legal in uae",
+"location": "United Arab Emirates",
+"verdict": "No",
+"summary": "Online gambling is illegal in the UAE under strict laws prohibiting gambling activities.",
+"conditions": [
+"Applies to all forms of gambling",
+"Includes online platforms",
+"Gambling is broadly prohibited"
+],
+"exceptions": [
+"No legal exceptions",
+"Foreign sites are still illegal to access"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Strict enforcement under criminal law"
+},
+"enforcement": "Authorities block gambling sites and prosecute offenders",
+"last_updated": "2026-01-01",
+"sources": [
+"UAE Penal Code",
+"Cybercrime Law"
+],
+"country": {
+"slug": "uae",
+"name": "United Arab Emirates",
+"region": "Middle East"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

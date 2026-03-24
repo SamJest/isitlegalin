@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Luxembourg,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Luxembourg,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Luxembourg,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Luxembourg,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Luxembourg,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Luxembourg,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Luxembourg,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Luxembourg,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

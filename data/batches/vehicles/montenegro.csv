@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Montenegro,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

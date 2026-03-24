@@ -1,0 +1,6 @@
+activity,country,legal_status,notes,topic
+download pirated movies,Australia,illegal,Downloading pirated movies is illegal in Australia under copyright law.,digital-laws
+gamble online,Australia,restricted,"Online gambling is partially legal in Australia, with strict restrictions on certain types like online casinos.",digital-laws
+stream pirated content,Australia,illegal,Streaming pirated content is illegal in Australia and subject to copyright enforcement,digital-laws
+torrent files,Australia,restricted,"Torrenting is legal in Australia, but downloading or sharing copyrighted content without permission is illegal.",digital-laws
+use a vpn,Australia,legal,VPN use is legal in Australia but cannot be used for illegal activity,digital-laws

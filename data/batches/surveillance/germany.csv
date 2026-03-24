@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Germany,restricted,"Recording police in Germany is allowed in some situations, but sharing or distributing footage without consent can be restricted.",surveillance
+installing home cctv,Germany,restricted,"Home CCTV is allowed in Germany in limited situations, but strict privacy laws apply, especially if cameras capture public spaces or neighbouring property.",surveillance
+monitoring staff,Germany,restricted,"Employee monitoring is allowed in Germany only under strict conditions, with strong protections for worker privacy.",surveillance
+recording conversations,Germany,illegal,"Recording private conversations without consent is illegal in Germany, even if you are part of the conversation.",surveillance
+recording people in public,Germany,restricted,"Recording video in public is restricted in Germany, especially if individuals can be identified, due to strong privacy protections.",surveillance
+recording phone calls,Germany,illegal,Recording phone calls without consent from all parties is illegal in Germany.,surveillance
+tracking a person or vehicle,Germany,illegal,GPS tracking another person without their consent is generally illegal in Germany due to strong privacy protections.,surveillance
+using camera drones,Germany,restricted,"Drone use is legal in Germany under strict aviation and privacy rules, but using drones for surveillance can be heavily restricted.",surveillance
+using cctv in business,Germany,restricted,"Business CCTV is allowed in Germany only under strict conditions, including necessity, transparency, and compliance with data protection laws.",surveillance
+using hidden cameras,Germany,illegal,"Hidden cameras are generally illegal in Germany, especially when used to secretly record people without their knowledge or consent.",surveillance

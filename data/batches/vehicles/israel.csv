@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Israel,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

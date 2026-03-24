@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

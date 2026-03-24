@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Cambodia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

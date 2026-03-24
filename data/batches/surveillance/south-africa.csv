@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,South Africa,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,South Africa,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,South Africa,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,South Africa,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,South Africa,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,South Africa,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,South Africa,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,South Africa,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

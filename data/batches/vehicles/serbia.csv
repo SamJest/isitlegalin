@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Serbia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

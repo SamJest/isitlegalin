@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Algeria,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Algeria,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Algeria,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Algeria,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Algeria,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Algeria,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Algeria,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Algeria,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Algeria,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "usa-cctv-home",
+    "query": "is home cctv legal in the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Home CCTV is generally legal in the United States, especially when it is used to monitor your own property. Problems usually arise when cameras record places where people reasonably expect privacy.",
+    "conditions": [
+      "Cameras should mainly monitor your own home, driveway, or yard.",
+      "Recording areas visible from public space is usually allowed.",
+      "Audio recording may be subject to stricter consent rules than video."
+    ],
+    "exceptions": [
+      "Bathrooms, bedrooms, and similar private spaces are highly sensitive.",
+      "State laws can vary, especially where sound is recorded."
+    ],
+    "penalties": {
+      "fine": "Possible civil damages or criminal penalties in some cases",
+      "jail": "Possible in serious privacy violations",
+      "notes": "The biggest risk is unlawful intrusion into private areas rather than ordinary outdoor security use."
+    },
+    "enforcement": "Enforcement usually happens after complaints, police reports, or civil lawsuits over privacy invasion.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State privacy and surveillance laws",
+      "Federal and state wiretapping guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "usa-cctv-business",
+    "query": "is business cctv legal in the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Business CCTV is generally legal in the United States for security, theft prevention, and safety. Employers still need to avoid recording in places where staff or customers expect privacy.",
+    "conditions": [
+      "Cameras can usually be used in public-facing business areas.",
+      "Monitoring should have a legitimate business purpose.",
+      "Sensitive private areas should not be recorded."
+    ],
+    "exceptions": [
+      "Hidden recording in locker rooms or restrooms can be illegal.",
+      "Audio capture may trigger separate consent requirements under state law."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability depending on the state",
+      "jail": "Possible for unlawful surveillance in private areas",
+      "notes": "Liability often turns on where the camera is placed and whether sound is captured."
+    },
+    "enforcement": "Complaints from employees, customers, or regulators are the most common trigger for enforcement.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State workplace privacy laws",
+      "General employer surveillance guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "usa-hidden-cameras",
+    "query": "are hidden cameras legal in the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Hidden cameras can be legal in some situations in the United States, but they become risky or illegal when they record people in private spaces. State law and the location of the recording matter a lot.",
+    "conditions": [
+      "Use in areas without a strong expectation of privacy is more likely to be lawful.",
+      "Recording must not intrude into private living or changing spaces.",
+      "Audio recording can create extra legal exposure."
+    ],
+    "exceptions": [
+      "Law enforcement activity may follow separate rules.",
+      "Some states take a stricter view of covert recording than others."
+    ],
+    "penalties": {
+      "fine": "Possible criminal fines or civil damages",
+      "jail": "Possible for serious or repeated violations",
+      "notes": "Secret recording in private places carries the highest risk."
+    },
+    "enforcement": "Cases are often enforced after discovery by the recorded person or after police investigate a privacy complaint.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State invasion of privacy laws",
+      "General surveillance offense guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "usa-audio-recording",
+    "query": "is audio recording legal in the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Audio recording laws in the United States vary by state. Some states allow one-party consent, while others require all or nearly all parties to consent.",
+    "conditions": [
+      "Consent rules depend on state law.",
+      "The setting and privacy expectation matter.",
+      "Recording for illegal or abusive purposes can create separate offenses."
+    ],
+    "exceptions": [
+      "Public conversations may have less privacy protection.",
+      "Interstate calls can raise added complexity if states have different consent rules."
+    ],
+    "penalties": {
+      "fine": "Possible fines and civil damages",
+      "jail": "Possible under state or federal wiretapping laws",
+      "notes": "The main legal issue is whether the required consent was obtained."
+    },
+    "enforcement": "Enforcement can come through criminal complaints, lawsuits, or disputes where a recording is later revealed.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Federal wiretap law",
+      "State consent-to-record laws"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "usa-video-recording-public",
+    "query": "is it legal to record video in public in the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Recording video in public is generally legal in the United States. The main limits usually involve harassment, stalking, trespass, or filming where privacy is reasonably expected.",
+    "conditions": [
+      "Recording in streets, parks, and other public places is usually permitted.",
+      "The person filming must still obey trespass and safety rules.",
+      "Using recordings for unlawful harassment can create separate liability."
+    ],
+    "exceptions": [
+      "Restricted government or private property may have its own rules.",
+      "Recording children or vulnerable people can attract greater scrutiny depending on context."
+    ],
+    "penalties": {
+      "fine": "Usually tied to related offenses such as trespass or harassment",
+      "jail": "Possible if linked to stalking or other crimes",
+      "notes": "Video recording itself is usually lawful, but surrounding conduct matters."
+    },
+    "enforcement": "Police intervention typically relates to disorderly conduct, trespass, or threatening behavior rather than filming alone.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "First Amendment recording principles",
+      "State privacy and public recording guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "usa-recording-police",
+    "query": "is it legal to record police in the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Recording police in public is generally legal in the United States as long as you do not interfere with their duties. This protection is strongest in public spaces and during lawful observation.",
+    "conditions": [
+      "You must keep a reasonable distance and not obstruct officers.",
+      "Recording is strongest when the police activity is in public view.",
+      "You still need to follow lawful orders related to safety or scene control."
+    ],
+    "exceptions": [
+      "Restricted facilities or secured areas can be treated differently.",
+      "Interference with an active scene may lead to separate charges."
+    ],
+    "penalties": {
+      "fine": "Usually linked to obstruction or related offenses, not filming itself",
+      "jail": "Possible if a person interferes with police operations",
+      "notes": "The legal risk usually comes from conduct during recording rather than the act of recording."
+    },
+    "enforcement": "Disputes often arise on the street, but courts generally recognize a broad right to record police in public.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "US constitutional case law on public recording",
+      "Civil liberties guidance on filming police"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "usa-drone-surveillance",
+    "query": "is drone surveillance legal in the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Using a camera drone is legal in much of the United States, but privacy, airspace, and local use restrictions all matter. Flying legally does not automatically mean surveillance is lawful in every setting.",
+    "conditions": [
+      "Drone use must comply with federal aviation rules.",
+      "Flights should avoid restricted airspace and unsafe operation.",
+      "Using drones to spy into private spaces can create privacy liability."
+    ],
+    "exceptions": [
+      "Some states and cities impose extra restrictions on drone surveillance.",
+      "Commercial use may require additional compliance."
+    ],
+    "penalties": {
+      "fine": "Possible aviation penalties or privacy-related fines",
+      "jail": "Possible in serious criminal misuse cases",
+      "notes": "Drone cases can involve both flight-rule violations and privacy complaints."
+    },
+    "enforcement": "Enforcement may come from aviation authorities, local police, or civil claims from affected property owners.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "FAA drone rules",
+      "State drone privacy laws"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "usa-gps-tracking",
+    "query": "is gps tracking someone legal in the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "GPS tracking in the United States can be lawful in limited situations, but tracking another person without permission often creates legal risk. The relationship to the vehicle or device matters a lot.",
+    "conditions": [
+      "Tracking your own vehicle or a company asset is more likely to be lawful.",
+      "Tracking another adult without consent can be restricted by state law.",
+      "Use connected to stalking or harassment can be criminal."
+    ],
+    "exceptions": [
+      "Parents may have broader authority over minor children in some contexts.",
+      "Employers may track business vehicles with notice and a valid purpose."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible if tied to stalking or unlawful surveillance",
+      "notes": "Penalties often increase where tracking is secretive, repeated, or abusive."
+    },
+    "enforcement": "Police and courts tend to focus on covert tracking tied to domestic abuse, stalking, or workplace disputes.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State GPS tracking laws",
+      "General anti-stalking statutes"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "usa-employee-monitoring",
+    "query": "is employee monitoring legal in the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Employee monitoring is generally legal in the United States when it serves a legitimate business purpose. It becomes more sensitive when it is hidden, excessive, or used in private spaces.",
+    "conditions": [
+      "Monitoring should relate to security, productivity, or compliance.",
+      "Notice to employees is strongly recommended and often expected.",
+      "Private areas such as restrooms or changing rooms should not be monitored."
+    ],
+    "exceptions": [
+      "State laws may provide stronger employee privacy protections.",
+      "Unionized or regulated workplaces may have extra rules."
+    ],
+    "penalties": {
+      "fine": "Possible regulatory action or civil claims",
+      "jail": "Not specified",
+      "notes": "Most legal exposure comes from invasive monitoring or unlawful audio recording."
+    },
+    "enforcement": "Disputes are commonly handled through labor complaints, privacy claims, or employment litigation.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "US workplace privacy guidance",
+      "State labor and surveillance rules"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "usa-phone-call-recording",
+    "query": "is recording phone calls legal in the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Recording phone calls is legal in some parts of the United States with one-party consent, but other states require everyone on the call to agree. The law can become more complicated when calls cross state lines.",
+    "conditions": [
+      "Consent requirements depend on the state involved.",
+      "Business recording may require notice to callers.",
+      "Secret recording without the required consent can be unlawful."
+    ],
+    "exceptions": [
+      "Customer service lines often rely on advance notice messages.",
+      "Interstate calls can create uncertainty if state rules differ."
+    ],
+    "penalties": {
+      "fine": "Possible fines and civil damages",
+      "jail": "Possible under state or federal recording laws",
+      "notes": "The core issue is whether the legally required level of consent was obtained."
+    },
+    "enforcement": "Phone recording cases often surface during disputes, employment claims, or family conflicts when a recording is produced later.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Federal wiretap law",
+      "State phone recording consent laws"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Latvia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Latvia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Latvia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Latvia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Latvia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Latvia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Latvia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Latvia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

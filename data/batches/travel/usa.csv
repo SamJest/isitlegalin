@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,United States,legal,Alcohol can be brought into the United States but limits apply and state law can matter,travel
+bring food into a country,United States,restricted,Many food items can be brought into the United States but agricultural restrictions apply to some products,travel
+bringing cash into a country,United States,restricted,"There is no limit on bringing cash into the USA, but amounts over $10,000 must be declared.",travel
+bringing duty free goods,United States,legal,"Duty-free allowances apply when entering the USA, covering alcohol, tobacco, and other goods within set limits.",travel
+bringing electronics into a country,United States,legal,"Personal electronics can be brought into the USA, but high-value items may be subject to duty or inspection.",travel
+bringing medication into a country,United States,legal,"Medication can be brought into the USA for personal use, but controlled substances are strictly regulated.",travel
+bringing tobacco into a country,United States,legal,"Tobacco can be brought into the USA within federal duty-free limits, though state rules may vary.",travel
+bringing weapons in luggage,United States,restricted,"Certain weapons may be transported into the USA under strict rules, but many items are prohibited or heavily regulated.",travel
+carrying prescription drugs,United States,legal,Prescription drugs can be brought into the USA for personal use with proper documentation.,travel
+declaring goods at customs,United States,legal,"Travelers entering the USA must declare certain goods, especially those exceeding allowances or restricted items.",travel

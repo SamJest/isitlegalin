@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Portugal,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Portugal,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Portugal,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Portugal,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Portugal,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Portugal,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Portugal,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Portugal,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

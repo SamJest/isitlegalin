@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Germany,illegal,Dangerous driving is illegal in Germany and includes behaviour that endangers others on the road.,vehicles
+drive on footpath,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Germany,illegal,Driving on pavements is illegal in Germany except when accessing property or permitted areas.,vehicles
+drive on sidewalk,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Germany,illegal,"Speeding is illegal in Germany wherever limits apply, though some Autobahn sections have no fixed limit.",vehicles
+drive recklessly,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Germany,illegal,Drink driving is illegal in Germany above strict blood alcohol limits and is heavily penalised.,vehicles
+drive uninsured,Germany,illegal,Driving without mandatory insurance is illegal in Germany and treated as a serious offence.,vehicles
+drive with expired licence,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Germany,illegal,Driving without a valid TÜV inspection is illegal in Germany and can lead to fines and restrictions.,vehicles
+drive without licence,Germany,illegal,Driving without a valid licence is illegal in Germany and considered a serious offence.,vehicles
+drive without MOT,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Germany,illegal,Driving an unregistered vehicle is illegal in Germany and can result in fines and penalties.,vehicles
+drive without tax,Germany,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Germany,illegal,Wearing a seatbelt is mandatory in Germany for drivers and passengers.,vehicles
+use phone while driving,Germany,illegal,Using a handheld phone while driving is illegal in Germany unless the engine is fully off.,vehicles

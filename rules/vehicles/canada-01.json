@@ -1,0 +1,412 @@
+[
+  {
+    "id": "canada-speeding",
+    "query": "is speeding illegal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Speeding is illegal in Canada, with limits and penalties set by each province and territory.",
+    "conditions": [
+      "Speed limits vary by province and road type",
+      "Construction and school zones have stricter limits",
+      "Excessive speeding can lead to harsher penalties"
+    ],
+    "exceptions": [
+      "Emergency vehicles responding to incidents",
+      "Limited police discretion"
+    ],
+    "penalties": {
+      "fine": "Varies by province",
+      "jail": "Possible for extreme cases",
+      "notes": "Demerit points often apply"
+    },
+    "enforcement": "Police and speed cameras enforce limits depending on the region.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Provincial traffic laws",
+      "Transport Canada guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["drink-driving", "driving-without-license"]
+  },
+  {
+    "id": "canada-driving-without-license",
+    "query": "is it illegal to drive without a license in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Driving without a valid licence is illegal across Canada and enforced at the provincial level.",
+    "conditions": [
+      "Drivers must hold a valid provincial licence",
+      "Learners must follow restrictions",
+      "Suspended licences increase penalties"
+    ],
+    "exceptions": [
+      "Learner permits with supervision",
+      "Certain remote area allowances may exist"
+    ],
+    "penalties": {
+      "fine": "Varies by province",
+      "jail": "Possible for repeat offences",
+      "notes": "Licence suspension likely"
+    },
+    "enforcement": "Police check licences during traffic stops and database queries.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Provincial motor vehicle laws",
+      "Government transport guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "canada-drink-driving",
+    "query": "is drink driving illegal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Driving under the influence of alcohol is illegal in Canada and is strictly enforced nationwide.",
+    "conditions": [
+      "Legal blood alcohol limits apply",
+      "Applies to all drivers",
+      "Lower limits for new drivers in some provinces"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "Medical claims rarely accepted"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Licence suspension common"
+    },
+    "enforcement": "Police conduct roadside checks and sobriety testing across provinces.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian criminal code",
+      "Provincial enforcement guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "canada-using-phone-driving",
+    "query": "is using your phone while driving illegal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal in all Canadian provinces.",
+    "conditions": [
+      "Handheld use is prohibited",
+      "Applies to calls, texting, and apps",
+      "Drivers must pull over safely to use"
+    ],
+    "exceptions": [
+      "Hands-free systems are allowed",
+      "Emergency calls may be permitted"
+    ],
+    "penalties": {
+      "fine": "Varies by province",
+      "jail": "Rare",
+      "notes": "Demerit points usually apply"
+    },
+    "enforcement": "Police actively enforce distracted driving laws with fines and points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Provincial distracted driving laws",
+      "Transport Canada"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "canada-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Driving without insurance is illegal in Canada and carries significant penalties.",
+    "conditions": [
+      "Insurance is mandatory",
+      "Minimum coverage levels apply",
+      "Proof must be carried"
+    ],
+    "exceptions": [
+      "None for public road use",
+      "Special exemptions are rare"
+    ],
+    "penalties": {
+      "fine": "High fines depending on province",
+      "jail": "Possible in serious cases",
+      "notes": "Licence suspension may occur"
+    },
+    "enforcement": "Police check insurance during traffic stops and through databases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Provincial insurance laws",
+      "Government transport guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "speeding"]
+  },
+  {
+    "id": "canada-driving-without-registration",
+    "query": "is it illegal to drive without registration in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in Canada and subject to fines and penalties.",
+    "conditions": [
+      "Vehicles must be registered provincially",
+      "Registration must be current",
+      "Applies on public roads"
+    ],
+    "exceptions": [
+      "Temporary permits",
+      "New vehicle grace periods"
+    ],
+    "penalties": {
+      "fine": "Varies by province",
+      "jail": "Rare",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Police verify registration through plate checks and databases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Provincial vehicle laws",
+      "Transport Canada guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "canada-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Wearing a seatbelt is mandatory in Canada for drivers and passengers.",
+    "conditions": [
+      "Seatbelts must be worn if available",
+      "Drivers are responsible for children",
+      "Applies to most vehicles"
+    ],
+    "exceptions": [
+      "Medical exemptions",
+      "Certain vehicle types"
+    ],
+    "penalties": {
+      "fine": "Varies by province",
+      "jail": "Not typical",
+      "notes": "Demerit points may apply"
+    },
+    "enforcement": "Police enforce seatbelt laws through routine traffic stops.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Provincial road safety laws",
+      "Transport Canada"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "canada-driving-on-sidewalk",
+    "query": "is it illegal to drive on the sidewalk in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Driving on sidewalks is illegal in Canada except for necessary access like driveways.",
+    "conditions": [
+      "Sidewalks are for pedestrians",
+      "Driving is restricted",
+      "Must use designated access points"
+    ],
+    "exceptions": [
+      "Accessing private property",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Varies by province",
+      "jail": "Rare",
+      "notes": "May be treated as unsafe driving"
+    },
+    "enforcement": "Police enforce based on safety concerns and local laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Municipal bylaws",
+      "Provincial traffic laws"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-on-sidewalk",
+      "label": "Driving on Sidewalk",
+      "query_label": "drive on sidewalk legality",
+      "action_label": "drive on sidewalk",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "canada-dangerous-driving",
+    "query": "what is dangerous driving in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Dangerous driving is a criminal offence in Canada involving conduct that endangers the public.",
+    "conditions": [
+      "Driving in a manner dangerous to the public",
+      "Includes excessive speeding or reckless behaviour",
+      "Applies nationwide under criminal law"
+    ],
+    "exceptions": [
+      "Emergency services in duty",
+      "None for ordinary drivers"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Serious criminal offence"
+    },
+    "enforcement": "Police investigate incidents and charge based on evidence.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Law enforcement guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "canada-driving-with-expired-license",
+    "query": "is it illegal to drive with an expired license in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Driving with an expired licence is illegal in Canada and can result in fines and penalties.",
+    "conditions": [
+      "Licence must be valid and current",
+      "Renewal deadlines apply",
+      "Applies to all drivers"
+    ],
+    "exceptions": [
+      "Short grace periods in some provinces",
+      "Administrative extensions in rare cases"
+    ],
+    "penalties": {
+      "fine": "Varies by province",
+      "jail": "Rare",
+      "notes": "May affect insurance"
+    },
+    "enforcement": "Police verify licence status during traffic stops and checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Provincial licensing laws",
+      "Government transport guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-with-expired-license",
+      "label": "Driving With Expired Licence",
+      "query_label": "expired license legality",
+      "action_label": "drive with expired licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "driving-without-insurance"]
+  }
+]

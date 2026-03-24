@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

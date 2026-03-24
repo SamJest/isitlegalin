@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Romania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

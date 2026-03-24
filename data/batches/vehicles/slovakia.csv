@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Slovakia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

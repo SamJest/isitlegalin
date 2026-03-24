@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Malta,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

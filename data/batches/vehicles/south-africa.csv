@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,South Africa,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

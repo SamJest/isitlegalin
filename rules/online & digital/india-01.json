@@ -1,0 +1,222 @@
+[
+{
+"id": "india-vpn-legality",
+"query": "is vpn legal in india",
+"location": "India",
+"verdict": "Yes",
+"summary": "Using a VPN is legal in India, but it cannot be used to engage in illegal activities.",
+"conditions": [
+"VPN use is permitted",
+"Illegal acts remain punishable",
+"Providers may have data requirements"
+],
+"exceptions": [
+"Using VPN for illegal access is punishable",
+"Corporate VPNs widely used"
+],
+"penalties": {
+"fine": "Depends on offence",
+"jail": "Depends on offence",
+"notes": "VPN itself is not illegal"
+},
+"enforcement": "Authorities focus on illegal activity rather than VPN usage",
+"last_updated": "2026-01-01",
+"sources": [
+"Indian IT Act",
+"Government regulations"
+],
+"country": {
+"slug": "india",
+"name": "India",
+"region": "Asia"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "india-torrenting-legality",
+"query": "is torrenting legal in india",
+"location": "India",
+"verdict": "Depends",
+"summary": "Torrenting is legal in India, but downloading copyrighted content without permission is illegal.",
+"conditions": [
+"Legal for non-copyrighted files",
+"Illegal for pirated content",
+"Website blocking is common"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed content legal"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible in serious cases",
+"notes": "Enforcement varies"
+},
+"enforcement": "Authorities block sites and monitor major violations",
+"last_updated": "2026-01-01",
+"sources": [
+"Indian Copyright Act",
+"IT Act"
+],
+"country": {
+"slug": "india",
+"name": "India",
+"region": "Asia"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "india-streaming-pirated-content",
+"query": "is streaming pirated content legal in india",
+"location": "India",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in India under copyright law.",
+"conditions": [
+"Applies to films, TV and sports",
+"Includes unauthorised streaming sites",
+"Copyright protections apply"
+],
+"exceptions": [
+"Licensed platforms are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Enforcement is increasing"
+},
+"enforcement": "Authorities block illegal streaming platforms",
+"last_updated": "2026-01-01",
+"sources": [
+"Indian Copyright Act",
+"IT Act"
+],
+"country": {
+"slug": "india",
+"name": "India",
+"region": "Asia"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "india-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in india",
+"location": "India",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in India and subject to penalties.",
+"conditions": [
+"Applies to copyrighted media",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Enforcement varies by case"
+},
+"enforcement": "Authorities take action against major piracy operations",
+"last_updated": "2026-01-01",
+"sources": [
+"Indian Copyright Act",
+"IT Act"
+],
+"country": {
+"slug": "india",
+"name": "India",
+"region": "Asia"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "india-online-gambling-legality",
+"query": "is online gambling legal in india",
+"location": "India",
+"verdict": "Depends",
+"summary": "Online gambling laws in India vary by state, with some allowing it and others restricting it.",
+"conditions": [
+"State laws determine legality",
+"Skill-based games may be allowed",
+"Operators must comply with regulations"
+],
+"exceptions": [
+"Some states ban all forms",
+"Offshore sites operate in grey areas"
+],
+"penalties": {
+"fine": "Varies by state",
+"jail": "Possible in restricted states",
+"notes": "Legal complexity varies widely"
+},
+"enforcement": "Enforced at state level",
+"last_updated": "2026-01-01",
+"sources": [
+"Public Gambling Act",
+"State laws"
+],
+"country": {
+"slug": "india",
+"name": "India",
+"region": "Asia"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

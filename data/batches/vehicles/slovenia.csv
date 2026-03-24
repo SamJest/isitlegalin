@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

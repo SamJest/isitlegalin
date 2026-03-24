@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Luxembourg,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

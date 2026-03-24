@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Morocco,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Morocco,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Morocco,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Morocco,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Morocco,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Morocco,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Morocco,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Morocco,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

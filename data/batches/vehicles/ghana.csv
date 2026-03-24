@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Ghana,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

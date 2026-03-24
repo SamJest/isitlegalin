@@ -1,0 +1,412 @@
+[
+  {
+    "id": "india-speeding",
+    "query": "is speeding illegal in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Speeding is illegal in India and is enforced under the Motor Vehicles Act with fines and penalties.",
+    "conditions": [
+      "Speed limits vary by road and vehicle type",
+      "Urban areas have lower limits",
+      "Excessive speeding leads to higher penalties"
+    ],
+    "exceptions": [
+      "Emergency vehicles",
+      "Limited enforcement discretion"
+    ],
+    "penalties": {
+      "fine": "Fines vary by offence",
+      "jail": "Possible for serious violations",
+      "notes": "Repeat offences increase penalties"
+    },
+    "enforcement": "Traffic police and speed cameras enforce limits in major areas.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Motor Vehicles Act",
+      "Traffic police guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "drink-driving"]
+  },
+  {
+    "id": "india-driving-without-license",
+    "query": "is it illegal to drive without a license in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Driving without a valid licence in India is illegal and can lead to fines or prosecution.",
+    "conditions": [
+      "Drivers must hold a valid licence",
+      "Learners must follow restrictions",
+      "Driving while disqualified increases penalties"
+    ],
+    "exceptions": [
+      "Learner drivers with supervision",
+      "Temporary exemptions in rare cases"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible for repeat offences",
+      "notes": "Vehicle may be seized"
+    },
+    "enforcement": "Traffic police check licences during stops and checkpoints.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Motor Vehicles Act",
+      "Traffic enforcement guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "india-drink-driving",
+    "query": "is drink driving illegal in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Drink driving above legal alcohol limits is illegal in India and strictly penalised.",
+    "conditions": [
+      "Legal blood alcohol limits apply",
+      "Applies to all drivers",
+      "Repeat offences carry harsher penalties"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "Strict enforcement applies"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible imprisonment",
+      "notes": "Licence suspension possible"
+    },
+    "enforcement": "Police conduct breath tests and roadside checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Motor Vehicles Act",
+      "Traffic police guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "india-using-phone-driving",
+    "query": "is using your phone while driving illegal in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal in India and can lead to fines.",
+    "conditions": [
+      "Handheld phone use is prohibited",
+      "Applies to calls and texting",
+      "Drivers must stop safely to use devices"
+    ],
+    "exceptions": [
+      "Hands-free use may be tolerated",
+      "Emergency calls may be considered"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "Repeat offences increase penalties"
+    },
+    "enforcement": "Traffic police enforce rules through roadside monitoring.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian traffic law",
+      "Motor Vehicles Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "india-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Driving without insurance is illegal in India and can result in fines or penalties.",
+    "conditions": [
+      "Third-party insurance is mandatory",
+      "Applies to all motor vehicles",
+      "Proof must be available"
+    ],
+    "exceptions": [
+      "None for public road use",
+      "Special exemptions are rare"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible for repeat offences",
+      "notes": "Vehicle may be seized"
+    },
+    "enforcement": "Police check insurance documents during stops.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Motor Vehicles Act",
+      "Insurance regulations"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "driving-without-registration"]
+  },
+  {
+    "id": "india-driving-without-registration",
+    "query": "is it illegal to drive without registration in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in India and subject to fines.",
+    "conditions": [
+      "Vehicles must be registered",
+      "Registration must be valid",
+      "Number plates must be displayed"
+    ],
+    "exceptions": [
+      "Temporary permits",
+      "Short grace periods"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Traffic police verify registration documents during checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Motor Vehicles Act",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "india-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Wearing a seatbelt is mandatory in India for drivers and front-seat passengers.",
+    "conditions": [
+      "Seatbelts must be worn if fitted",
+      "Applies to front seats at minimum",
+      "State enforcement may vary"
+    ],
+    "exceptions": [
+      "Certain exemptions may apply",
+      "Rear seat enforcement varies"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Not typical",
+      "notes": "Enforcement varies by region"
+    },
+    "enforcement": "Traffic police enforce seatbelt rules mainly in urban areas.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian traffic law",
+      "Motor Vehicles Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "india-driving-on-footpath",
+    "query": "is it illegal to drive on the footpath in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Driving on footpaths is illegal in India and can result in fines or penalties.",
+    "conditions": [
+      "Footpaths are for pedestrians",
+      "Driving is restricted",
+      "Must use designated roadways"
+    ],
+    "exceptions": [
+      "Accessing private property",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "May be treated as unsafe driving"
+    },
+    "enforcement": "Traffic police enforce rules mainly in cities.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian traffic law",
+      "Municipal regulations"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-on-footpath",
+      "label": "Driving on Footpath",
+      "query_label": "drive on footpath legality",
+      "action_label": "drive on footpath",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "india-dangerous-driving",
+    "query": "what is dangerous driving in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Dangerous driving is illegal in India and includes behaviour that endangers others.",
+    "conditions": [
+      "Driving recklessly or aggressively",
+      "Putting others at risk",
+      "Includes excessive speeding"
+    ],
+    "exceptions": [
+      "Emergency services in duty",
+      "None for normal drivers"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible imprisonment",
+      "notes": "Repeat offences are treated more seriously"
+    },
+    "enforcement": "Police enforce based on observed behaviour and incidents.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "Motor Vehicles Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "india-driving-without-pollution-certificate",
+    "query": "is it illegal to drive without PUC certificate in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Driving without a valid Pollution Under Control (PUC) certificate is illegal in India.",
+    "conditions": [
+      "Vehicles must have a valid PUC certificate",
+      "Applies to most vehicles",
+      "Must be renewed periodically"
+    ],
+    "exceptions": [
+      "New vehicles for limited period",
+      "Temporary exemptions"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "Environmental compliance required"
+    },
+    "enforcement": "Authorities conduct roadside checks for emission compliance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Motor Vehicles Act",
+      "Environmental regulations"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "driving-without-pollution-certificate",
+      "label": "Driving Without PUC Certificate",
+      "query_label": "PUC legality",
+      "action_label": "drive without pollution certificate",
+      "requirement_label": "valid emissions certificate required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "driving-without-insurance"]
+  }
+]

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Estonia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Estonia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Estonia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Estonia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Estonia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Estonia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Estonia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Estonia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

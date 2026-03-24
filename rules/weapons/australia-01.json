@@ -1,0 +1,412 @@
+[
+  {
+    "id": "australia-pepper-spray",
+    "query": "is pepper spray legal in Australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Pepper spray is illegal in most Australian states, but limited exceptions exist in some jurisdictions like Western Australia with permits.",
+    "conditions": [
+      "Most states classify it as a prohibited weapon",
+      "Permits may be required where allowed",
+      "Carrying without approval is illegal"
+    ],
+    "exceptions": [
+      "Western Australia allows it with a permit",
+      "Law enforcement use is permitted"
+    ],
+    "penalties": {
+      "fine": "Significant fines possible",
+      "jail": "Possible imprisonment",
+      "notes": "Strict state-based laws apply"
+    },
+    "enforcement": "Police enforce state weapon laws strictly and may seize sprays during checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian state weapons legislation",
+      "Police guidance on prohibited weapons"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to carry pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "australia-stun-gun",
+    "query": "is a stun gun legal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Stun guns are prohibited weapons across Australia and cannot be legally owned by civilians.",
+    "conditions": [
+      "Classified as prohibited in all states",
+      "Private ownership is illegal",
+      "Importing is restricted"
+    ],
+    "exceptions": [
+      "Authorised law enforcement use",
+      "Official training purposes"
+    ],
+    "penalties": {
+      "fine": "Substantial fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict nationwide prohibition"
+    },
+    "enforcement": "Authorities seize stun guns and may pursue criminal charges.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian weapons legislation",
+      "Government safety guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "australia-taser",
+    "query": "is a taser legal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Tasers are classified as prohibited weapons in Australia and are not legal for civilian ownership.",
+    "conditions": [
+      "Restricted under state weapons laws",
+      "Civilian possession is illegal",
+      "Importation is banned"
+    ],
+    "exceptions": [
+      "Police and authorised personnel",
+      "Controlled official use"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement across all states"
+    },
+    "enforcement": "Police treat tasers as serious prohibited items and seize them immediately.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian state weapons laws",
+      "Law enforcement guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "australia-baton",
+    "query": "is it legal to carry a baton in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Batons, particularly expandable types, are generally prohibited weapons in Australia and cannot be carried by civilians.",
+    "conditions": [
+      "Classified as prohibited in most states",
+      "No lawful self-defence use for civilians",
+      "Possession without permit is illegal"
+    ],
+    "exceptions": [
+      "Police or authorised security use",
+      "Limited permits in rare cases"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict controls apply"
+    },
+    "enforcement": "Police seize batons and enforce state-level weapon restrictions.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian weapons legislation",
+      "Police enforcement guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "australia-brass-knuckles",
+    "query": "are brass knuckles legal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Brass knuckles are prohibited weapons throughout Australia and cannot be legally owned or carried.",
+    "conditions": [
+      "Explicitly banned in all states",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official or evidential use",
+      "Museum display with approval"
+    ],
+    "penalties": {
+      "fine": "Heavy fines",
+      "jail": "Possible imprisonment",
+      "notes": "Clear prohibition"
+    },
+    "enforcement": "Authorities seize brass knuckles and may prosecute possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian prohibited weapons lists",
+      "State law enforcement guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "australia-switchblade",
+    "query": "is a switchblade legal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Switchblades are prohibited knives in Australia and are illegal to possess or import.",
+    "conditions": [
+      "Automatic knives are banned",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official use",
+      "Non-functional display items"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict knife control laws"
+    },
+    "enforcement": "Police and customs actively seize prohibited knives.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian knife laws",
+      "Border enforcement guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "australia-butterfly-knife",
+    "query": "is a butterfly knife legal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Butterfly knives are banned in Australia and cannot be legally owned or carried.",
+    "conditions": [
+      "Classified as prohibited weapons",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official use",
+      "Non-functional display versions"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement applies"
+    },
+    "enforcement": "Authorities confiscate butterfly knives and may prosecute.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian weapons laws",
+      "Knife regulation guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "australia-kubotan",
+    "query": "is a kubotan legal in Australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Kubotans may be legal as simple keychains, but weaponised versions can be considered prohibited weapons.",
+    "conditions": [
+      "Design influences legality",
+      "Intent to use as a weapon can make it illegal",
+      "Carrying for self-defence increases risk"
+    ],
+    "exceptions": [
+      "Plain keychains without weapon features",
+      "Utility-only designs"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Context matters"
+    },
+    "enforcement": "Police assess whether the item is designed or intended as a weapon.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian weapons legislation",
+      "Police interpretation guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "australia-sword-carry-public",
+    "query": "can you carry a sword in public in Australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public is generally restricted in Australia unless there is a lawful reason such as work or events.",
+    "conditions": [
+      "Must have a legitimate purpose",
+      "Transport must be secure",
+      "Public carry without reason is illegal"
+    ],
+    "exceptions": [
+      "Ceremonial or cultural use",
+      "Transport to events or collections"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Reason for carry is key"
+    },
+    "enforcement": "Police evaluate intent and circumstances before taking action.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian weapons laws",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "australia-self-defence-keychain",
+    "query": "is a self defence keychain legal in Australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Self-defence keychains may be legal if they are ordinary items, but weaponised designs can be illegal.",
+    "conditions": [
+      "Design determines legality",
+      "Intent to use as a weapon can make it illegal",
+      "Some states classify certain designs as prohibited"
+    ],
+    "exceptions": [
+      "Simple keychains",
+      "Non-weapon designs"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "State laws vary"
+    },
+    "enforcement": "Authorities assess the design and intended use of the item.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian state weapons laws",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "usa-pepper-spray",
+    "query": "is pepper spray legal in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Pepper spray is widely legal in the United States, but rules vary by state regarding size, strength, and where it can be carried.",
+    "conditions": [
+      "State laws may limit size or strength",
+      "Certain locations like schools and airports restrict carry",
+      "Misuse can result in criminal charges"
+    ],
+    "exceptions": [
+      "Some states allow unrestricted civilian use",
+      "Mail-order restrictions may apply in some areas"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible if misused",
+      "notes": "Legal possession does not allow unlawful use"
+    },
+    "enforcement": "Enforcement is typically focused on misuse or violations of local restrictions.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State self-defence laws",
+      "General US weapons regulations"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to carry pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "usa-stun-gun",
+    "query": "is a stun gun legal in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Stun guns are legal in many US states, but some states and cities impose restrictions or require permits.",
+    "conditions": [
+      "State and local laws vary significantly",
+      "Restricted in certain public places",
+      "Use must be for lawful self-defence"
+    ],
+    "exceptions": [
+      "Some states have minimal restrictions",
+      "Background restrictions may apply in certain jurisdictions"
+    ],
+    "penalties": {
+      "fine": "Varies by jurisdiction",
+      "jail": "Possible for illegal possession or misuse",
+      "notes": "Local laws are critical"
+    },
+    "enforcement": "Local police enforce based on state and city-specific weapon laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "US state weapon laws",
+      "Law enforcement guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "usa-taser",
+    "query": "is a taser legal in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Tasers are legal in most US states but may be restricted by local laws or conditions such as age or criminal history.",
+    "conditions": [
+      "State-level regulations vary",
+      "Some areas require permits or restrict carry",
+      "Use must be justified as self-defence"
+    ],
+    "exceptions": [
+      "Many states allow civilian ownership without permits",
+      "Restrictions may apply for certain individuals"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible if used unlawfully",
+      "notes": "Legal use is limited to self-defence"
+    },
+    "enforcement": "Police apply state and local laws, especially in misuse cases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State taser regulations",
+      "US self-defence law guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "usa-baton",
+    "query": "is it legal to carry a baton in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Batons are legal in some US states but restricted or prohibited in others, particularly for concealed carry.",
+    "conditions": [
+      "State laws determine legality",
+      "Some states ban expandable batons",
+      "Concealed carry may be restricted"
+    ],
+    "exceptions": [
+      "Certain states allow open carry",
+      "Law enforcement use is widely permitted"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible for illegal carry",
+      "notes": "Rules differ widely"
+    },
+    "enforcement": "Police enforce based on local weapon laws and circumstances of carry.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State weapons laws",
+      "General law enforcement guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "usa-brass-knuckles",
+    "query": "are brass knuckles legal in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Brass knuckles are legal in some states but banned or restricted in others across the US.",
+    "conditions": [
+      "State law determines legality",
+      "Possession may be illegal in certain jurisdictions",
+      "Carrying them can lead to charges in restricted areas"
+    ],
+    "exceptions": [
+      "Some states allow ownership but restrict carry",
+      "Collectors may face different rules"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible in restricted states",
+      "notes": "Highly location-dependent"
+    },
+    "enforcement": "Local enforcement depends heavily on state statutes and context of possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State weapons statutes",
+      "Criminal law guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "usa-switchblade",
+    "query": "is a switchblade legal in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Switchblade legality varies widely by state in the US, with some allowing them and others restricting or banning them.",
+    "conditions": [
+      "State laws differ significantly",
+      "Some states restrict carry or sale",
+      "Federal rules affect interstate commerce"
+    ],
+    "exceptions": [
+      "Many states now allow ownership",
+      "Restrictions often remain on concealed carry"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible in restricted jurisdictions",
+      "notes": "Legal landscape has changed in recent years"
+    },
+    "enforcement": "Enforcement depends on local law and whether the knife is carried or used unlawfully.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State knife laws",
+      "Federal switchblade act guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "usa-butterfly-knife",
+    "query": "is a butterfly knife legal in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Butterfly knives are legal in some US states but restricted in others depending on local knife laws.",
+    "conditions": [
+      "State law determines legality",
+      "Some areas restrict carry types",
+      "Use in crime increases penalties"
+    ],
+    "exceptions": [
+      "Legal in many states without restrictions",
+      "Collectors may face fewer issues"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible if illegal in that jurisdiction",
+      "notes": "Check local rules"
+    },
+    "enforcement": "Police enforce based on state knife regulations and context.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State knife legislation",
+      "US legal guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "usa-kubotan",
+    "query": "is a kubotan legal in the USA",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Kubotans are generally legal in most of the United States as everyday items, though misuse can lead to charges.",
+    "conditions": [
+      "Must not be used unlawfully",
+      "Some locations may restrict carry",
+      "Design should not be clearly weaponised in restricted areas"
+    ],
+    "exceptions": [
+      "Schools or airports may restrict them",
+      "Spiked versions may face different rules"
+    ],
+    "penalties": {
+      "fine": "Possible if misused",
+      "jail": "Possible if used as a weapon in a crime",
+      "notes": "Usually treated as a normal object unless used aggressively"
+    },
+    "enforcement": "Typically ignored unless used in an assault or carried in restricted places.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "General US weapons law",
+      "State-level guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "usa-sword-carry-public",
+    "query": "can you carry a sword in public in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public is legal in some US states but restricted in others, especially in urban areas.",
+    "conditions": [
+      "State and city laws vary",
+      "Open carry may be allowed in some areas",
+      "Concealed carry is often restricted"
+    ],
+    "exceptions": [
+      "Ceremonial or reenactment use",
+      "Transport to events is usually allowed"
+    ],
+    "penalties": {
+      "fine": "Varies by jurisdiction",
+      "jail": "Possible if violating local laws",
+      "notes": "Local laws are key"
+    },
+    "enforcement": "Police enforce based on local ordinances and context of carry.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State weapons laws",
+      "Local ordinances"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "usa-self-defence-keychain",
+    "query": "is a self defence keychain legal in the USA",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Self-defence keychains are generally legal in most US states, though certain designs may be restricted.",
+    "conditions": [
+      "Must comply with local weapon laws",
+      "Use must be lawful",
+      "Some designs may be restricted"
+    ],
+    "exceptions": [
+      "Restricted in certain buildings or airports",
+      "Spiked or weaponised versions may be banned"
+    ],
+    "penalties": {
+      "fine": "Possible if illegal in that area",
+      "jail": "Possible if used unlawfully",
+      "notes": "Mostly legal but design matters"
+    },
+    "enforcement": "Typically not enforced unless used in a crime or restricted location.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "US weapons law",
+      "State-level legal guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

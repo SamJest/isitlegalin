@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Australia,illegal,Dangerous driving is a serious offence in Australia involving behaviour that risks safety.,vehicles
+drive on footpath,Australia,illegal,Driving on a footpath is illegal in Australia except for accessing property or in emergencies.,vehicles
+drive on pavement,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Australia,illegal,"Speeding is illegal across Australia, with strict enforcement and varying limits depending on the state and road.",vehicles
+drive recklessly,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Australia,illegal,Drink driving is illegal in Australia and is strictly enforced with random breath testing.,vehicles
+drive uninsured,Australia,restricted,"Basic third-party insurance is usually included with registration, but additional insurance is optional in Australia.",vehicles
+drive with expired licence,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Australia,illegal,Driving with expired registration is illegal in Australia and can lead to fines and penalties.,vehicles
+drive without inspection,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Australia,illegal,Driving without a valid licence is illegal in Australia and carries penalties including fines and disqualification.,vehicles
+drive without MOT,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Australia,illegal,Driving an unregistered vehicle is illegal in Australia and can result in fines and vehicle seizure.,vehicles
+drive without tax,Australia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Australia,illegal,Wearing a seatbelt is mandatory for drivers and passengers in Australia.,vehicles
+use phone while driving,Australia,illegal,"Using a handheld phone while driving is illegal across Australia, with strict penalties.",vehicles

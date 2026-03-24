@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Peru,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Peru,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Peru,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Peru,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Peru,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Peru,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Peru,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Peru,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

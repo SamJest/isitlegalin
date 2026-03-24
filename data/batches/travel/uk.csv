@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,United Kingdom,legal,Alcohol can be brought into the UK for personal use subject to origin-based limits,travel
+bring food into a country,United Kingdom,restricted,Some food can be brought into the UK but many animal products and fresh items are restricted,travel
+bringing cash into a country,United Kingdom,restricted,"You can bring large amounts of cash into the UK, but amounts over a set threshold must be declared.",travel
+bringing duty free goods,United Kingdom,legal,"Duty-free allowances apply when entering the UK, covering alcohol, tobacco, and other goods within set limits.",travel
+bringing electronics into a country,United Kingdom,legal,"You can bring personal electronics into the UK, but high-value items may need to be declared.",travel
+bringing medication into a country,United Kingdom,legal,"You can bring medication into the UK for personal use, but controlled drugs have stricter requirements.",travel
+bringing tobacco into a country,United Kingdom,legal,You can bring tobacco into the UK for personal use within allowance limits.,travel
+bringing weapons in luggage,United Kingdom,illegal,"Most weapons are prohibited from being brought into the UK, even in checked luggage.",travel
+carrying prescription drugs,United Kingdom,legal,Prescription drugs can be brought into the UK if they are for personal use and properly documented.,travel
+declaring goods at customs,United Kingdom,legal,"You must declare certain goods when entering the UK, especially if they exceed allowances or are restricted.",travel

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,United Kingdom,illegal,Dangerous driving is illegal in the UK and covers behaviour that puts others at serious risk.,vehicles
+drive on footpath,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,United Kingdom,illegal,Driving on the pavement is illegal in the UK except in specific permitted situations.,vehicles
+drive on sidewalk,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,United Kingdom,illegal,Driving over the speed limit is illegal in the UK and is enforced through cameras and police patrols.,vehicles
+drive recklessly,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,United Kingdom,illegal,Drink driving over the legal alcohol limit is illegal in the UK and heavily penalised.,vehicles
+drive uninsured,United Kingdom,illegal,"Driving without insurance in the UK is illegal and can result in fines, points, and vehicle seizure.",vehicles
+drive with expired licence,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,United Kingdom,illegal,Driving without a valid licence in the UK is illegal and can lead to fines and disqualification.,vehicles
+drive without MOT,United Kingdom,illegal,Driving a vehicle without a valid MOT certificate is illegal in most cases in the UK.,vehicles
+drive without plates,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,United Kingdom,illegal,Driving without valid vehicle tax is illegal in the UK and can lead to fines and penalties.,vehicles
+not wear seatbelt,United Kingdom,illegal,Not wearing a seatbelt in the UK is illegal for most drivers and passengers.,vehicles
+use phone while driving,United Kingdom,illegal,"Using a handheld phone while driving is illegal in the UK, even when stopped in traffic.",vehicles

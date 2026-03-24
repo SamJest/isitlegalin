@@ -1,0 +1,412 @@
+[
+  {
+    "id": "usa-speeding",
+    "query": "is speeding illegal in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Speeding is illegal across the United States, but specific limits and penalties vary by state and road type.",
+    "conditions": [
+      "Speed limits differ by state and zone",
+      "School and construction zones have stricter limits",
+      "Excessive speeding can trigger harsher charges"
+    ],
+    "exceptions": [
+      "Emergency vehicles responding to incidents",
+      "Limited law enforcement discretion"
+    ],
+    "penalties": {
+      "fine": "Varies by state and severity",
+      "jail": "Possible for extreme speeding",
+      "notes": "Points often added to driving record"
+    },
+    "enforcement": "Police patrols, radar, and speed cameras enforce limits depending on the state.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "US state traffic laws",
+      "Department of Transportation guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["drink-driving", "driving-without-license"]
+  },
+  {
+    "id": "usa-driving-without-license",
+    "query": "is it illegal to drive without a license in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Driving without a valid license is illegal in all US states, though penalties vary by jurisdiction.",
+    "conditions": [
+      "Drivers must hold a valid license",
+      "Learner drivers must follow restrictions",
+      "Driving on a suspended license is more serious"
+    ],
+    "exceptions": [
+      "Learner permits with supervision",
+      "Temporary emergency situations may be considered"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible for repeat or serious offences",
+      "notes": "May lead to license suspension"
+    },
+    "enforcement": "Police check licenses during traffic stops and through state databases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State motor vehicle laws",
+      "DMV guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without License",
+      "query_label": "driving without license legality",
+      "action_label": "drive without license",
+      "requirement_label": "valid license required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "usa-drink-driving",
+    "query": "is drink driving illegal in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Driving under the influence of alcohol is illegal in all US states and is heavily enforced.",
+    "conditions": [
+      "Blood alcohol limits apply",
+      "Applies to all drivers",
+      "Lower limits for commercial drivers"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "Medical or emergency claims rarely accepted"
+    ],
+    "penalties": {
+      "fine": "Substantial fines",
+      "jail": "Possible imprisonment",
+      "notes": "License suspension is common"
+    },
+    "enforcement": "Police conduct sobriety checkpoints and roadside tests.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State DUI laws",
+      "National Highway Traffic Safety Administration"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "usa-using-phone-driving",
+    "query": "is using your phone while driving illegal in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Using a handheld phone while driving is illegal in many US states, but laws vary significantly.",
+    "conditions": [
+      "Some states ban handheld use entirely",
+      "Others allow limited use",
+      "Texting while driving is widely banned"
+    ],
+    "exceptions": [
+      "Hands-free use is often allowed",
+      "Emergency calls are usually permitted"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare but possible in severe cases",
+      "notes": "Points may apply"
+    },
+    "enforcement": "Police enforce based on state-specific distracted driving laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State distracted driving laws",
+      "Traffic safety guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "usa-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Driving without insurance is illegal in most US states, though requirements and penalties vary.",
+    "conditions": [
+      "Insurance is mandatory in most states",
+      "Minimum coverage levels apply",
+      "Proof of insurance must be carried"
+    ],
+    "exceptions": [
+      "A few states allow alternatives like bonds",
+      "Certain exemptions may apply"
+    ],
+    "penalties": {
+      "fine": "Varies widely",
+      "jail": "Possible in repeat cases",
+      "notes": "Vehicle impoundment may occur"
+    },
+    "enforcement": "Police and automated systems check insurance status during stops.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State insurance laws",
+      "DMV guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "speeding"]
+  },
+  {
+    "id": "usa-driving-without-registration",
+    "query": "is it illegal to drive without registration in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in the US and subject to fines and penalties.",
+    "conditions": [
+      "Vehicle must be registered with the state",
+      "Registration must be current",
+      "Applies to public road use"
+    ],
+    "exceptions": [
+      "Temporary permits",
+      "Recently purchased vehicles within grace period"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Police check registration through license plate databases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State vehicle registration laws",
+      "DMV guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "usa-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in the USA",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Seatbelt laws exist in most US states, but enforcement and requirements vary.",
+    "conditions": [
+      "Most states require seatbelt use",
+      "Applies to drivers and passengers",
+      "Child seat laws are stricter"
+    ],
+    "exceptions": [
+      "Some states have secondary enforcement",
+      "Certain vehicle types may be exempt"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Not typical",
+      "notes": "Fines usually minor"
+    },
+    "enforcement": "Police enforce seatbelt laws depending on state rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State seatbelt laws",
+      "Traffic safety guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "using-phone-driving"]
+  },
+  {
+    "id": "usa-driving-on-sidewalk",
+    "query": "is it illegal to drive on the sidewalk in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Driving on sidewalks is illegal in most US jurisdictions except for specific access purposes.",
+    "conditions": [
+      "Sidewalks are for pedestrians",
+      "Driving is restricted",
+      "Must use designated crossings"
+    ],
+    "exceptions": [
+      "Accessing driveways",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare",
+      "notes": "May be charged as reckless driving"
+    },
+    "enforcement": "Police enforce based on local ordinances and safety concerns.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State traffic laws",
+      "Municipal regulations"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-on-sidewalk",
+      "label": "Driving on Sidewalk",
+      "query_label": "drive on sidewalk legality",
+      "action_label": "drive on sidewalk",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "usa-reckless-driving",
+    "query": "what is reckless driving in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Reckless driving is illegal and generally involves dangerous behaviour that puts others at risk.",
+    "conditions": [
+      "Driving with disregard for safety",
+      "Includes excessive speeding or aggressive driving",
+      "Often treated as a criminal offence"
+    ],
+    "exceptions": [
+      "Emergency vehicles",
+      "None for standard drivers"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible imprisonment",
+      "notes": "Serious offence in many states"
+    },
+    "enforcement": "Police charge drivers based on observed dangerous behaviour or incidents.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State reckless driving laws",
+      "Traffic enforcement guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "reckless-driving",
+      "label": "Reckless Driving",
+      "query_label": "reckless driving legality",
+      "action_label": "drive recklessly",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "usa-driving-without-plates",
+    "query": "is it illegal to drive without license plates in the USA",
+    "location": "United States",
+    "verdict": "No",
+    "summary": "Driving without license plates is illegal in the US unless covered by temporary registration rules.",
+    "conditions": [
+      "Vehicles must display valid plates",
+      "Temporary tags may be allowed",
+      "Applies to public road use"
+    ],
+    "exceptions": [
+      "New vehicle temporary permits",
+      "Dealer-issued plates"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare",
+      "notes": "Vehicle may be stopped or impounded"
+    },
+    "enforcement": "Police monitor plate compliance using patrols and automated systems.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State vehicle laws",
+      "DMV guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "driving-without-plates",
+      "label": "Driving Without Plates",
+      "query_label": "license plate legality",
+      "action_label": "drive without plates",
+      "requirement_label": "plates required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "driving-without-insurance"]
+  }
+]

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Indonesia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

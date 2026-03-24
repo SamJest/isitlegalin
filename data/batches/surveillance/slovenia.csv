@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Slovenia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Slovenia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Slovenia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Slovenia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Slovenia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Slovenia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Slovenia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Slovenia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Slovenia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

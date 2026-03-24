@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,Germany,legal,Duty-free limits depend on origin,travel
+bring food into a country,Germany,restricted,Animal products and fresh items may be restricted,travel
+bringing cash into a country,Germany,restricted,"There is no limit on bringing cash into Germany, but amounts over €10,000 must be declared.",travel
+bringing duty free goods,Germany,legal,"Duty-free allowances apply when entering Germany, especially for non-EU travel.",travel
+bringing electronics into a country,Germany,legal,"Personal electronics can be brought into Germany, but high-value items may be subject to duty.",travel
+bringing medication into a country,Germany,legal,"Medication can be brought into Germany for personal use, but controlled substances require documentation.",travel
+bringing tobacco into a country,Germany,legal,Tobacco can be brought into Germany within EU or duty-free limits depending on origin.,travel
+bringing weapons in luggage,Germany,illegal,"Most weapons are prohibited from being brought into Germany, with strict import regulations.",travel
+carrying prescription drugs,Germany,legal,"Prescription drugs can be brought into Germany for personal use, but controlled substances require documentation.",travel
+declaring goods at customs,Germany,legal,You must declare goods when entering Germany if they exceed allowances or are restricted items.,travel

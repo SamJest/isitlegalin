@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "uae-speeding",
+    "query": "is speeding illegal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Speeding is illegal in the UAE and heavily enforced with automated radar systems.",
+    "conditions": [
+      "Strict speed limits apply on all roads",
+      "Buffer limits may exist in some emirates",
+      "Higher penalties for excessive speeding"
+    ],
+    "exceptions": [
+      "Emergency vehicles responding to incidents",
+      "Official exemptions"
+    ],
+    "penalties": {
+      "fine": "High fines depending on speed",
+      "jail": "Possible for extreme cases",
+      "notes": "Black points and vehicle confiscation possible"
+    },
+    "enforcement": "Extensive use of speed cameras and automatic enforcement systems.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE traffic law",
+      "Police enforcement guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "drink-driving"]
+  },
+  {
+    "id": "uae-driving-without-license",
+    "query": "is it illegal to drive without a license in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Driving without a valid licence in the UAE is illegal and can lead to severe penalties.",
+    "conditions": [
+      "Drivers must hold a valid UAE licence or recognised permit",
+      "Foreign licences have limited validity",
+      "Driving while banned increases penalties"
+    ],
+    "exceptions": [
+      "Learner drivers under supervision",
+      "Temporary visitor allowances"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Police conduct checks and verify licence status electronically.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE traffic law",
+      "Road safety regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "uae-drink-driving",
+    "query": "is drink driving illegal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Drink driving is illegal in the UAE with a zero-tolerance policy for alcohol.",
+    "conditions": [
+      "Zero alcohol limit for drivers",
+      "Applies to all drivers",
+      "Strict enforcement applies"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "No tolerance threshold"
+    ],
+    "penalties": {
+      "fine": "Heavy fines",
+      "jail": "Possible imprisonment",
+      "notes": "Licence suspension mandatory"
+    },
+    "enforcement": "Police carry out checks and enforce strict penalties.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE criminal law",
+      "Traffic enforcement guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "uae-using-phone-driving",
+    "query": "is using your phone while driving illegal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal in the UAE and subject to fines and black points.",
+    "conditions": [
+      "Handheld use is prohibited",
+      "Applies to calls and messaging",
+      "Drivers must use hands-free systems"
+    ],
+    "exceptions": [
+      "Hands-free devices allowed",
+      "Emergency situations may be considered"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Rare",
+      "notes": "Black points applied"
+    },
+    "enforcement": "Cameras and police patrols monitor mobile phone use.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE traffic law",
+      "Police enforcement rules"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "uae-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Driving without valid insurance is illegal in the UAE and can result in fines and penalties.",
+    "conditions": [
+      "Insurance is mandatory",
+      "Applies to all registered vehicles",
+      "Policy must be valid"
+    ],
+    "exceptions": [
+      "None for road use",
+      "Special exemptions are rare"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible in serious cases",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Authorities check insurance through registration systems.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE traffic regulations",
+      "Insurance law guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "driving-without-registration"]
+  },
+  {
+    "id": "uae-driving-without-registration",
+    "query": "is it illegal to drive without registration in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in the UAE and can lead to fines and confiscation.",
+    "conditions": [
+      "Vehicles must be registered",
+      "Registration must be valid",
+      "Number plates must be displayed"
+    ],
+    "exceptions": [
+      "Temporary permits",
+      "Short grace periods"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "Vehicle may be seized"
+    },
+    "enforcement": "Police and automated systems verify registration status.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE vehicle law",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "uae-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Wearing a seatbelt is mandatory for drivers and passengers in the UAE.",
+    "conditions": [
+      "Seatbelts must be worn if available",
+      "Applies to all occupants",
+      "Child safety rules apply"
+    ],
+    "exceptions": [
+      "Medical exemptions",
+      "Certain vehicle types"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Not typical",
+      "notes": "Black points applied"
+    },
+    "enforcement": "Police enforce seatbelt rules during routine stops and via cameras.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE road safety law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "uae-driving-on-sidewalk",
+    "query": "is it illegal to drive on the sidewalk in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Driving on sidewalks is illegal in the UAE except in limited access situations.",
+    "conditions": [
+      "Sidewalks are for pedestrians",
+      "Driving is restricted",
+      "Must use designated access points"
+    ],
+    "exceptions": [
+      "Accessing private property",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "May be treated as dangerous driving"
+    },
+    "enforcement": "Police enforce based on safety concerns and violations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE traffic law",
+      "Municipal regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "driving-on-sidewalk",
+      "label": "Driving on Sidewalk",
+      "query_label": "drive on sidewalk legality",
+      "action_label": "drive on sidewalk",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "uae-dangerous-driving",
+    "query": "what is dangerous driving in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Dangerous driving is illegal in the UAE and includes behaviour that puts others at risk.",
+    "conditions": [
+      "Driving recklessly or aggressively",
+      "Exceeding safe driving standards",
+      "Putting others in danger"
+    ],
+    "exceptions": [
+      "Emergency services in duty",
+      "None for normal drivers"
+    ],
+    "penalties": {
+      "fine": "High fines",
+      "jail": "Possible imprisonment",
+      "notes": "Vehicle confiscation possible"
+    },
+    "enforcement": "Police enforce strictly using patrols and surveillance systems.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE criminal law",
+      "Traffic enforcement guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "uae-driving-with-expired-registration",
+    "query": "is it illegal to drive with expired registration in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Driving with expired registration is illegal in the UAE and can lead to fines and penalties.",
+    "conditions": [
+      "Registration must be valid",
+      "Applies to all vehicles",
+      "Linked to insurance requirements"
+    ],
+    "exceptions": [
+      "Short grace periods",
+      "Temporary allowances"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Authorities check registration status electronically.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE vehicle regulations",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "driving-with-expired-registration",
+      "label": "Driving With Expired Registration",
+      "query_label": "expired registration legality",
+      "action_label": "drive with expired registration",
+      "requirement_label": "valid registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "driving-without-insurance"]
+  }
+]

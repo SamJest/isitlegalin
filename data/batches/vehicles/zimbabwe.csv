@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Zimbabwe,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

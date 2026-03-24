@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,United Kingdom,illegal,Carrying a baton in public in the UK is generally illegal without a lawful reason.,self-defence-weapons
+carry a kubotan,United Kingdom,restricted,Kubotans can be legal as simple keychains but may be illegal if designed or intended as weapons,self-defence-weapons
+carry a self-defence keychain,United Kingdom,restricted,"Self-defence keychains may be legal if they are ordinary items, but weapon-style designs can be treated as offensive weapons.",self-defence-weapons
+carry a sword in public,United Kingdom,restricted,"Carrying a sword in public is only legal with a valid reason such as work, ceremony, or transport.",self-defence-weapons
+carry a taser,United Kingdom,illegal,Tasers are restricted to authorised use and are not legal for civilians to own or carry in the UK.,self-defence-weapons
+carry pepper spray,United Kingdom,illegal,Pepper spray is a prohibited weapon in the UK for civilians,self-defence-weapons
+own a switchblade,United Kingdom,illegal,Switchblades are prohibited knives in the UK and cannot be owned or imported.,self-defence-weapons
+possess a butterfly knife,United Kingdom,illegal,Butterfly knives are banned in the UK and are illegal to possess or import.,self-defence-weapons
+possess a stun gun,United Kingdom,illegal,Stun guns are prohibited weapons in the UK and are illegal for civilian possession.,self-defence-weapons
+possess brass knuckles,United Kingdom,illegal,Brass knuckles are banned weapons in the UK and cannot be owned or carried.,self-defence-weapons

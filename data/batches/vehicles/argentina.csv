@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Mexico,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Mexico,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Mexico,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Mexico,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Mexico,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Mexico,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Mexico,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Mexico,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

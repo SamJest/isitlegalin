@@ -1,0 +1,442 @@
+[
+  {
+    "id": "australia-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "You can bring alcohol into Australia within duty-free limits, but strict customs rules apply to quantities and declarations.",
+    "conditions": [
+      "Alcohol must be for personal use.",
+      "Duty-free limits apply.",
+      "Excess quantities must be declared."
+    ],
+    "exceptions": [
+      "Higher amounts may incur tax.",
+      "Undeclared goods may be seized."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Failure to declare can lead to confiscation."
+    },
+    "enforcement": "Australian Border Force conducts strict inspections at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Border Force",
+      "Customs Act Australia"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "australia-carrying-cash-limit",
+    "query": "how much cash can you bring into australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "There is no limit on bringing cash into Australia, but amounts over AUD 10,000 must be declared.",
+    "conditions": [
+      "Cash over AUD 10,000 must be declared.",
+      "Declarations must be accurate.",
+      "Funds must be legally obtained."
+    ],
+    "exceptions": [
+      "Failure to declare can lead to seizure.",
+      "Structuring funds to avoid declaration is illegal."
+    ],
+    "penalties": {
+      "fine": "Seizure and fines",
+      "jail": "Possible in serious cases",
+      "notes": "Strict anti-money laundering enforcement applies."
+    },
+    "enforcement": "Authorities monitor large cash movements at borders.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Border Force",
+      "AUSTRAC regulations"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "australia-bringing-medication",
+    "query": "can you bring medication into australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Medication can be brought into Australia for personal use, but strict rules apply to controlled substances.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry a prescription or documentation.",
+      "Quantity limits may apply."
+    ],
+    "exceptions": [
+      "Certain drugs require permits.",
+      "Some substances are prohibited."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Strict rules apply to controlled medications."
+    },
+    "enforcement": "Border Force may inspect medications and verify documentation.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Therapeutic Goods Administration",
+      "Australian Border Force"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "australia-bringing-food-into-country",
+    "query": "can you bring food into australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Australia has strict biosecurity laws, and many food items are restricted or prohibited.",
+    "conditions": [
+      "All food must be declared.",
+      "Certain products are banned.",
+      "Inspection is mandatory."
+    ],
+    "exceptions": [
+      "Some packaged foods may be allowed.",
+      "Restrictions vary depending on origin."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious breaches",
+      "notes": "Biosecurity violations are taken very seriously."
+    },
+    "enforcement": "Authorities enforce strict quarantine and inspection procedures.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Department of Agriculture",
+      "Biosecurity Act"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "australia-carrying-tobacco",
+    "query": "how much tobacco can you bring into australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Tobacco can be brought into Australia within strict limits, with taxes applying to most quantities.",
+    "conditions": [
+      "Duty-free limits are low compared to other countries.",
+      "Items must be for personal use.",
+      "Excess quantities must be declared."
+    ],
+    "exceptions": [
+      "Higher quantities incur tax.",
+      "Undeclared tobacco may be seized."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Strict enforcement on tobacco imports."
+    },
+    "enforcement": "Border Force monitors tobacco imports closely.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Border Force",
+      "Customs Act"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "australia-bringing-electronics",
+    "query": "can you bring electronics into australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Personal electronics can be brought into Australia, but high-value items may be subject to duty.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Duty may apply above thresholds."
+    ],
+    "exceptions": [
+      "Commercial imports require documentation.",
+      "New items may be taxed."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare may result in penalties."
+    },
+    "enforcement": "Customs officers inspect goods and enforce declaration rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Border Force",
+      "Customs guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "australia-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Prescription drugs can be brought into Australia for personal use, but strict documentation rules apply.",
+    "conditions": [
+      "Carry a prescription or doctor’s letter.",
+      "Keep medication in original packaging.",
+      "Only bring reasonable quantities."
+    ],
+    "exceptions": [
+      "Certain controlled drugs require permits.",
+      "Some substances are prohibited."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Strict enforcement for controlled drugs."
+    },
+    "enforcement": "Border inspections may include checking medications.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Therapeutic Goods Administration",
+      "Australian Border Force"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "australia-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Most weapons are prohibited from being brought into Australia, with very strict import controls.",
+    "conditions": [
+      "Weapons are heavily restricted.",
+      "Permits are required for certain items.",
+      "Airline and customs rules apply."
+    ],
+    "exceptions": [
+      "Licensed sporting equipment may be allowed with permits.",
+      "Special approvals may apply."
+    ],
+    "penalties": {
+      "fine": "Fines and confiscation",
+      "jail": "Possible imprisonment",
+      "notes": "Strict weapons laws are enforced."
+    },
+    "enforcement": "Authorities strictly enforce weapon import laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Border Force",
+      "Weapons import regulations"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "australia-customs-declaration-required",
+    "query": "do you need to declare items at australia customs",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Travelers must declare many items when entering Australia, especially food, cash, and restricted goods.",
+    "conditions": [
+      "Declare all required goods.",
+      "Complete arrival cards accurately.",
+      "Declare food and biosecurity risk items."
+    ],
+    "exceptions": [
+      "Personal goods within limits may not require declaration.",
+      "Some items must always be declared."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations can lead to penalties."
+    },
+    "enforcement": "Strict inspections are carried out at airports and ports.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Border Force",
+      "Biosecurity Act"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "australia-duty-free-limits",
+    "query": "what are duty free limits in australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply when entering Australia, covering alcohol, tobacco, and other goods within set limits.",
+    "conditions": [
+      "Allowances are relatively strict.",
+      "Goods must be for personal use.",
+      "Exceeding limits requires duty payment."
+    ],
+    "exceptions": [
+      "Short stays may affect allowances.",
+      "Commercial goods are excluded."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance leads to penalties."
+    },
+    "enforcement": "Customs checks ensure compliance with duty-free rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Border Force",
+      "Customs guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

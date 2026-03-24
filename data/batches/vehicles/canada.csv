@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Canada,illegal,Dangerous driving is a criminal offence in Canada involving conduct that endangers the public.,vehicles
+drive on footpath,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Canada,illegal,Driving on sidewalks is illegal in Canada except for necessary access like driveways.,vehicles
+drive over speed limit,Canada,illegal,"Speeding is illegal in Canada, with limits and penalties set by each province and territory.",vehicles
+drive recklessly,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Canada,illegal,Driving under the influence of alcohol is illegal in Canada and is strictly enforced nationwide.,vehicles
+drive uninsured,Canada,illegal,Driving without insurance is illegal in Canada and carries significant penalties.,vehicles
+drive with expired licence,Canada,illegal,Driving with an expired licence is illegal in Canada and can result in fines and penalties.,vehicles
+drive with expired registration,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Canada,illegal,Driving without a valid licence is illegal across Canada and enforced at the provincial level.,vehicles
+drive without MOT,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Canada,illegal,Driving an unregistered vehicle is illegal in Canada and subject to fines and penalties.,vehicles
+drive without tax,Canada,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Canada,illegal,Wearing a seatbelt is mandatory in Canada for drivers and passengers.,vehicles
+use phone while driving,Canada,illegal,Using a handheld phone while driving is illegal in all Canadian provinces.,vehicles

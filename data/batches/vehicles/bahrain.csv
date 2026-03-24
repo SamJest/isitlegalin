@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

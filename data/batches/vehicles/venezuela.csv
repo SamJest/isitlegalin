@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Venezuela,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

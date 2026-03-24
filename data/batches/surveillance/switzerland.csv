@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Switzerland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Switzerland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Switzerland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Switzerland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Switzerland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Switzerland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Switzerland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Switzerland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

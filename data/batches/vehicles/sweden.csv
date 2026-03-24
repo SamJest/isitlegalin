@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

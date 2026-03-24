@@ -1,0 +1,412 @@
+[
+  {
+    "id": "germany-speeding",
+    "query": "is speeding illegal in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Speeding is illegal in Germany wherever limits apply, though some Autobahn sections have no fixed limit.",
+    "conditions": [
+      "Speed limits apply in towns and many roads",
+      "Recommended speeds exist on unrestricted Autobahn",
+      "Excessive speed can still be penalised"
+    ],
+    "exceptions": [
+      "Unrestricted Autobahn sections",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Fines vary by severity",
+      "jail": "Possible for serious offences",
+      "notes": "Points system applies"
+    },
+    "enforcement": "Speed cameras and police checks are common across Germany.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German road traffic regulations",
+      "Federal transport guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["drink-driving", "dangerous-driving"]
+  },
+  {
+    "id": "germany-driving-without-license",
+    "query": "is it illegal to drive without a license in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Driving without a valid licence is illegal in Germany and considered a serious offence.",
+    "conditions": [
+      "Drivers must hold a valid licence",
+      "Foreign licences must be valid and recognised",
+      "Driving while banned is more serious"
+    ],
+    "exceptions": [
+      "Learner drivers under supervision",
+      "Temporary recognition of foreign licences"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Criminal offence in many cases"
+    },
+    "enforcement": "Police verify licences during stops and checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German traffic law",
+      "Federal transport authority"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "germany-drink-driving",
+    "query": "is drink driving illegal in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Drink driving is illegal in Germany above strict blood alcohol limits and is heavily penalised.",
+    "conditions": [
+      "Low legal alcohol limits apply",
+      "Zero tolerance for new drivers",
+      "Applies to all motor vehicles"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "Stricter rules for certain groups"
+    ],
+    "penalties": {
+      "fine": "Substantial fines",
+      "jail": "Possible for serious offences",
+      "notes": "Licence suspension likely"
+    },
+    "enforcement": "Police conduct roadside checks and breath testing.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German criminal code",
+      "Traffic safety law"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "germany-using-phone-driving",
+    "query": "is using your phone while driving illegal in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal in Germany unless the engine is fully off.",
+    "conditions": [
+      "Handheld use is prohibited",
+      "Applies to calls and messaging",
+      "Engine must be off to use device"
+    ],
+    "exceptions": [
+      "Hands-free systems are allowed",
+      "Parked vehicles with engine off"
+    ],
+    "penalties": {
+      "fine": "Fines and points",
+      "jail": "Rare",
+      "notes": "Points added to record"
+    },
+    "enforcement": "Police and cameras enforce distracted driving rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German traffic regulations",
+      "Road safety law"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "germany-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Driving without mandatory insurance is illegal in Germany and treated as a serious offence.",
+    "conditions": [
+      "Third-party insurance is required",
+      "Applies to all registered vehicles",
+      "Proof must exist at all times"
+    ],
+    "exceptions": [
+      "None for public road use",
+      "Special exemptions are rare"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Vehicle may be seized"
+    },
+    "enforcement": "Authorities check insurance through registration systems.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German insurance law",
+      "Federal transport guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "driving-without-registration"]
+  },
+  {
+    "id": "germany-driving-without-registration",
+    "query": "is it illegal to drive without registration in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in Germany and can result in fines and penalties.",
+    "conditions": [
+      "Vehicles must be registered",
+      "Number plates must be displayed",
+      "Applies to all public roads"
+    ],
+    "exceptions": [
+      "Temporary plates for transport",
+      "Short-term permits"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Possible in serious cases",
+      "notes": "Vehicle may be confiscated"
+    },
+    "enforcement": "Police and automated systems verify registration status.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German vehicle law",
+      "Registration regulations"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "germany-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Wearing a seatbelt is mandatory in Germany for drivers and passengers.",
+    "conditions": [
+      "Seatbelts must be worn if available",
+      "Applies to all occupants",
+      "Child safety seat rules apply"
+    ],
+    "exceptions": [
+      "Medical exemptions",
+      "Certain vehicles"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Not typical",
+      "notes": "Usually a minor offence"
+    },
+    "enforcement": "Police enforce seatbelt laws during routine checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German road traffic law",
+      "Safety regulations"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "germany-driving-on-pavement",
+    "query": "is it illegal to drive on the pavement in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Driving on pavements is illegal in Germany except when accessing property or permitted areas.",
+    "conditions": [
+      "Pavements are for pedestrians",
+      "Driving is restricted",
+      "Must use designated access points"
+    ],
+    "exceptions": [
+      "Accessing private property",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Fines apply",
+      "jail": "Rare",
+      "notes": "May be treated as traffic offence"
+    },
+    "enforcement": "Police enforce based on safety concerns and local rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German traffic law",
+      "Municipal regulations"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-on-pavement",
+      "label": "Driving on Pavement",
+      "query_label": "drive on pavement legality",
+      "action_label": "drive on pavement",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "germany-dangerous-driving",
+    "query": "what is dangerous driving in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Dangerous driving is illegal in Germany and includes behaviour that endangers others on the road.",
+    "conditions": [
+      "Driving that risks safety",
+      "Includes reckless or aggressive actions",
+      "Can be treated as criminal offence"
+    ],
+    "exceptions": [
+      "Emergency services in duty",
+      "None for normal drivers"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Licence ban likely"
+    },
+    "enforcement": "Police investigate incidents and charge based on behaviour.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German criminal code",
+      "Traffic law guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "germany-driving-without-tuv",
+    "query": "is it illegal to drive without TÜV in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Driving without a valid TÜV inspection is illegal in Germany and can lead to fines and restrictions.",
+    "conditions": [
+      "Vehicles must pass regular inspections",
+      "Inspection must be up to date",
+      "Applies to vehicles on public roads"
+    ],
+    "exceptions": [
+      "Short grace periods",
+      "Driving to inspection appointment"
+    ],
+    "penalties": {
+      "fine": "Fines increase over time",
+      "jail": "Not typical",
+      "notes": "Vehicle may be restricted"
+    },
+    "enforcement": "Authorities monitor inspection status through registration systems.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German vehicle inspection law",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-tuv",
+      "label": "Driving Without TÜV",
+      "query_label": "vehicle inspection legality",
+      "action_label": "drive without inspection",
+      "requirement_label": "valid inspection required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "driving-without-insurance"]
+  }
+]

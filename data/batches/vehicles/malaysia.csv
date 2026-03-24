@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

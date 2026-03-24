@@ -1,0 +1,134 @@
+[
+  {
+    "id": "uk-cctv-home",
+    "query": "is home cctv legal in the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "Home CCTV is legal in the UK, but privacy laws apply if cameras capture areas beyond your property.",
+    "conditions": [
+      "Cameras should mainly cover your own property.",
+      "If public areas are recorded, data protection rules apply.",
+      "Footage must be stored securely."
+    ],
+    "exceptions": [
+      "Using CCTV purely for personal household use has fewer obligations.",
+      "Recording neighbours’ private areas may lead to complaints."
+    ],
+    "penalties": {
+      "fine": "Possible fines under data protection laws",
+      "jail": "Not specified",
+      "notes": "Penalties usually relate to misuse of recorded data."
+    },
+    "enforcement": "Complaints are typically handled by regulators if privacy is breached.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "ICO guidance on CCTV",
+      "UK Data Protection Act"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "uk-cctv-business",
+    "query": "is business cctv legal in the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "Businesses can use CCTV in the UK but must follow strict data protection and transparency rules.",
+    "conditions": [
+      "Clear signage must inform people they are being recorded.",
+      "Footage must have a legitimate purpose.",
+      "Data retention should be limited."
+    ],
+    "exceptions": [
+      "Covert monitoring is only allowed in very limited circumstances.",
+      "Employee monitoring requires justification."
+    ],
+    "penalties": {
+      "fine": "Fines under data protection law",
+      "jail": "Not specified",
+      "notes": "Penalties depend on misuse or unlawful surveillance."
+    },
+    "enforcement": "Regulators investigate complaints about misuse or excessive monitoring.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "ICO CCTV code of practice",
+      "UK GDPR"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "uk-hidden-cameras",
+    "query": "are hidden cameras legal in the uk",
+    "location": "United Kingdom",
+    "verdict": "Depends",
+    "summary": "Hidden cameras are not outright banned, but using them in private spaces or without consent can be illegal.",
+    "conditions": [
+      "Recording must not violate privacy expectations.",
+      "Use must be justified in context.",
+      "Data protection laws may apply."
+    ],
+    "exceptions": [
+      "Security investigations may justify limited covert use.",
+      "Private household use may have fewer restrictions."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil claims",
+      "jail": "Possible in serious privacy violations",
+      "notes": "Severity depends on intent and location."
+    },
+    "enforcement": "Authorities act on complaints involving invasion of privacy or misuse.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK privacy law principles",
+      "Data Protection Act"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

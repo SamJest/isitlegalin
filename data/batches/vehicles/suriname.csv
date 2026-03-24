@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Suriname,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

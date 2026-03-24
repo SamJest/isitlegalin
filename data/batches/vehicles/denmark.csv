@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

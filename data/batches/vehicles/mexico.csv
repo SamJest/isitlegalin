@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Mexico,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

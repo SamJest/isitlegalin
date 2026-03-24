@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Argentina,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Argentina,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Argentina,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Argentina,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Argentina,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Argentina,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Argentina,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Argentina,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Argentina,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

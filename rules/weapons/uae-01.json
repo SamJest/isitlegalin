@@ -1,0 +1,412 @@
+[
+  {
+    "id": "uae-pepper-spray",
+    "query": "is pepper spray legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Pepper spray is generally not legal for civilian possession in the UAE and is treated as a restricted weapon.",
+    "conditions": [
+      "Classified as a controlled weapon",
+      "Civilian possession is generally prohibited",
+      "Importing without approval is illegal"
+    ],
+    "exceptions": [
+      "Authorised security or law enforcement use",
+      "Special permits in limited cases"
+    ],
+    "penalties": {
+      "fine": "Significant fines possible",
+      "jail": "Possible imprisonment",
+      "notes": "Strict weapon control laws"
+    },
+    "enforcement": "Authorities strictly enforce weapons laws and may detain individuals found carrying spray.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE federal weapons laws",
+      "Government legal guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to carry pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "uae-stun-gun",
+    "query": "is a stun gun legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Stun guns are prohibited for civilian use in the UAE and are considered illegal weapons.",
+    "conditions": [
+      "Classified as restricted weapons",
+      "Possession is illegal without authorisation",
+      "Importing is banned"
+    ],
+    "exceptions": [
+      "Law enforcement use",
+      "Official government authorisation"
+    ],
+    "penalties": {
+      "fine": "Heavy fines possible",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement policy"
+    },
+    "enforcement": "Police take a zero-tolerance approach and may arrest individuals found with stun guns.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE criminal law",
+      "Police enforcement guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "uae-taser",
+    "query": "is a taser legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Tasers are restricted weapons in the UAE and are not legal for civilian ownership.",
+    "conditions": [
+      "Prohibited for general public",
+      "Possession requires government authorisation",
+      "Importation is illegal without approval"
+    ],
+    "exceptions": [
+      "Police and authorised security personnel",
+      "Official government use"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict control applies"
+    },
+    "enforcement": "Authorities enforce strict penalties and confiscate tasers on discovery.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE federal law",
+      "Weapons control regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "uae-baton",
+    "query": "is it legal to carry a baton in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Batons are generally considered weapons in the UAE and cannot be carried by civilians without authorisation.",
+    "conditions": [
+      "Classified as controlled weapon",
+      "Public carry is prohibited",
+      "Possession requires approval"
+    ],
+    "exceptions": [
+      "Law enforcement use",
+      "Licensed security personnel"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict public safety laws"
+    },
+    "enforcement": "Police may confiscate batons and detain individuals for unlawful possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE criminal law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "uae-brass-knuckles",
+    "query": "are brass knuckles legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Brass knuckles are illegal in the UAE and are treated as prohibited weapons.",
+    "conditions": [
+      "Explicitly banned",
+      "Possession is illegal",
+      "Importation is prohibited"
+    ],
+    "exceptions": [
+      "Official use only",
+      "Government-authorised handling"
+    ],
+    "penalties": {
+      "fine": "Heavy fines",
+      "jail": "Possible imprisonment",
+      "notes": "Zero tolerance"
+    },
+    "enforcement": "Authorities strictly enforce bans and may prosecute immediately.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE federal law",
+      "Weapons regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "uae-switchblade",
+    "query": "is a switchblade legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Switchblades are prohibited in the UAE and cannot be legally owned or carried.",
+    "conditions": [
+      "Automatic knives are banned",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official use",
+      "Authorised handling"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict knife laws"
+    },
+    "enforcement": "Police confiscate prohibited knives and may prosecute offenders.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE weapons regulations",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "uae-butterfly-knife",
+    "query": "is a butterfly knife legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Butterfly knives are illegal in the UAE and are treated as prohibited weapons.",
+    "conditions": [
+      "Classified as banned weapon",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official use",
+      "Government authorisation"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement"
+    },
+    "enforcement": "Authorities seize butterfly knives and may pursue charges.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE legal framework",
+      "Weapons regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "uae-kubotan",
+    "query": "is a kubotan legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Kubotans may be treated as ordinary items, but weaponised versions can be considered illegal weapons in the UAE.",
+    "conditions": [
+      "Design determines classification",
+      "Weapon-like features increase risk",
+      "Intent to use as a weapon is illegal"
+    ],
+    "exceptions": [
+      "Simple keychains may be allowed",
+      "Non-weapon designs"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict interpretation"
+    },
+    "enforcement": "Authorities assess whether the item is intended as a weapon.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE criminal law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "uae-sword-carry-public",
+    "query": "can you carry a sword in public in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public is generally restricted in the UAE unless it is for ceremonial or cultural purposes.",
+    "conditions": [
+      "Public carry is restricted",
+      "Must have legitimate purpose",
+      "Intent to use as a weapon is illegal"
+    ],
+    "exceptions": [
+      "Cultural or ceremonial use",
+      "Approved events"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Context is important"
+    },
+    "enforcement": "Police evaluate the purpose and context of possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE legal guidance",
+      "Public safety law"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "uae-self-defence-keychain",
+    "query": "is a self defence keychain legal in the UAE",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Self-defence keychains may be legal if they are ordinary items, but weaponised designs can be treated as illegal weapons.",
+    "conditions": [
+      "Design determines legality",
+      "Weapon-like features increase restrictions",
+      "Intent to use as a weapon is illegal"
+    ],
+    "exceptions": [
+      "Simple keychains",
+      "Non-weapon designs"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement"
+    },
+    "enforcement": "Authorities assess the design and intended use of the item.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE weapons law",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

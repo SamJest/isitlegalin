@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Taiwan,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Taiwan,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Taiwan,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Taiwan,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Taiwan,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Taiwan,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Taiwan,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Taiwan,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

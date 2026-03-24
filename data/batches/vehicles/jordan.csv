@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Jordan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

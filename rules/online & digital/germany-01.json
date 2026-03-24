@@ -1,0 +1,222 @@
+[
+{
+"id": "germany-vpn-legality",
+"query": "is vpn legal in germany",
+"location": "Germany",
+"verdict": "Yes",
+"summary": "Using a VPN is legal in Germany, but it cannot be used to engage in illegal activities.",
+"conditions": [
+"VPN use is allowed for privacy",
+"Illegal acts remain punishable",
+"Providers must comply with German law"
+],
+"exceptions": [
+"Using VPN to access illegal content is still unlawful",
+"Some services may block VPN traffic"
+],
+"penalties": {
+"fine": "Depends on underlying offence",
+"jail": "Depends on offence",
+"notes": "VPN use itself is not penalised"
+},
+"enforcement": "Authorities focus on illegal behaviour rather than VPN usage itself",
+"last_updated": "2026-01-01",
+"sources": [
+"German law",
+"Federal Data Protection guidance"
+],
+"country": {
+"slug": "germany",
+"name": "Germany",
+"region": "Europe"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "germany-torrenting-legality",
+"query": "is torrenting legal in germany",
+"location": "Germany",
+"verdict": "Depends",
+"summary": "Torrenting is legal in Germany, but downloading or sharing copyrighted content is strictly enforced and illegal.",
+"conditions": [
+"Legal for non-copyrighted files",
+"Illegal for pirated material",
+"File sharing is closely monitored"
+],
+"exceptions": [
+"Public domain content is allowed",
+"Licensed downloads are legal"
+],
+"penalties": {
+"fine": "High fines commonly issued",
+"jail": "Possible in serious cases",
+"notes": "Warning letters and settlements are common"
+},
+"enforcement": "Law firms actively pursue copyright violations",
+"last_updated": "2026-01-01",
+"sources": [
+"German Copyright Law",
+"Federal Ministry of Justice"
+],
+"country": {
+"slug": "germany",
+"name": "Germany",
+"region": "Europe"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "germany-streaming-pirated-content",
+"query": "is streaming pirated content legal in germany",
+"location": "Germany",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in Germany and considered a violation of copyright law.",
+"conditions": [
+"Applies to films, TV and sports",
+"Includes unauthorised streaming platforms",
+"Copyright protections apply"
+],
+"exceptions": [
+"Licensed services are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Rare",
+"notes": "Civil claims are common"
+},
+"enforcement": "Authorities and rights holders actively enforce violations",
+"last_updated": "2026-01-01",
+"sources": [
+"German Copyright Law",
+"EU directives"
+],
+"country": {
+"slug": "germany",
+"name": "Germany",
+"region": "Europe"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "germany-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in germany",
+"location": "Germany",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in Germany and often results in enforcement action.",
+"conditions": [
+"Applies to copyrighted works",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Significant fines common",
+"jail": "Possible for serious cases",
+"notes": "Enforcement is strict compared to many countries"
+},
+"enforcement": "Law firms regularly send infringement notices",
+"last_updated": "2026-01-01",
+"sources": [
+"German Copyright Law",
+"Federal Ministry of Justice"
+],
+"country": {
+"slug": "germany",
+"name": "Germany",
+"region": "Europe"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "germany-online-gambling-legality",
+"query": "is online gambling legal in germany",
+"location": "Germany",
+"verdict": "Yes",
+"summary": "Online gambling is legal in Germany under a regulated licensing system.",
+"conditions": [
+"Operators must hold a German licence",
+"Strict player protections apply",
+"Advertising is regulated"
+],
+"exceptions": [
+"Unlicensed operators are illegal",
+"Certain game types may be restricted"
+],
+"penalties": {
+"fine": "Fines for illegal operators",
+"jail": "Possible for serious breaches",
+"notes": "Players rarely prosecuted"
+},
+"enforcement": "Regulated by state authorities under federal framework",
+"last_updated": "2026-01-01",
+"sources": [
+"German Interstate Treaty on Gambling",
+"State regulators"
+],
+"country": {
+"slug": "germany",
+"name": "Germany",
+"region": "Europe"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

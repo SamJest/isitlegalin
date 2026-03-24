@@ -1,0 +1,222 @@
+[
+{
+"id": "japan-vpn-legality",
+"query": "is vpn legal in japan",
+"location": "Japan",
+"verdict": "Yes",
+"summary": "Using a VPN is legal in Japan and commonly used for privacy and business purposes.",
+"conditions": [
+"VPN use is permitted",
+"Illegal activities remain illegal",
+"Must comply with Japanese law"
+],
+"exceptions": [
+"Using VPN to commit crimes is punishable",
+"Some services may restrict VPN usage"
+],
+"penalties": {
+"fine": "Depends on underlying offence",
+"jail": "Depends on offence",
+"notes": "VPN itself is not restricted"
+},
+"enforcement": "Authorities focus on illegal activity rather than VPN use",
+"last_updated": "2026-01-01",
+"sources": [
+"Japanese law",
+"Telecommunications regulations"
+],
+"country": {
+"slug": "japan",
+"name": "Japan",
+"region": "Asia"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "japan-torrenting-legality",
+"query": "is torrenting legal in japan",
+"location": "Japan",
+"verdict": "Depends",
+"summary": "Torrenting is legal in Japan, but downloading or sharing copyrighted content is illegal and strictly enforced.",
+"conditions": [
+"Legal for non-copyrighted files",
+"Illegal for pirated content",
+"Strict anti-piracy laws apply"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed content legal"
+],
+"penalties": {
+"fine": "Significant fines possible",
+"jail": "Possible",
+"notes": "Strict enforcement compared to many countries"
+},
+"enforcement": "Authorities actively enforce copyright violations",
+"last_updated": "2026-01-01",
+"sources": [
+"Japanese Copyright Law",
+"Government enforcement"
+],
+"country": {
+"slug": "japan",
+"name": "Japan",
+"region": "Asia"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "japan-streaming-pirated-content",
+"query": "is streaming pirated content legal in japan",
+"location": "Japan",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in Japan under strict copyright laws.",
+"conditions": [
+"Applies to movies, TV and music",
+"Includes unauthorised platforms",
+"Strict enforcement laws apply"
+],
+"exceptions": [
+"Licensed services are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Strict penalties compared to many countries"
+},
+"enforcement": "Authorities actively block and prosecute piracy",
+"last_updated": "2026-01-01",
+"sources": [
+"Japanese Copyright Law",
+"Government enforcement"
+],
+"country": {
+"slug": "japan",
+"name": "Japan",
+"region": "Asia"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "japan-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in japan",
+"location": "Japan",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in Japan and can result in serious penalties.",
+"conditions": [
+"Applies to copyrighted content",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Significant fines",
+"jail": "Possible",
+"notes": "Strict enforcement environment"
+},
+"enforcement": "Authorities actively monitor and enforce violations",
+"last_updated": "2026-01-01",
+"sources": [
+"Japanese Copyright Law",
+"Government enforcement"
+],
+"country": {
+"slug": "japan",
+"name": "Japan",
+"region": "Asia"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "japan-online-gambling-legality",
+"query": "is online gambling legal in japan",
+"location": "Japan",
+"verdict": "No",
+"summary": "Online gambling is generally illegal in Japan, with only limited exceptions for certain state-controlled activities.",
+"conditions": [
+"Most gambling is prohibited",
+"Online casinos are illegal",
+"Strict gambling laws apply"
+],
+"exceptions": [
+"Some state-run betting allowed",
+"Certain sports betting permitted"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Strict enforcement"
+},
+"enforcement": "Authorities actively restrict and block illegal gambling platforms",
+"last_updated": "2026-01-01",
+"sources": [
+"Japanese Penal Code",
+"Gambling regulations"
+],
+"country": {
+"slug": "japan",
+"name": "Japan",
+"region": "Asia"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

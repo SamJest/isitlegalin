@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

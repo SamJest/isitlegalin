@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Azerbaijan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

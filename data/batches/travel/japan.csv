@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,Japan,legal,Alcohol can be brought into Japan within duty-free limits with taxes above the allowance,travel
+bring food into a country,Japan,restricted,Food can be brought into Japan but strict rules apply to animal products and some fresh items,travel
+bringing cash into a country,Japan,restricted,"There is no limit on bringing cash into Japan, but amounts over ¥1,000,000 must be declared.",travel
+bringing duty free goods,Japan,legal,"Duty-free allowances apply when entering Japan for alcohol, tobacco, and certain goods within set limits.",travel
+bringing electronics into a country,Japan,legal,"Personal electronics can be brought into Japan, but high-value goods may be subject to declaration.",travel
+bringing medication into a country,Japan,restricted,"Medication can be brought into Japan, but some drugs require approval or are restricted.",travel
+bringing tobacco into a country,Japan,legal,Tobacco can be brought into Japan within duty-free limits for personal use.,travel
+bringing weapons in luggage,Japan,illegal,Weapons are generally prohibited from being brought into Japan without strict authorization.,travel
+carrying prescription drugs,Japan,restricted,"Prescription drugs can be carried into Japan, but some require prior approval and documentation.",travel
+declaring goods at customs,Japan,legal,"You must declare certain goods when entering Japan, especially items above duty-free limits or restricted goods.",travel

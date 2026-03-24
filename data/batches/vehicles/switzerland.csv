@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Switzerland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

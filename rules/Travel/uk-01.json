@@ -1,0 +1,442 @@
+[
+  {
+    "id": "uk-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "You can bring alcohol into the UK for personal use, but limits apply depending on where you are travelling from.",
+    "conditions": [
+      "Different limits apply for EU and non-EU arrivals.",
+      "Alcohol must be for personal use.",
+      "Customs officers may question large quantities."
+    ],
+    "exceptions": [
+      "Commercial quantities require declaration.",
+      "Duty may apply above allowances."
+    ],
+    "penalties": {
+      "fine": "Possible duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Exceeding limits without declaration can lead to confiscation."
+    },
+    "enforcement": "Border Force checks luggage and may seize undeclared goods.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK government customs guidance",
+      "HMRC rules"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uk-carrying-cash-limit",
+    "query": "how much cash can you bring into the uk",
+    "location": "United Kingdom",
+    "verdict": "Depends",
+    "summary": "You can bring large amounts of cash into the UK, but amounts over a set threshold must be declared.",
+    "conditions": [
+      "Cash over £10,000 must be declared.",
+      "Declaration must be made at the border.",
+      "Funds must be legally obtained."
+    ],
+    "exceptions": [
+      "Failure to declare can lead to seizure.",
+      "Different rules may apply for transfers."
+    ],
+    "penalties": {
+      "fine": "Cash may be seized",
+      "jail": "Possible in serious cases",
+      "notes": "Authorities focus on anti-money laundering."
+    },
+    "enforcement": "Border officers monitor and investigate undeclared cash.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "HMRC cash declaration rules",
+      "UK customs law"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "uk-bringing-medication",
+    "query": "can you bring medication into the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "You can bring medication into the UK for personal use, but controlled drugs have stricter requirements.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry a prescription or doctor’s letter.",
+      "Controlled drugs have limits."
+    ],
+    "exceptions": [
+      "Certain drugs require a license.",
+      "Large quantities may be questioned."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Rules depend on the type of medication."
+    },
+    "enforcement": "Border checks may include inspection of medicines.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "NHS travel guidance",
+      "UK Home Office rules"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uk-bringing-food-into-country",
+    "query": "can you bring food into the uk",
+    "location": "United Kingdom",
+    "verdict": "Depends",
+    "summary": "You can bring some food into the UK, but many animal products and fresh items are restricted.",
+    "conditions": [
+      "Certain foods are banned or restricted.",
+      "Commercial quantities must be declared.",
+      "Packaging and origin may be checked."
+    ],
+    "exceptions": [
+      "Food from EU countries may have fewer restrictions.",
+      "Some packaged goods are allowed."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Not specified",
+      "notes": "Biosecurity rules are strictly enforced."
+    },
+    "enforcement": "Border Force regularly inspects food items at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK government food import rules",
+      "DEFRA guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "uk-carrying-tobacco",
+    "query": "how much tobacco can you bring into the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "You can bring tobacco into the UK for personal use within allowance limits.",
+    "conditions": [
+      "Limits apply depending on origin country.",
+      "Items must be for personal use.",
+      "Large quantities may be questioned."
+    ],
+    "exceptions": [
+      "Duty applies above allowances.",
+      "Commercial intent is prohibited."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Exceeding limits may lead to seizure."
+    },
+    "enforcement": "Border Force monitors tobacco imports and may confiscate excess.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "HMRC tobacco rules",
+      "UK customs guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uk-bringing-electronics",
+    "query": "can you bring electronics into the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "You can bring personal electronics into the UK, but high-value items may need to be declared.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Duty may apply above thresholds."
+    ],
+    "exceptions": [
+      "Commercial quantities require declaration.",
+      "New items may be taxed."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare may lead to penalties."
+    },
+    "enforcement": "Customs officers may inspect luggage for undeclared goods.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "HMRC customs rules",
+      "UK border guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uk-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "Prescription drugs can be brought into the UK if they are for personal use and properly documented.",
+    "conditions": [
+      "Carry a prescription or doctor’s note.",
+      "Keep medication in original packaging.",
+      "Limits apply for controlled substances."
+    ],
+    "exceptions": [
+      "Certain drugs require prior approval.",
+      "Large quantities may be restricted."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Controlled drugs are strictly regulated."
+    },
+    "enforcement": "Border checks may involve inspection of medications.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "NHS guidance",
+      "Home Office rules"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uk-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into the uk",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Most weapons are prohibited from being brought into the UK, even in checked luggage.",
+    "conditions": [
+      "Prohibited weapons cannot be imported.",
+      "Permits are required for certain items.",
+      "Airport security rules apply."
+    ],
+    "exceptions": [
+      "Licensed sporting equipment may be allowed.",
+      "Special permits may apply."
+    ],
+    "penalties": {
+      "fine": "Confiscation and fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict weapons laws apply."
+    },
+    "enforcement": "Border Force strictly enforces weapon import laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK weapons law",
+      "Border Force guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "uk-customs-declaration-required",
+    "query": "do you need to declare items at uk customs",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "You must declare certain goods when entering the UK, especially if they exceed allowances or are restricted.",
+    "conditions": [
+      "Declare goods above allowance limits.",
+      "Use red channel if required.",
+      "Be honest in declarations."
+    ],
+    "exceptions": [
+      "Green channel applies if nothing to declare.",
+      "Certain items always require declaration."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations can lead to penalties."
+    },
+    "enforcement": "Customs officers check declarations and may inspect luggage.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "HMRC customs rules",
+      "UK border guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "uk-duty-free-limits",
+    "query": "what are duty free limits in the uk",
+    "location": "United Kingdom",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply when entering the UK, covering alcohol, tobacco, and other goods within set limits.",
+    "conditions": [
+      "Allowances vary by product type.",
+      "Goods must be for personal use.",
+      "Exceeding limits requires payment of duty."
+    ],
+    "exceptions": [
+      "Different limits apply depending on origin.",
+      "Commercial goods are excluded."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Exceeding limits without declaration leads to penalties."
+    },
+    "enforcement": "Customs checks ensure compliance with duty-free limits.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "HMRC duty-free rules",
+      "UK customs guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

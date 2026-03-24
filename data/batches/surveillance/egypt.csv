@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Egypt,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Egypt,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Egypt,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Egypt,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Egypt,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Egypt,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Egypt,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Egypt,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Egypt,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Kenya,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Kenya,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Kenya,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Kenya,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Kenya,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Kenya,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Kenya,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Kenya,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Kenya,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Kenya,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

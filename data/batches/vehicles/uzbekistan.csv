@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Uzbekistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

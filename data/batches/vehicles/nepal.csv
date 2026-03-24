@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Nepal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

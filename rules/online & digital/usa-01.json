@@ -1,0 +1,222 @@
+[
+{
+"id": "usa-vpn-legality",
+"query": "is vpn legal in usa",
+"location": "United States",
+"verdict": "Yes",
+"summary": "VPN use is legal in the US, though it cannot be used to carry out illegal activities.",
+"conditions": [
+"Legal for personal and business use",
+"Illegal acts remain punishable",
+"Subject to federal and state law"
+],
+"exceptions": [
+"Workplaces may restrict usage",
+"Some services block VPNs"
+],
+"penalties": {
+"fine": "Depends on underlying crime",
+"jail": "Depends on offence",
+"notes": "VPN itself is not illegal"
+},
+"enforcement": "Authorities focus on criminal behaviour rather than VPN usage",
+"last_updated": "2026-01-01",
+"sources": [
+"US federal law",
+"FTC guidance"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "usa-torrenting-legality",
+"query": "is torrenting legal in usa",
+"location": "United States",
+"verdict": "Depends",
+"summary": "Torrenting is legal in the US, but sharing copyrighted material without permission is illegal.",
+"conditions": [
+"Legal for non-copyrighted content",
+"Illegal for pirated material",
+"Enforced under copyright law"
+],
+"exceptions": [
+"Public domain files are allowed",
+"Licensed content is legal"
+],
+"penalties": {
+"fine": "Significant statutory damages",
+"jail": "Possible in extreme cases",
+"notes": "Civil lawsuits are common"
+},
+"enforcement": "Rights holders actively pursue infringers",
+"last_updated": "2026-01-01",
+"sources": [
+"US Copyright Act",
+"DMCA"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "usa-streaming-pirated-content",
+"query": "is streaming pirated content legal in usa",
+"location": "United States",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in the US and may be treated as a criminal offence in some cases.",
+"conditions": [
+"Applies to movies, TV, sports",
+"Includes unauthorised streaming platforms",
+"Covered under copyright law"
+],
+"exceptions": [
+"Licensed platforms are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "Fines and damages",
+"jail": "Possible under felony streaming laws",
+"notes": "Recent laws increased penalties"
+},
+"enforcement": "Federal authorities and rights holders enforce laws",
+"last_updated": "2026-01-01",
+"sources": [
+"US Copyright Law",
+"Protecting Lawful Streaming Act"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "usa-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in usa",
+"location": "United States",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in the US and can result in heavy fines or lawsuits.",
+"conditions": [
+"Applies to copyrighted works",
+"Includes peer-to-peer downloads",
+"Permission required"
+],
+"exceptions": [
+"Public domain allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Up to thousands per work",
+"jail": "Possible for large-scale piracy",
+"notes": "Civil cases are common"
+},
+"enforcement": "Rights holders and ISPs monitor activity",
+"last_updated": "2026-01-01",
+"sources": [
+"DMCA",
+"US Copyright Office"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "usa-online-gambling-legality",
+"query": "is online gambling legal in usa",
+"location": "United States",
+"verdict": "Depends",
+"summary": "Online gambling legality varies by state in the US, with some states allowing it and others restricting it.",
+"conditions": [
+"State laws determine legality",
+"Licensed operators required",
+"Age restrictions apply"
+],
+"exceptions": [
+"Some states fully prohibit it",
+"Offshore sites operate in grey areas"
+],
+"penalties": {
+"fine": "Varies by state",
+"jail": "Possible in prohibited states",
+"notes": "Players rarely targeted"
+},
+"enforcement": "Enforced at state level",
+"last_updated": "2026-01-01",
+"sources": [
+"State gaming laws",
+"Federal gambling laws"
+],
+"country": {
+"slug": "usa",
+"name": "United States",
+"region": "North America"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

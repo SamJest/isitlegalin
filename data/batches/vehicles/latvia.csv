@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Latvia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

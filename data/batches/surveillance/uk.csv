@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,United Kingdom,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,United Kingdom,legal,"Home CCTV is legal in the UK, but privacy laws apply if cameras capture areas beyond your property.",surveillance
+monitoring staff,United Kingdom,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,United Kingdom,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,United Kingdom,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,United Kingdom,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,United Kingdom,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,United Kingdom,legal,Businesses can use CCTV in the UK but must follow strict data protection and transparency rules.,surveillance
+using hidden cameras,United Kingdom,restricted,"Hidden cameras are not outright banned, but using them in private spaces or without consent can be illegal.",surveillance

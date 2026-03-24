@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Armenia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

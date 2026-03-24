@@ -1,0 +1,412 @@
+[
+  {
+    "id": "canada-pepper-spray",
+    "query": "is pepper spray legal in Canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Pepper spray for use against humans is generally prohibited in Canada, but animal deterrent sprays may be legal if not carried for self-defence against people.",
+    "conditions": [
+      "Human-targeted spray is classified as a prohibited weapon",
+      "Animal spray must be clearly intended for animal use",
+      "Carrying for self-defence against people is not allowed"
+    ],
+    "exceptions": [
+      "Bear or dog spray may be legal if used appropriately",
+      "Use strictly for wildlife protection is accepted"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Intent is a key factor"
+    },
+    "enforcement": "Police assess intent and labeling when determining legality.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code weapons provisions",
+      "Government safety guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to possess pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "canada-stun-gun",
+    "query": "is a stun gun legal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Stun guns are prohibited weapons in Canada and cannot be legally possessed by civilians.",
+    "conditions": [
+      "Classified as prohibited under criminal law",
+      "Possession is illegal for civilians",
+      "Importing or selling is also banned"
+    ],
+    "exceptions": [
+      "Authorised law enforcement use",
+      "Official training or evidential use"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Strict national prohibition"
+    },
+    "enforcement": "Police treat stun gun possession as a criminal offence and seize them.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Public safety guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "canada-taser",
+    "query": "is a taser legal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Tasers are prohibited weapons in Canada and are not legal for civilian ownership.",
+    "conditions": [
+      "Covered under prohibited weapon classification",
+      "Private possession is illegal",
+      "Importing is restricted"
+    ],
+    "exceptions": [
+      "Law enforcement use only",
+      "Controlled official use"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement applies"
+    },
+    "enforcement": "Authorities confiscate tasers and may pursue criminal charges.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Government enforcement guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "canada-baton",
+    "query": "is it legal to carry a baton in Canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Batons are not outright banned in Canada, but carrying one for self-defence can make it an illegal weapon.",
+    "conditions": [
+      "Intent determines legality",
+      "Carrying for use as a weapon is prohibited",
+      "Certain types like expandable batons may raise suspicion"
+    ],
+    "exceptions": [
+      "Law enforcement or security roles",
+      "Transport for legitimate purposes"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Intent-based enforcement"
+    },
+    "enforcement": "Police assess whether the baton is intended as a weapon.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Law enforcement guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "canada-brass-knuckles",
+    "query": "are brass knuckles legal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Brass knuckles are prohibited weapons in Canada and cannot be legally owned or carried.",
+    "conditions": [
+      "Explicitly banned under law",
+      "Possession alone is illegal",
+      "Import and sale are prohibited"
+    ],
+    "exceptions": [
+      "Official or evidential use",
+      "Museum handling"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Clear prohibition"
+    },
+    "enforcement": "Police and border authorities seize brass knuckles and may prosecute.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Public safety guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "canada-switchblade",
+    "query": "is a switchblade legal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Switchblades are prohibited in Canada and cannot be legally owned or imported.",
+    "conditions": [
+      "Automatic knives are banned",
+      "Possession is illegal",
+      "Importing is restricted"
+    ],
+    "exceptions": [
+      "Official or training use",
+      "Non-functional replicas"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Strict knife regulation"
+    },
+    "enforcement": "Authorities seize switchblades and may pursue charges.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Border enforcement guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "canada-butterfly-knife",
+    "query": "is a butterfly knife legal in Canada",
+    "location": "Canada",
+    "verdict": "No",
+    "summary": "Butterfly knives are considered prohibited weapons in Canada and are illegal to possess.",
+    "conditions": [
+      "Classified as prohibited knife type",
+      "Ownership is illegal",
+      "Import restrictions apply"
+    ],
+    "exceptions": [
+      "Official or evidential use",
+      "Non-functional items"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Design-based prohibition"
+    },
+    "enforcement": "Police and border services enforce strict seizure policies.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Knife law guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "canada-kubotan",
+    "query": "is a kubotan legal in Canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Kubotans are generally legal as everyday items, but carrying one specifically for use as a weapon can make it illegal.",
+    "conditions": [
+      "Intent determines legality",
+      "Weapon-like design increases risk",
+      "Use in self-defence context may be scrutinised"
+    ],
+    "exceptions": [
+      "Plain keychain use",
+      "Non-weaponised designs"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Intent is decisive"
+    },
+    "enforcement": "Police assess whether the item is intended as a weapon.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Law enforcement interpretation"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "canada-sword-carry-public",
+    "query": "can you carry a sword in public in Canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public is legal in Canada only if there is a legitimate reason and no intent to use it as a weapon.",
+    "conditions": [
+      "Intent is key to legality",
+      "Transport must be reasonable",
+      "Public carry without reason may lead to charges"
+    ],
+    "exceptions": [
+      "Ceremonial or cultural use",
+      "Transport to events"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Intent-based enforcement"
+    },
+    "enforcement": "Police evaluate context and purpose when determining legality.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "canada-self-defence-keychain",
+    "query": "is a self defence keychain legal in Canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Self-defence keychains may be legal if they are ordinary items, but weaponised versions can be treated as prohibited weapons.",
+    "conditions": [
+      "Design determines classification",
+      "Intent to use as a weapon makes it illegal",
+      "Carrying for defence can be problematic"
+    ],
+    "exceptions": [
+      "Normal keychains",
+      "Non-weapon designs"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Intent and design both matter"
+    },
+    "enforcement": "Authorities assess whether the item is adapted as a weapon.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Public safety guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

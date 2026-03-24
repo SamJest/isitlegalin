@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,United Arab Emirates,illegal,Dangerous driving is illegal in the UAE and includes behaviour that puts others at risk.,vehicles
+drive on footpath,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,United Arab Emirates,illegal,Driving on sidewalks is illegal in the UAE except in limited access situations.,vehicles
+drive over speed limit,United Arab Emirates,illegal,Speeding is illegal in the UAE and heavily enforced with automated radar systems.,vehicles
+drive recklessly,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,United Arab Emirates,illegal,Drink driving is illegal in the UAE with a zero-tolerance policy for alcohol.,vehicles
+drive uninsured,United Arab Emirates,illegal,Driving without valid insurance is illegal in the UAE and can result in fines and penalties.,vehicles
+drive with expired licence,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,United Arab Emirates,illegal,Driving with expired registration is illegal in the UAE and can lead to fines and penalties.,vehicles
+drive without inspection,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,United Arab Emirates,illegal,Driving without a valid licence in the UAE is illegal and can lead to severe penalties.,vehicles
+drive without MOT,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,United Arab Emirates,illegal,Driving an unregistered vehicle is illegal in the UAE and can lead to fines and confiscation.,vehicles
+drive without tax,United Arab Emirates,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,United Arab Emirates,illegal,Wearing a seatbelt is mandatory for drivers and passengers in the UAE.,vehicles
+use phone while driving,United Arab Emirates,illegal,Using a handheld phone while driving is illegal in the UAE and subject to fines and black points.,vehicles

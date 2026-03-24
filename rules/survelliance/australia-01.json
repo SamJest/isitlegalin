@@ -1,0 +1,442 @@
+[
+  {
+    "id": "australia-cctv-home",
+    "query": "is home cctv legal in australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Home CCTV is generally legal in Australia, especially when used to monitor your own property. Privacy issues arise if cameras capture neighbouring properties or private areas.",
+    "conditions": [
+      "Cameras should primarily monitor your own property.",
+      "Recording public areas may be allowed but should be reasonable.",
+      "Footage should not be misused or shared unlawfully."
+    ],
+    "exceptions": [
+      "Recording private areas like bathrooms or bedrooms is likely illegal.",
+      "State and territory laws can differ, especially for audio recording."
+    ],
+    "penalties": {
+      "fine": "Possible fines under privacy or surveillance laws",
+      "jail": "Possible in serious breaches",
+      "notes": "Penalties usually relate to misuse or invasion of privacy."
+    },
+    "enforcement": "Complaints are typically handled by state regulators or civil proceedings.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian privacy principles",
+      "State surveillance laws"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "australia-cctv-business",
+    "query": "is business cctv legal in australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Businesses in Australia can use CCTV for security and safety, but must comply with privacy and workplace surveillance laws.",
+    "conditions": [
+      "Monitoring must have a clear and lawful purpose.",
+      "Signage or notice is typically required.",
+      "Data collection must be limited and secure."
+    ],
+    "exceptions": [
+      "Covert surveillance is restricted and often requires authorization.",
+      "Employee monitoring laws vary by state."
+    ],
+    "penalties": {
+      "fine": "Possible fines or regulatory penalties",
+      "jail": "Possible in serious unlawful surveillance cases",
+      "notes": "Penalties depend on the level of intrusion and compliance."
+    },
+    "enforcement": "Regulators or courts may act following complaints or audits.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian Privacy Act",
+      "State workplace surveillance laws"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "australia-hidden-cameras",
+    "query": "are hidden cameras legal in australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Hidden cameras are not automatically illegal in Australia, but using them without consent in private settings can breach surveillance laws.",
+    "conditions": [
+      "Use must not violate reasonable expectations of privacy.",
+      "Secret recording is heavily restricted in many states.",
+      "Audio recording often has stricter consent requirements."
+    ],
+    "exceptions": [
+      "Law enforcement may have special powers under warrant.",
+      "Certain investigations may justify limited covert use."
+    ],
+    "penalties": {
+      "fine": "Possible fines under state surveillance laws",
+      "jail": "Possible in serious cases",
+      "notes": "Penalties vary significantly by state and severity."
+    },
+    "enforcement": "Authorities typically act after complaints or discovery of covert surveillance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State surveillance devices laws",
+      "Australian privacy guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "australia-audio-recording",
+    "query": "is audio recording legal in australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Audio recording laws in Australia vary by state, but generally require consent from at least one or all parties depending on the jurisdiction.",
+    "conditions": [
+      "Consent rules differ between states and territories.",
+      "Recording must not be for unlawful purposes.",
+      "Private conversations are more protected."
+    ],
+    "exceptions": [
+      "Some states allow one-party consent under certain conditions.",
+      "Public conversations may have fewer restrictions."
+    ],
+    "penalties": {
+      "fine": "Possible fines under surveillance laws",
+      "jail": "Possible in serious breaches",
+      "notes": "Penalties depend on state law and context."
+    },
+    "enforcement": "Cases often arise when recordings are disclosed in disputes or complaints.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State surveillance legislation",
+      "Australian privacy principles"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "australia-video-recording-public",
+    "query": "is it legal to record video in public in australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Recording video in public places is generally legal in Australia, provided it does not breach privacy expectations or involve harassment.",
+    "conditions": [
+      "Filming in public areas is usually permitted.",
+      "Recording must not be used to harass or intimidate.",
+      "Private property rules must still be followed."
+    ],
+    "exceptions": [
+      "Restricted locations may prohibit filming.",
+      "Recording sensitive situations may lead to legal issues."
+    ],
+    "penalties": {
+      "fine": "Usually tied to related offenses like trespass",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Recording itself is generally lawful in public."
+    },
+    "enforcement": "Authorities typically act only if recording is linked to other unlawful conduct.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian privacy guidance",
+      "Public filming rules"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "australia-recording-police",
+    "query": "is it legal to record police in australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Recording police in public is generally allowed in Australia as long as it does not interfere with their duties.",
+    "conditions": [
+      "You must not obstruct or interfere with police.",
+      "Recording should take place in public spaces.",
+      "You must follow lawful directions from officers."
+    ],
+    "exceptions": [
+      "Restricted or secured areas may limit recording.",
+      "Interference may lead to charges."
+    ],
+    "penalties": {
+      "fine": "Possible fines for obstruction",
+      "jail": "Possible if interfering with police",
+      "notes": "Legal risk usually relates to behaviour, not recording itself."
+    },
+    "enforcement": "Disputes arise when recording disrupts police activity.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian policing law principles",
+      "Civil liberties guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "australia-drone-surveillance",
+    "query": "is drone surveillance legal in australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Drone use is legal in Australia under aviation rules, but using drones to monitor people or property can raise privacy concerns.",
+    "conditions": [
+      "Drone operation must follow aviation safety rules.",
+      "Flights should avoid restricted areas.",
+      "Recording private property may create legal issues."
+    ],
+    "exceptions": [
+      "Commercial drone use may require licensing.",
+      "Local rules may impose additional restrictions."
+    ],
+    "penalties": {
+      "fine": "Possible aviation or privacy fines",
+      "jail": "Possible in serious cases",
+      "notes": "Both flight and privacy laws can apply."
+    },
+    "enforcement": "Authorities may act on aviation breaches or privacy complaints.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CASA drone rules",
+      "Australian privacy law"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "australia-gps-tracking",
+    "query": "is gps tracking someone legal in australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "GPS tracking laws in Australia depend on context, but secretly tracking someone without consent can be unlawful under surveillance or stalking laws.",
+    "conditions": [
+      "Tracking your own vehicle is generally allowed.",
+      "Tracking another person without consent may be illegal.",
+      "Use linked to harassment or stalking is prohibited."
+    ],
+    "exceptions": [
+      "Employers may track company vehicles with notice.",
+      "Parents may monitor minor children in some situations."
+    ],
+    "penalties": {
+      "fine": "Possible fines under surveillance laws",
+      "jail": "Possible in serious cases",
+      "notes": "Penalties depend on intent and level of intrusion."
+    },
+    "enforcement": "Cases often arise in domestic or workplace disputes.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State surveillance laws",
+      "Australian criminal law"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "australia-employee-monitoring",
+    "query": "is employee monitoring legal in australia",
+    "location": "Australia",
+    "verdict": "Yes",
+    "summary": "Employee monitoring is legal in Australia if it is transparent and justified, but covert or excessive monitoring can breach workplace laws.",
+    "conditions": [
+      "Employees should be informed about monitoring.",
+      "Monitoring must have a legitimate purpose.",
+      "Data collected must be proportionate."
+    ],
+    "exceptions": [
+      "Covert monitoring may require authorization.",
+      "State laws can impose additional requirements."
+    ],
+    "penalties": {
+      "fine": "Possible fines under workplace laws",
+      "jail": "Not specified",
+      "notes": "Most issues arise from hidden or excessive monitoring."
+    },
+    "enforcement": "Complaints are handled through regulators or employment tribunals.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian workplace laws",
+      "State surveillance acts"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "australia-phone-call-recording",
+    "query": "is recording phone calls legal in australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Recording phone calls in Australia depends on state laws, with some requiring consent from all parties and others allowing one-party consent in limited situations.",
+    "conditions": [
+      "Consent requirements vary by state.",
+      "Recording must not be for unlawful purposes.",
+      "Businesses should inform callers when recording."
+    ],
+    "exceptions": [
+      "Recording calls you are not part of is illegal.",
+      "Interstate calls can complicate consent rules."
+    ],
+    "penalties": {
+      "fine": "Possible fines under surveillance laws",
+      "jail": "Possible in serious breaches",
+      "notes": "The key issue is whether proper consent was obtained."
+    },
+    "enforcement": "Enforcement often occurs when recordings are revealed in disputes.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "State surveillance laws",
+      "Australian privacy guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

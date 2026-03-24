@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

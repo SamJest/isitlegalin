@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Thailand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

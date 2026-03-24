@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Sri Lanka,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

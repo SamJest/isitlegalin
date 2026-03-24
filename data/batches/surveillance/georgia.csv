@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Georgia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Georgia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Georgia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Georgia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Georgia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Georgia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Georgia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Georgia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

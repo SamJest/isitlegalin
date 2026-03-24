@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Czech Republic,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

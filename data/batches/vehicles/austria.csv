@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Austria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "france-speeding",
+    "query": "is speeding illegal in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Speeding is illegal in France and strictly enforced with widespread use of speed cameras.",
+    "conditions": [
+      "Speed limits vary by road and weather conditions",
+      "Lower limits apply in urban areas",
+      "Higher penalties for large excess speeds"
+    ],
+    "exceptions": [
+      "Emergency vehicles on duty",
+      "Limited police discretion"
+    ],
+    "penalties": {
+      "fine": "Fixed fines depending on excess speed",
+      "jail": "Possible for serious offences",
+      "notes": "Points deducted from licence"
+    },
+    "enforcement": "Automated speed cameras and police checks are widely used.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French road traffic code",
+      "Government transport guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["drink-driving", "dangerous-driving"]
+  },
+  {
+    "id": "france-driving-without-license",
+    "query": "is it illegal to drive without a license in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Driving without a valid licence is illegal in France and considered a serious offence.",
+    "conditions": [
+      "Drivers must hold a valid licence",
+      "Foreign licences must be recognised",
+      "Driving while banned increases penalties"
+    ],
+    "exceptions": [
+      "Learner drivers under supervision",
+      "Temporary licence recognition rules"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Vehicle may be confiscated"
+    },
+    "enforcement": "Police routinely check licences during stops and roadside checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French traffic law",
+      "Government guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "france-drink-driving",
+    "query": "is drink driving illegal in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Drink driving above legal alcohol limits is illegal in France and strictly enforced.",
+    "conditions": [
+      "Low blood alcohol limits apply",
+      "Lower limits for new drivers",
+      "Applies to all drivers"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "Strict enforcement applies"
+    ],
+    "penalties": {
+      "fine": "High fines",
+      "jail": "Possible imprisonment",
+      "notes": "Licence suspension common"
+    },
+    "enforcement": "Police carry out roadside breath tests and checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French criminal code",
+      "Road safety law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "france-using-phone-driving",
+    "query": "is using your phone while driving illegal in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal in France, even when stopped in traffic.",
+    "conditions": [
+      "Handheld phone use is banned",
+      "Applies to calls and messaging",
+      "Vehicle must be parked safely to use"
+    ],
+    "exceptions": [
+      "Hands-free use is allowed",
+      "Emergency calls permitted"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Rare",
+      "notes": "Points deducted from licence"
+    },
+    "enforcement": "Police enforce through patrols and traffic stops.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French road code",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "france-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Driving without mandatory insurance is illegal in France and carries severe penalties.",
+    "conditions": [
+      "Third-party insurance is required",
+      "Applies to all vehicles",
+      "Proof must be available"
+    ],
+    "exceptions": [
+      "None for public road use",
+      "Special exemptions are rare"
+    ],
+    "penalties": {
+      "fine": "High fines",
+      "jail": "Possible imprisonment",
+      "notes": "Vehicle may be seized"
+    },
+    "enforcement": "Authorities check insurance through registration systems and roadside checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French insurance law",
+      "Government transport guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "driving-without-registration"]
+  },
+  {
+    "id": "france-driving-without-registration",
+    "query": "is it illegal to drive without registration in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in France and subject to fines and penalties.",
+    "conditions": [
+      "Vehicles must be registered",
+      "Registration must be current",
+      "Number plates must be displayed"
+    ],
+    "exceptions": [
+      "Temporary registration permits",
+      "Short grace periods"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Rare",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Police and automated systems verify registration status.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French vehicle law",
+      "Transport authority"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "france-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Wearing a seatbelt is mandatory in France for drivers and passengers.",
+    "conditions": [
+      "Seatbelts must be worn if fitted",
+      "Applies to all occupants",
+      "Child restraint laws apply"
+    ],
+    "exceptions": [
+      "Medical exemptions",
+      "Certain vehicles"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Not typical",
+      "notes": "Points deducted from licence"
+    },
+    "enforcement": "Police enforce seatbelt rules during traffic stops.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French road code",
+      "Safety regulations"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "france-driving-on-pavement",
+    "query": "is it illegal to drive on the pavement in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Driving on pavements is illegal in France except for accessing property or permitted areas.",
+    "conditions": [
+      "Pavements are for pedestrians",
+      "Driving is restricted",
+      "Must use designated access points"
+    ],
+    "exceptions": [
+      "Accessing private property",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Rare",
+      "notes": "May be treated as traffic offence"
+    },
+    "enforcement": "Police enforce based on safety concerns and local rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French traffic law",
+      "Municipal regulations"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-on-pavement",
+      "label": "Driving on Pavement",
+      "query_label": "drive on pavement legality",
+      "action_label": "drive on pavement",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "france-dangerous-driving",
+    "query": "what is dangerous driving in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Dangerous driving is illegal in France and includes behaviour that endangers others.",
+    "conditions": [
+      "Driving that risks safety",
+      "Includes reckless or aggressive driving",
+      "Can be treated as a criminal offence"
+    ],
+    "exceptions": [
+      "Emergency services in duty",
+      "None for normal drivers"
+    ],
+    "penalties": {
+      "fine": "High fines",
+      "jail": "Possible imprisonment",
+      "notes": "Licence suspension likely"
+    },
+    "enforcement": "Police investigate incidents and enforce based on evidence.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French criminal code",
+      "Traffic law guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "france-driving-without-technical-control",
+    "query": "is it illegal to drive without technical inspection in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Driving without a valid technical inspection (contrôle technique) is illegal in France.",
+    "conditions": [
+      "Vehicles must pass periodic inspections",
+      "Inspection must be valid",
+      "Applies to most vehicles"
+    ],
+    "exceptions": [
+      "Driving to a scheduled inspection",
+      "New vehicles within initial period"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Not typical",
+      "notes": "Vehicle may be restricted"
+    },
+    "enforcement": "Authorities check inspection status during stops and via databases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French vehicle inspection law",
+      "Government transport guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-technical-control",
+      "label": "Driving Without Technical Inspection",
+      "query_label": "vehicle inspection legality",
+      "action_label": "drive without inspection",
+      "requirement_label": "valid inspection required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "driving-without-insurance"]
+  }
+]

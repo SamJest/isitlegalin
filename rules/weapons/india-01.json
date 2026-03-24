@@ -1,0 +1,412 @@
+[
+  {
+    "id": "india-pepper-spray",
+    "query": "is pepper spray legal in India",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Pepper spray is generally legal for personal self-defence in India and widely available for civilian use.",
+    "conditions": [
+      "Must be used only for self-defence",
+      "Misuse can lead to criminal charges",
+      "Carrying in restricted places may be prohibited"
+    ],
+    "exceptions": [
+      "Use in non-defensive situations can be treated as assault",
+      "Certain secured locations may restrict possession"
+    ],
+    "penalties": {
+      "fine": "Possible fine if misused",
+      "jail": "Possible imprisonment if used unlawfully",
+      "notes": "Legal possession does not permit misuse"
+    },
+    "enforcement": "Police typically intervene only in cases of misuse or in restricted areas.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian criminal law",
+      "General self-defence guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to carry pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "india-stun-gun",
+    "query": "is a stun gun legal in India",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Stun guns fall into a grey area in India and may be restricted under arms laws depending on classification and use.",
+    "conditions": [
+      "May be treated as a prohibited weapon",
+      "Importing can be restricted",
+      "Use must comply with self-defence laws"
+    ],
+    "exceptions": [
+      "Low-power devices may be treated differently",
+      "Law enforcement use is permitted"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Legal status is unclear and risky"
+    },
+    "enforcement": "Authorities may seize devices and assess legality under arms regulations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Arms Act",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "india-taser",
+    "query": "is a taser legal in India",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Tasers are not clearly regulated in India but may be restricted under broader weapons laws, making civilian ownership risky.",
+    "conditions": [
+      "May fall under arms regulations",
+      "Importing is restricted",
+      "Use must be lawful self-defence"
+    ],
+    "exceptions": [
+      "Official use by law enforcement",
+      "Certain low-powered devices may be treated differently"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Unclear classification increases risk"
+    },
+    "enforcement": "Police may interpret tasers as restricted weapons depending on context.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Arms Act",
+      "Legal interpretation guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "india-baton",
+    "query": "is it legal to carry a baton in India",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Carrying a baton in India may be legal in some contexts, but carrying it as a weapon can lead to legal issues.",
+    "conditions": [
+      "Intent determines legality",
+      "Use as a weapon can be illegal",
+      "Public disturbance laws may apply"
+    ],
+    "exceptions": [
+      "Professional or security use",
+      "Transport for legitimate purposes"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Context matters"
+    },
+    "enforcement": "Police evaluate whether the item is intended for use as a weapon.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "Public order laws"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "india-brass-knuckles",
+    "query": "are brass knuckles legal in India",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Brass knuckles are generally considered illegal weapons in India and can lead to criminal charges if possessed.",
+    "conditions": [
+      "Classified as offensive weapon",
+      "Possession can be illegal",
+      "Use may result in assault charges"
+    ],
+    "exceptions": [
+      "Official or evidential use",
+      "Law enforcement handling"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Treated as weapon"
+    },
+    "enforcement": "Police may confiscate and charge individuals for possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "Weapons law guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "india-switchblade",
+    "query": "is a switchblade legal in India",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Switchblades are regulated in India, with legality depending on blade size and local laws.",
+    "conditions": [
+      "Blade length limits apply",
+      "Carrying in public may be restricted",
+      "Use must comply with law"
+    ],
+    "exceptions": [
+      "Small knives may be legal",
+      "Utility use may be accepted"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Blade size matters"
+    },
+    "enforcement": "Police assess knife size and context when enforcing laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Arms Act",
+      "Knife regulations"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "india-butterfly-knife",
+    "query": "is a butterfly knife legal in India",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Butterfly knives are not specifically banned but may be restricted depending on blade size and intended use.",
+    "conditions": [
+      "Blade size limits apply",
+      "Public carry may be restricted",
+      "Intent to use as weapon matters"
+    ],
+    "exceptions": [
+      "Small knives may be allowed",
+      "Collection use may be tolerated"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Context determines legality"
+    },
+    "enforcement": "Authorities evaluate size and context of possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian knife laws",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "india-kubotan",
+    "query": "is a kubotan legal in India",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Kubotans are generally legal in India as simple keychain tools and are not specifically regulated.",
+    "conditions": [
+      "Must not be used unlawfully",
+      "Design should not be clearly weaponised",
+      "Use must comply with self-defence laws"
+    ],
+    "exceptions": [
+      "Weapon-like versions may be restricted",
+      "Use in crime changes legality"
+    ],
+    "penalties": {
+      "fine": "Possible fine if misused",
+      "jail": "Possible imprisonment",
+      "notes": "Generally low-risk item"
+    },
+    "enforcement": "Usually not enforced unless used in a criminal act.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian legal guidance",
+      "General criminal law"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "india-sword-carry-public",
+    "query": "can you carry a sword in public in India",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public in India may be legal in certain cultural or ceremonial contexts but can be restricted otherwise.",
+    "conditions": [
+      "Public order laws apply",
+      "Intent matters",
+      "Certain regions may restrict carry"
+    ],
+    "exceptions": [
+      "Religious or cultural practices",
+      "Ceremonial events"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Context is key"
+    },
+    "enforcement": "Police evaluate the reason for carrying and local laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "Public order regulations"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "india-self-defence-keychain",
+    "query": "is a self defence keychain legal in India",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Self-defence keychains are generally legal in India if they are ordinary items and not clearly designed as weapons.",
+    "conditions": [
+      "Must not be used unlawfully",
+      "Design should not be weaponised",
+      "Use must comply with self-defence laws"
+    ],
+    "exceptions": [
+      "Weapon-like designs may be restricted",
+      "Use in criminal activity changes legality"
+    ],
+    "penalties": {
+      "fine": "Possible fine if misused",
+      "jail": "Possible imprisonment",
+      "notes": "Generally allowed"
+    },
+    "enforcement": "Usually ignored unless used in an offence.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian legal guidance",
+      "Criminal law"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

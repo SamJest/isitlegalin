@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,South Korea,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,South Korea,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,South Korea,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,South Korea,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,South Korea,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,South Korea,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,South Korea,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,South Korea,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,South Korea,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

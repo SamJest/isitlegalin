@@ -1,0 +1,222 @@
+[
+{
+"id": "uk-vpn-legality",
+"query": "is vpn legal in uk",
+"location": "United Kingdom",
+"verdict": "Yes",
+"summary": "Using a VPN is legal in the UK, but illegal activities remain illegal even when using one.",
+"conditions": [
+"VPN use itself is not prohibited",
+"Must not be used to commit crimes",
+"Service providers must comply with UK law"
+],
+"exceptions": [
+"Using VPN to bypass lawful restrictions may raise issues",
+"Corporate networks may restrict VPN use"
+],
+"penalties": {
+"fine": "Depends on underlying offence",
+"jail": "Depends on underlying offence",
+"notes": "VPN use is legal but does not provide immunity"
+},
+"enforcement": "Authorities focus on illegal activity rather than VPN usage itself",
+"last_updated": "2026-01-01",
+"sources": [
+"UK legislation",
+"ICO guidance"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "uk-torrenting-legality",
+"query": "is torrenting legal in uk",
+"location": "United Kingdom",
+"verdict": "Depends",
+"summary": "Torrenting itself is legal, but downloading or sharing copyrighted content without permission is illegal.",
+"conditions": [
+"Legal if content is not copyrighted",
+"Illegal if distributing pirated material",
+"ISPs may monitor activity"
+],
+"exceptions": [
+"Open-source torrents are allowed",
+"Permission from copyright holder makes it legal"
+],
+"penalties": {
+"fine": "Fines or civil damages possible",
+"jail": "Rare but possible for large-scale infringement",
+"notes": "Enforcement often via civil action"
+},
+"enforcement": "Copyright holders may pursue legal action through ISPs",
+"last_updated": "2026-01-01",
+"sources": [
+"UK copyright law",
+"Intellectual Property Office"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "uk-streaming-pirated-content",
+"query": "is streaming pirated content legal in uk",
+"location": "United Kingdom",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in the UK as it involves accessing copyrighted material without permission.",
+"conditions": [
+"Applies to movies, TV and sports",
+"Includes live streaming services",
+"Copyright laws apply"
+],
+"exceptions": [
+"None for unauthorised streams",
+"Licensed platforms are legal"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible in serious cases",
+"notes": "Often targeted at distributors"
+},
+"enforcement": "Authorities target illegal streaming services and providers",
+"last_updated": "2026-01-01",
+"sources": [
+"UK copyright law",
+"FACT UK"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "uk-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in uk",
+"location": "United Kingdom",
+"verdict": "No",
+"summary": "Downloading copyrighted movies without permission is illegal in the UK.",
+"conditions": [
+"Applies to all copyrighted media",
+"Includes peer-to-peer downloads",
+"Permission is required"
+],
+"exceptions": [
+"Public domain content is allowed",
+"Licensed downloads are legal"
+],
+"penalties": {
+"fine": "Fines or damages",
+"jail": "Possible for serious offences",
+"notes": "Civil enforcement is common"
+},
+"enforcement": "ISPs may issue warnings and rights holders may take action",
+"last_updated": "2026-01-01",
+"sources": [
+"UK Intellectual Property Office",
+"Copyright law"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "uk-online-gambling-legality",
+"query": "is online gambling legal in uk",
+"location": "United Kingdom",
+"verdict": "Yes",
+"summary": "Online gambling is legal in the UK if operators are licensed by the Gambling Commission.",
+"conditions": [
+"Operators must hold UK licence",
+"Age restrictions apply",
+"Consumer protections required"
+],
+"exceptions": [
+"Unlicensed operators are illegal",
+"Access to offshore sites may be restricted"
+],
+"penalties": {
+"fine": "Fines for operators",
+"jail": "Possible for illegal operators",
+"notes": "Players rarely prosecuted"
+},
+"enforcement": "Regulated by the UK Gambling Commission",
+"last_updated": "2026-01-01",
+"sources": [
+"UK Gambling Commission",
+"Gambling Act"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

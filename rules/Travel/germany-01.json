@@ -1,0 +1,442 @@
+[
+  {
+    "id": "germany-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into germany",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "You can bring alcohol into Germany for personal use, but limits apply depending on where you are travelling from.",
+    "conditions": [
+      "EU travel allows higher personal-use quantities.",
+      "Non-EU arrivals have duty-free limits.",
+      "Alcohol must be for personal use."
+    ],
+    "exceptions": [
+      "Commercial quantities require declaration.",
+      "Duty applies above limits."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Exceeding limits without declaration can lead to confiscation."
+    },
+    "enforcement": "Customs officers may inspect luggage and question quantities.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German customs authority",
+      "EU customs rules"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "germany-carrying-cash-limit",
+    "query": "how much cash can you bring into germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "There is no limit on bringing cash into Germany, but amounts over €10,000 must be declared.",
+    "conditions": [
+      "Cash over €10,000 must be declared.",
+      "Declaration must be accurate.",
+      "Funds must be legally obtained."
+    ],
+    "exceptions": [
+      "Failure to declare can result in penalties.",
+      "Suspicious funds may be investigated."
+    ],
+    "penalties": {
+      "fine": "Fines or seizure",
+      "jail": "Possible in serious cases",
+      "notes": "Anti-money laundering rules apply."
+    },
+    "enforcement": "Customs and financial authorities monitor cash declarations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German customs authority",
+      "EU financial regulations"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "germany-bringing-medication",
+    "query": "can you bring medication into germany",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "Medication can be brought into Germany for personal use, but controlled substances require documentation.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry a prescription or doctor’s letter.",
+      "Controlled drugs have strict limits."
+    ],
+    "exceptions": [
+      "Certain substances require permits.",
+      "Large quantities may be questioned."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Rules depend on the medication type."
+    },
+    "enforcement": "Customs may inspect medications at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Federal Institute for Drugs",
+      "Customs guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "germany-bringing-food-into-country",
+    "query": "can you bring food into germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Food imports into Germany are regulated, with restrictions on certain animal products and fresh items.",
+    "conditions": [
+      "Some foods are restricted or prohibited.",
+      "Animal products face stricter controls.",
+      "Inspection may occur at the border."
+    ],
+    "exceptions": [
+      "Food from EU countries may have fewer restrictions.",
+      "Packaged goods are often allowed."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Not specified",
+      "notes": "Biosecurity rules apply across the EU."
+    },
+    "enforcement": "Customs officers may inspect food items at entry.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German customs authority",
+      "EU food import rules"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "germany-carrying-tobacco",
+    "query": "how much tobacco can you bring into germany",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "Tobacco can be brought into Germany within EU or duty-free limits depending on origin.",
+    "conditions": [
+      "EU travel allows higher limits for personal use.",
+      "Non-EU arrivals have duty-free limits.",
+      "Items must be for personal use."
+    ],
+    "exceptions": [
+      "Exceeding limits may require duty payment.",
+      "Commercial intent is not allowed."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance may lead to penalties."
+    },
+    "enforcement": "Customs monitors tobacco imports and may inspect luggage.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German customs authority",
+      "EU customs rules"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "germany-bringing-electronics",
+    "query": "can you bring electronics into germany",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "Personal electronics can be brought into Germany, but high-value items may be subject to duty.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Duty may apply above allowances."
+    ],
+    "exceptions": [
+      "Commercial imports require documentation.",
+      "New items may be taxed."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare may lead to penalties."
+    },
+    "enforcement": "Customs officers may inspect goods at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German customs authority",
+      "EU customs rules"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "germany-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into germany",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "Prescription drugs can be brought into Germany for personal use, but controlled substances require documentation.",
+    "conditions": [
+      "Carry a prescription or medical certificate.",
+      "Keep medication in original packaging.",
+      "Only bring reasonable quantities."
+    ],
+    "exceptions": [
+      "Certain drugs require special permits.",
+      "Large quantities may be restricted."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Strict rules apply to controlled substances."
+    },
+    "enforcement": "Customs may inspect medications and verify documents.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Federal Institute for Drugs",
+      "Customs guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "germany-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Most weapons are prohibited from being brought into Germany, with strict import regulations.",
+    "conditions": [
+      "Weapons are heavily regulated.",
+      "Permits are required for certain items.",
+      "Airline and customs rules apply."
+    ],
+    "exceptions": [
+      "Licensed sporting equipment may be allowed.",
+      "Special permits may be granted."
+    ],
+    "penalties": {
+      "fine": "Fines and confiscation",
+      "jail": "Possible imprisonment",
+      "notes": "Strict weapons laws apply."
+    },
+    "enforcement": "Customs strictly enforces weapon import restrictions.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German weapons law",
+      "Customs authority guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "germany-customs-declaration-required",
+    "query": "do you need to declare items at germany customs",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "You must declare goods when entering Germany if they exceed allowances or are restricted items.",
+    "conditions": [
+      "Declare goods above duty-free limits.",
+      "Use the appropriate customs channel.",
+      "Be truthful in declarations."
+    ],
+    "exceptions": [
+      "Personal goods within limits may not require declaration.",
+      "Certain goods must always be declared."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations can lead to penalties."
+    },
+    "enforcement": "Customs officers verify declarations and inspect luggage.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German customs authority",
+      "EU customs rules"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "germany-duty-free-limits",
+    "query": "what are duty free limits in germany",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply when entering Germany, especially for non-EU travel.",
+    "conditions": [
+      "Allowances vary depending on origin.",
+      "Goods must be for personal use.",
+      "Exceeding limits requires duty payment."
+    ],
+    "exceptions": [
+      "EU travel has different rules.",
+      "Commercial goods are excluded."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance leads to penalties."
+    },
+    "enforcement": "Customs ensures compliance with duty-free rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German customs authority",
+      "EU customs rules"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

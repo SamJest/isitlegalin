@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Norway,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

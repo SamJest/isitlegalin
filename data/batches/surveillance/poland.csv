@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Poland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Poland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Poland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Poland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Poland,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Poland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Poland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Poland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Poland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

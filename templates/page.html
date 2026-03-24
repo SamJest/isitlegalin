@@ -1,0 +1,170 @@
+<div class="site-shell">
+  <header class="masthead">
+    <div class="masthead__brand">
+      <a class="brand-mark" href="/">Is It Legal In</a>
+      <p class="brand-subtitle">Legal intelligence across countries</p>
+    </div>
+    <nav class="masthead__nav" aria-label="Primary">
+      <a href="/browse/">Browse</a>
+      <a href="/countries/">Countries</a>
+      <a href="/topics/">Topics</a>
+      <a href="/legal/">Intents</a>
+    </nav>
+    <form class="masthead__search" action="/browse/" method="get">
+      <input type="search" name="q" placeholder="Search rules, countries, or actions">
+      <button type="submit">Search</button>
+    </form>
+  </header>
+
+  <main class="page-frame">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      {{breadcrumbs_html}}
+    </nav>
+
+    <section class="hero-panel">
+      <div class="hero-panel__copy">
+        <p class="eyebrow">{{location}} | {{region}} | {{query_type_label}}</p>
+        <h1>{{h1}}</h1>
+        <p class="article-meta">Structured guidance for <strong>{{location}}</strong> | Updated {{last_updated}}</p>
+        <div class="hero-status">
+          <span class="status-badge status-badge--{{verdict_slug}}">{{verdict}}</span>
+          <span class="status-badge status-badge--muted">{{risk_label}}</span>
+          <span class="status-badge status-badge--muted">Source trail {{source_count}}</span>
+        </div>
+        <div class="quick-answer quick-answer--{{verdict_slug}}">
+          <p class="quick-answer__label">Decision summary</p>
+          <p class="quick-answer__text">{{direct_answer}}</p>
+          <p class="quick-answer__note">{{quick_answer}}</p>
+        </div>
+        <p class="hero-summary">{{summary}}</p>
+        <p class="context-links">{{context_links_html}}</p>
+
+        <div class="hero-actions">
+          <button class="action-button action-button--primary" type="button" data-copy-answer data-copy-text="{{copy_text}}">Copy answer</button>
+          <button class="action-button action-button--ghost" type="button" data-save-page>Save page</button>
+          <a class="action-button action-button--ghost" href="/browse/">Open explorer</a>
+        </div>
+
+        <div class="intent-switcher">
+          {{query_type_switcher_html}}
+        </div>
+      </div>
+
+      <aside class="hero-panel__decision">
+        <div class="decision-card decision-card--{{verdict_slug}}">
+          <p class="decision-card__label">Baseline status</p>
+          <div class="decision-card__value">{{verdict}}</div>
+          <div class="decision-card__stack">
+            <p class="decision-card__meta">{{risk_label}}</p>
+            <p class="decision-card__meta">Risk score {{risk_score}}</p>
+          </div>
+        </div>
+
+        <div class="signal-grid">
+          {{signal_cards_html}}
+        </div>
+      </aside>
+    </section>
+
+    <div class="content-layout">
+      <div class="content-main">
+        <section class="panel panel--summary">
+          <div class="panel-heading">
+            <p class="panel-kicker">Snapshot</p>
+            <h2>Decision snapshot</h2>
+          </div>
+          <ul class="signal-list">
+            {{summary_points_html}}
+          </ul>
+        </section>
+
+        {{conditions_section_html}}
+
+        {{verify_section_html}}
+
+        {{exceptions_section_html}}
+
+        {{penalties_section_html}}
+
+        {{enforcement_section_html}}
+
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="panel-kicker">Explore</p>
+            <h2>Keep exploring this rule</h2>
+            <p class="section-intro">Compare jurisdictions, move into nearby activities, or open the surrounding hub pages without losing the legal context.</p>
+          </div>
+          {{link_groups_html}}
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="panel-kicker">FAQ</p>
+            <h2>Common questions</h2>
+          </div>
+          <div class="faq-list">
+            {{faq_html}}
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="panel-kicker">Country</p>
+            <h2>Explore more rules in {{location}}</h2>
+            <p class="section-intro">Use related pages to understand how this answer fits into the broader legal picture for {{location}}.</p>
+          </div>
+          <div class="related-grid">
+            {{country_links_html}}
+          </div>
+        </section>
+      </div>
+
+      <aside class="content-side">
+        <section class="panel panel--side">
+          <div class="panel-heading">
+            <p class="panel-kicker">Country</p>
+            <h2>{{location}}</h2>
+          </div>
+          <div class="stat-list">
+            {{country_snapshot_html}}
+          </div>
+        </section>
+
+        <section class="panel panel--side">
+          <div class="panel-heading">
+            <p class="panel-kicker">Topic</p>
+            <h2>{{topic_label}}</h2>
+          </div>
+          <div class="stat-list">
+            {{topic_snapshot_html}}
+          </div>
+        </section>
+
+        <section class="panel panel--side">
+          <div class="panel-heading">
+            <p class="panel-kicker">Sources</p>
+            <h2>Source trail</h2>
+          </div>
+          <ul class="source-list">
+            {{sources_html}}
+          </ul>
+          <div class="meta-note">
+            <p><strong>Canonical:</strong> <code>{{canonical_path}}</code></p>
+            <p><strong>Last updated:</strong> {{last_updated}}</p>
+            <p><strong>Sources used:</strong> {{source_count}}</p>
+          </div>
+        </section>
+
+        <section class="panel panel--side">
+          <div class="panel-heading">
+            <p class="panel-kicker">Recent</p>
+            <h2>Recent pages</h2>
+          </div>
+          <div class="recent-list" data-recent-pages></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <script id="pagePayload" type="application/json">{{page_payload_json}}</script>
+</div>

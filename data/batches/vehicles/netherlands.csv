@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

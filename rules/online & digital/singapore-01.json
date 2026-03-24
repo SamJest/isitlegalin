@@ -1,0 +1,222 @@
+[
+{
+"id": "singapore-vpn-legality",
+"query": "is vpn legal in singapore",
+"location": "Singapore",
+"verdict": "Yes",
+"summary": "Using a VPN is legal in Singapore, but it must not be used to commit offences or bypass restrictions unlawfully.",
+"conditions": [
+"VPN use is permitted",
+"Illegal acts remain punishable",
+"Subject to local regulations"
+],
+"exceptions": [
+"Using VPN to access banned content may be illegal",
+"Corporate VPNs widely used"
+],
+"penalties": {
+"fine": "Depends on offence",
+"jail": "Depends on offence",
+"notes": "VPN itself is not banned"
+},
+"enforcement": "Authorities focus on illegal conduct rather than VPN usage",
+"last_updated": "2026-01-01",
+"sources": [
+"Singapore law",
+"IMDA guidance"
+],
+"country": {
+"slug": "singapore",
+"name": "Singapore",
+"region": "Asia"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "singapore-torrenting-legality",
+"query": "is torrenting legal in singapore",
+"location": "Singapore",
+"verdict": "Depends",
+"summary": "Torrenting is legal in Singapore, but downloading or sharing copyrighted material without permission is illegal.",
+"conditions": [
+"Legal for non-copyrighted files",
+"Illegal for pirated content",
+"Strict copyright laws apply"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed content legal"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Enforcement can be strict"
+},
+"enforcement": "Authorities and rights holders monitor and enforce violations",
+"last_updated": "2026-01-01",
+"sources": [
+"Singapore Copyright Act",
+"IMDA"
+],
+"country": {
+"slug": "singapore",
+"name": "Singapore",
+"region": "Asia"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "singapore-streaming-pirated-content",
+"query": "is streaming pirated content legal in singapore",
+"location": "Singapore",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in Singapore under copyright law.",
+"conditions": [
+"Applies to films, TV and sports",
+"Includes unauthorised streaming platforms",
+"Strict enforcement applies"
+],
+"exceptions": [
+"Licensed platforms are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Strict enforcement environment"
+},
+"enforcement": "Authorities actively block illegal streaming sites",
+"last_updated": "2026-01-01",
+"sources": [
+"Singapore Copyright Act",
+"IMDA"
+],
+"country": {
+"slug": "singapore",
+"name": "Singapore",
+"region": "Asia"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "singapore-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in singapore",
+"location": "Singapore",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in Singapore and subject to penalties.",
+"conditions": [
+"Applies to copyrighted media",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Strict enforcement"
+},
+"enforcement": "Authorities actively pursue infringement cases",
+"last_updated": "2026-01-01",
+"sources": [
+"Singapore Copyright Act",
+"IMDA"
+],
+"country": {
+"slug": "singapore",
+"name": "Singapore",
+"region": "Asia"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "singapore-online-gambling-legality",
+"query": "is online gambling legal in singapore",
+"location": "Singapore",
+"verdict": "Depends",
+"summary": "Online gambling is heavily restricted in Singapore, with only limited authorised platforms allowed.",
+"conditions": [
+"Only licensed operators permitted",
+"Strict controls on access",
+"Most foreign sites are blocked"
+],
+"exceptions": [
+"Some state-approved platforms allowed",
+"Exempt operators may exist"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Possible",
+"notes": "Strict regulatory environment"
+},
+"enforcement": "Authorities actively block and regulate online gambling",
+"last_updated": "2026-01-01",
+"sources": [
+"Remote Gambling Act",
+"Singapore government"
+],
+"country": {
+"slug": "singapore",
+"name": "Singapore",
+"region": "Asia"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

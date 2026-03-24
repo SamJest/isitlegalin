@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,India,legal,Alcohol can be brought into India within duty-free limits although rules can vary by state,travel
+bring food into a country,India,restricted,Food items can be brought into India but restrictions apply to some agricultural and animal products,travel
+bringing cash into a country,India,restricted,"Cash can be brought into India, but foreign currency above certain thresholds must be declared.",travel
+bringing duty free goods,India,legal,"Duty-free allowances apply in India for alcohol, tobacco, and goods within specific limits.",travel
+bringing electronics into a country,India,legal,"Personal electronics can be brought into India, but high-value goods may be subject to duty.",travel
+bringing medication into a country,India,legal,"Medication can be brought into India for personal use, but controlled drugs require proper documentation.",travel
+bringing tobacco into a country,India,legal,Tobacco can be brought into India within duty-free limits for personal use.,travel
+bringing weapons in luggage,India,illegal,Weapons are generally prohibited from being brought into India without strict authorization.,travel
+carrying prescription drugs,India,legal,Prescription drugs can be carried into India for personal use with appropriate documentation.,travel
+declaring goods at customs,India,legal,"You must declare certain goods when entering India, especially high-value items, cash, and restricted goods.",travel

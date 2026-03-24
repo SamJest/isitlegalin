@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,India,restricted,"Carrying a baton in India may be legal in some contexts, but carrying it as a weapon can lead to legal issues.",self-defence-weapons
+carry a kubotan,India,legal,Kubotans are generally legal in India as simple keychain tools,self-defence-weapons
+carry a self-defence keychain,India,legal,Self-defence keychains are generally legal in India if they are ordinary items and not clearly designed as weapons.,self-defence-weapons
+carry a sword in public,India,restricted,Carrying a sword in public in India may be legal in certain cultural or ceremonial contexts but can be restricted otherwise.,self-defence-weapons
+carry a taser,India,restricted,"Tasers are not clearly regulated in India but may be restricted under broader weapons laws, making civilian ownership risky.",self-defence-weapons
+carry pepper spray,India,legal,Pepper spray is generally legal for personal self-defence in India,self-defence-weapons
+own a switchblade,India,restricted,"Switchblades are regulated in India, with legality depending on blade size and local laws.",self-defence-weapons
+possess a butterfly knife,India,restricted,Butterfly knives are not specifically banned but may be restricted depending on blade size and intended use.,self-defence-weapons
+possess a stun gun,India,restricted,Stun guns fall into a grey area in India and may be restricted under arms laws depending on classification and use.,self-defence-weapons
+possess brass knuckles,India,illegal,Brass knuckles are generally considered illegal weapons in India and can lead to criminal charges if possessed.,self-defence-weapons

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,United Arab Emirates,illegal,"Recording police officers in the UAE is generally restricted, especially if done without permission or shared publicly.",surveillance
+installing home cctv,United Arab Emirates,legal,"Home CCTV is generally legal in the UAE when used for security, but strict privacy and cybercrime laws apply, especially if others are recorded without consent.",surveillance
+monitoring staff,United Arab Emirates,legal,"Employee monitoring is allowed in the UAE for business purposes, but must respect privacy laws and avoid excessive intrusion.",surveillance
+recording conversations,United Arab Emirates,illegal,Recording conversations without consent is generally illegal in the UAE under strict privacy and cybercrime laws.,surveillance
+recording people in public,United Arab Emirates,restricted,"Recording video in public is restricted in the UAE, especially if individuals are filmed without consent or footage is shared.",surveillance
+recording phone calls,United Arab Emirates,illegal,Recording phone calls without consent is generally illegal in the UAE and can result in serious penalties.,surveillance
+tracking a person or vehicle,United Arab Emirates,illegal,Tracking a person without their consent is generally illegal in the UAE and can lead to serious penalties under privacy and cybercrime laws.,surveillance
+using camera drones,United Arab Emirates,restricted,"Drone use is regulated in the UAE, and using drones for surveillance is heavily restricted, especially in populated or sensitive areas.",surveillance
+using cctv in business,United Arab Emirates,legal,"Business CCTV is widely used in the UAE for security purposes, but must comply with strict privacy and regulatory requirements.",surveillance
+using hidden cameras,United Arab Emirates,illegal,"Hidden cameras are generally illegal in the UAE, especially when used to secretly record individuals without their consent.",surveillance

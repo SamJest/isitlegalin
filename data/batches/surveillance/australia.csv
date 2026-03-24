@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Australia,legal,Recording police in public is generally allowed in Australia as long as it does not interfere with their duties.,surveillance
+installing home cctv,Australia,legal,"Home CCTV is generally legal in Australia, especially when used to monitor your own property. Privacy issues arise if cameras capture neighbouring properties or private areas.",surveillance
+monitoring staff,Australia,legal,"Employee monitoring is legal in Australia if it is transparent and justified, but covert or excessive monitoring can breach workplace laws.",surveillance
+recording conversations,Australia,restricted,"Audio recording laws in Australia vary by state, but generally require consent from at least one or all parties depending on the jurisdiction.",surveillance
+recording people in public,Australia,legal,"Recording video in public places is generally legal in Australia, provided it does not breach privacy expectations or involve harassment.",surveillance
+recording phone calls,Australia,restricted,"Recording phone calls in Australia depends on state laws, with some requiring consent from all parties and others allowing one-party consent in limited situations.",surveillance
+tracking a person or vehicle,Australia,restricted,"GPS tracking laws in Australia depend on context, but secretly tracking someone without consent can be unlawful under surveillance or stalking laws.",surveillance
+using camera drones,Australia,restricted,"Drone use is legal in Australia under aviation rules, but using drones to monitor people or property can raise privacy concerns.",surveillance
+using cctv in business,Australia,legal,"Businesses in Australia can use CCTV for security and safety, but must comply with privacy and workplace surveillance laws.",surveillance
+using hidden cameras,Australia,restricted,"Hidden cameras are not automatically illegal in Australia, but using them without consent in private settings can breach surveillance laws.",surveillance

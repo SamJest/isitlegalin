@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Ireland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Ireland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Ireland,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

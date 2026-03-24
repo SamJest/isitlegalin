@@ -1,0 +1,222 @@
+[
+{
+"id": "australia-vpn-legality",
+"query": "is vpn legal in australia",
+"location": "Australia",
+"verdict": "Yes",
+"summary": "VPN use is legal in Australia, though it cannot be used to carry out illegal activities.",
+"conditions": [
+"Legal for privacy and business use",
+"Illegal acts remain punishable",
+"Subject to Australian law"
+],
+"exceptions": [
+"Workplaces may restrict VPN use",
+"Streaming services may block VPNs"
+],
+"penalties": {
+"fine": "Depends on underlying offence",
+"jail": "Depends on offence",
+"notes": "VPN itself is legal"
+},
+"enforcement": "Authorities focus on illegal conduct rather than VPN use",
+"last_updated": "2026-01-01",
+"sources": [
+"Australian law",
+"ACMA"
+],
+"country": {
+"slug": "australia",
+"name": "Australia",
+"region": "Oceania"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "australia-torrenting-legality",
+"query": "is torrenting legal in australia",
+"location": "Australia",
+"verdict": "Depends",
+"summary": "Torrenting is legal in Australia, but downloading or sharing copyrighted content without permission is illegal.",
+"conditions": [
+"Legal for non-copyrighted content",
+"Illegal for pirated files",
+"ISPs may block sites"
+],
+"exceptions": [
+"Open-source torrents allowed",
+"Licensed content legal"
+],
+"penalties": {
+"fine": "Fines and damages",
+"jail": "Rare",
+"notes": "Civil enforcement common"
+},
+"enforcement": "Site blocking orders are widely used",
+"last_updated": "2026-01-01",
+"sources": [
+"Australian Copyright Act",
+"Federal Court orders"
+],
+"country": {
+"slug": "australia",
+"name": "Australia",
+"region": "Oceania"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "australia-streaming-pirated-content",
+"query": "is streaming pirated content legal in australia",
+"location": "Australia",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in Australia and subject to copyright enforcement.",
+"conditions": [
+"Applies to films, TV and sports",
+"Includes unauthorised platforms",
+"Copyright laws apply"
+],
+"exceptions": [
+"Licensed services are legal",
+"Public domain allowed"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Rare",
+"notes": "Focus often on providers"
+},
+"enforcement": "Authorities use blocking orders and enforcement actions",
+"last_updated": "2026-01-01",
+"sources": [
+"Australian Copyright Act",
+"ACMA"
+],
+"country": {
+"slug": "australia",
+"name": "Australia",
+"region": "Oceania"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "australia-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in australia",
+"location": "Australia",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in Australia under copyright law.",
+"conditions": [
+"Applies to copyrighted media",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Fines or damages",
+"jail": "Rare",
+"notes": "Civil action common"
+},
+"enforcement": "Rights holders may pursue legal action",
+"last_updated": "2026-01-01",
+"sources": [
+"Australian Copyright Act",
+"Federal Court"
+],
+"country": {
+"slug": "australia",
+"name": "Australia",
+"region": "Oceania"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "australia-online-gambling-legality",
+"query": "is online gambling legal in australia",
+"location": "Australia",
+"verdict": "Depends",
+"summary": "Online gambling is partially legal in Australia, with strict restrictions on certain types like online casinos.",
+"conditions": [
+"Sports betting is generally allowed",
+"Online casinos are restricted",
+"Operators must comply with federal law"
+],
+"exceptions": [
+"Offshore services operate in grey areas",
+"State rules may vary"
+],
+"penalties": {
+"fine": "Fines for operators",
+"jail": "Possible for illegal operators",
+"notes": "Players rarely prosecuted"
+},
+"enforcement": "Regulated under the Interactive Gambling Act",
+"last_updated": "2026-01-01",
+"sources": [
+"Interactive Gambling Act",
+"ACMA"
+],
+"country": {
+"slug": "australia",
+"name": "Australia",
+"region": "Oceania"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

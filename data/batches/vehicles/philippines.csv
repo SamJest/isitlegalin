@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

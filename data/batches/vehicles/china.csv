@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,China,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

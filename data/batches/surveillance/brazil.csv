@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Brazil,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Brazil,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Brazil,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Brazil,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Brazil,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Brazil,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Brazil,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Brazil,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

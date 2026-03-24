@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,Canada,legal,Alcohol can be brought into Canada within duty-free limits subject to quantity and provincial rules,travel
+bring food into a country,Canada,restricted,Some food items can be brought into Canada but strict agricultural restrictions apply,travel
+bringing cash into a country,Canada,restricted,"There is no limit on bringing cash into Canada, but amounts over CAD 10,000 must be declared.",travel
+bringing duty free goods,Canada,legal,"Duty-free allowances apply when entering Canada, covering alcohol, tobacco, and other goods within set limits.",travel
+bringing electronics into a country,Canada,legal,"Personal electronics can be brought into Canada, but high-value items may be subject to duty.",travel
+bringing medication into a country,Canada,legal,"Medication can be brought into Canada for personal use, but documentation and quantity limits may apply.",travel
+bringing tobacco into a country,Canada,legal,"Tobacco can be brought into Canada within duty-free limits, but taxes apply above allowances.",travel
+bringing weapons in luggage,Canada,restricted,"Some weapons can be brought into Canada under strict regulations, but many are prohibited.",travel
+carrying prescription drugs,Canada,legal,Prescription drugs can be brought into Canada for personal use if properly documented.,travel
+declaring goods at customs,Canada,legal,"Travelers must declare certain goods when entering Canada, especially items exceeding limits or restricted goods.",travel

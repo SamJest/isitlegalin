@@ -1,0 +1,412 @@
+[
+  {
+    "id": "france-pepper-spray",
+    "query": "is pepper spray legal in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Pepper spray is legal to purchase and possess in France within size limits, but carrying it in public without a valid reason can be restricted.",
+    "conditions": [
+      "Size and capacity limits apply",
+      "Public carry requires legitimate reason",
+      "Use must be proportionate self-defence"
+    ],
+    "exceptions": [
+      "Small canisters are commonly allowed",
+      "Professional or security use may have additional permissions"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Public carry rules are important"
+    },
+    "enforcement": "Police check size limits and whether there is a justified reason for carrying it.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French weapons classification law",
+      "Government public safety guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to carry pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "france-stun-gun",
+    "query": "is a stun gun legal in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Stun guns are regulated in France and may be legal to own, but carrying them in public is generally restricted.",
+    "conditions": [
+      "Classified under controlled weapon categories",
+      "Public carry requires valid reason",
+      "Use must comply with self-defence laws"
+    ],
+    "exceptions": [
+      "Home possession may be allowed",
+      "Professional use may be permitted"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment for misuse",
+      "notes": "Carry restrictions are stricter than ownership"
+    },
+    "enforcement": "Authorities assess whether the item is being carried lawfully and within regulations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French weapons law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "france-taser",
+    "query": "is a taser legal in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Tasers fall under regulated weapons in France and may be legal to own, but carrying them in public usually requires a valid reason.",
+    "conditions": [
+      "Classified as controlled weapons",
+      "Public carry is restricted",
+      "Use must be justified self-defence"
+    ],
+    "exceptions": [
+      "Home possession may be allowed",
+      "Professional use may have permits"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment for unlawful carry",
+      "notes": "Regulation focuses on carry"
+    },
+    "enforcement": "Police evaluate whether possession and carry comply with regulations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French weapons regulations",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "france-baton",
+    "query": "is it legal to carry a baton in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Batons are regulated in France and may be owned, but carrying them in public is generally restricted without a valid reason.",
+    "conditions": [
+      "Classified under controlled weapon categories",
+      "Public carry requires justification",
+      "Intent affects legality"
+    ],
+    "exceptions": [
+      "Professional or security use",
+      "Transport for legitimate purposes"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Carry rules are key"
+    },
+    "enforcement": "Police assess the reason for carrying and the type of baton.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French weapons law",
+      "Police enforcement guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "france-brass-knuckles",
+    "query": "are brass knuckles legal in France",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Brass knuckles are prohibited weapons in France and cannot be legally owned or carried.",
+    "conditions": [
+      "Explicitly banned under weapons law",
+      "Possession is illegal",
+      "Importation is prohibited"
+    ],
+    "exceptions": [
+      "Official or evidential use",
+      "Museum display with approval"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict prohibition"
+    },
+    "enforcement": "Authorities seize brass knuckles and may prosecute possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French weapons classification",
+      "Government legal guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "france-switchblade",
+    "query": "is a switchblade legal in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Switchblades are regulated in France and may be legal to own, but carrying them in public is restricted without justification.",
+    "conditions": [
+      "Ownership may be allowed",
+      "Public carry requires valid reason",
+      "Use must comply with self-defence law"
+    ],
+    "exceptions": [
+      "Collection or home possession",
+      "Professional use"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Carry is the main issue"
+    },
+    "enforcement": "Police assess context and justification for possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French knife laws",
+      "Weapons classification guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "france-butterfly-knife",
+    "query": "is a butterfly knife legal in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Butterfly knives are regulated in France and may be owned, but public carry without valid reason is restricted.",
+    "conditions": [
+      "Ownership may be legal",
+      "Public carry requires justification",
+      "Use must comply with self-defence rules"
+    ],
+    "exceptions": [
+      "Collection use",
+      "Transport for legitimate purposes"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Carry restrictions apply"
+    },
+    "enforcement": "Authorities assess intent and reason for possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French knife regulations",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "france-kubotan",
+    "query": "is a kubotan legal in France",
+    "location": "France",
+    "verdict": "Yes",
+    "summary": "Kubotans are generally legal in France as simple keychain tools, provided they are not clearly designed as weapons.",
+    "conditions": [
+      "Must not be weaponised",
+      "Use must comply with self-defence laws",
+      "Restricted areas may prohibit carry"
+    ],
+    "exceptions": [
+      "Weapon-like designs may be restricted",
+      "Use in crime changes legality"
+    ],
+    "penalties": {
+      "fine": "Possible fine if misused",
+      "jail": "Possible if used unlawfully",
+      "notes": "Generally low risk"
+    },
+    "enforcement": "Usually ignored unless used in an offence or carried improperly.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French legal guidance",
+      "Police interpretation"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "france-sword-carry-public",
+    "query": "can you carry a sword in public in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public in France is restricted and generally requires a legitimate reason such as transport or events.",
+    "conditions": [
+      "Public carry requires justification",
+      "Transport must be secure",
+      "Intent to use as a weapon is illegal"
+    ],
+    "exceptions": [
+      "Ceremonial or cultural use",
+      "Transport to events"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Reason is key"
+    },
+    "enforcement": "Police assess context and intent when enforcing.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French weapons law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "france-self-defence-keychain",
+    "query": "is a self defence keychain legal in France",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Self-defence keychains are legal if they are ordinary items, but weaponised designs may be restricted.",
+    "conditions": [
+      "Design determines legality",
+      "Weapon-like features increase restrictions",
+      "Intent to use as a weapon affects legality"
+    ],
+    "exceptions": [
+      "Simple keychains are allowed",
+      "Non-weapon designs"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Design and intent matter"
+    },
+    "enforcement": "Authorities evaluate the item’s design and purpose.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French legal guidance",
+      "Weapons classification law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

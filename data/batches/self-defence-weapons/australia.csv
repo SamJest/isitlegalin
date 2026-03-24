@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,Australia,illegal,"Batons, particularly expandable types, are generally prohibited weapons in Australia and cannot be carried by civilians.",self-defence-weapons
+carry a kubotan,Australia,restricted,Kubotans may be legal as simple keychains but weaponised versions can be prohibited,self-defence-weapons
+carry a self-defence keychain,Australia,restricted,"Self-defence keychains may be legal if they are ordinary items, but weaponised designs can be illegal.",self-defence-weapons
+carry a sword in public,Australia,restricted,Carrying a sword in public is generally restricted in Australia unless there is a lawful reason such as work or events.,self-defence-weapons
+carry a taser,Australia,illegal,Tasers are classified as prohibited weapons in Australia and are not legal for civilian ownership.,self-defence-weapons
+carry pepper spray,Australia,restricted,Pepper spray is illegal in most Australian states with limited exceptions,self-defence-weapons
+own a switchblade,Australia,illegal,Switchblades are prohibited knives in Australia and are illegal to possess or import.,self-defence-weapons
+possess a butterfly knife,Australia,illegal,Butterfly knives are banned in Australia and cannot be legally owned or carried.,self-defence-weapons
+possess a stun gun,Australia,illegal,Stun guns are prohibited weapons across Australia and cannot be legally owned by civilians.,self-defence-weapons
+possess brass knuckles,Australia,illegal,Brass knuckles are prohibited weapons throughout Australia and cannot be legally owned or carried.,self-defence-weapons

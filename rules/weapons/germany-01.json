@@ -1,0 +1,412 @@
+[
+  {
+    "id": "germany-pepper-spray",
+    "query": "is pepper spray legal in Germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Pepper spray is legal in Germany when sold as animal repellent, but using or carrying it for self-defence against people can create legal risk.",
+    "conditions": [
+      "Must be marketed as animal repellent",
+      "Use against humans only allowed in genuine self-defence",
+      "Carrying with intent to use on people may be problematic"
+    ],
+    "exceptions": [
+      "Emergency self-defence situations",
+      "Police-authorised use"
+    ],
+    "penalties": {
+      "fine": "Possible fine if misused",
+      "jail": "Possible in serious cases",
+      "notes": "Context and intent are key"
+    },
+    "enforcement": "Police assess labeling, intent, and actual use when determining legality.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German weapons law guidance",
+      "Federal police information"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to carry pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "germany-stun-gun",
+    "query": "is a stun gun legal in Germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Stun guns are legal in Germany only if they meet strict certification requirements and are approved for civilian use.",
+    "conditions": [
+      "Must have official approval markings",
+      "Unapproved devices are illegal",
+      "Use must comply with self-defence laws"
+    ],
+    "exceptions": [
+      "Certified devices may be owned legally",
+      "Law enforcement use"
+    ],
+    "penalties": {
+      "fine": "Possible fine for non-compliant devices",
+      "jail": "Possible imprisonment in serious cases",
+      "notes": "Certification is essential"
+    },
+    "enforcement": "Authorities check compliance markings and may confiscate unapproved devices.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Weapons Act",
+      "Federal police guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "germany-taser",
+    "query": "is a taser legal in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Tasers are generally restricted in Germany and are not legal for civilian possession.",
+    "conditions": [
+      "Classified under strict weapons control",
+      "Civilian ownership is not permitted",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Law enforcement use",
+      "Official authorised use"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Highly restricted weapon"
+    },
+    "enforcement": "Police seize tasers and may pursue charges for illegal possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Weapons Act",
+      "Federal law enforcement guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "germany-baton",
+    "query": "is it legal to carry a baton in Germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Batons may be legal to own in Germany, but carrying them in public is restricted and may require justification.",
+    "conditions": [
+      "Public carry can be restricted",
+      "Certain types may be banned",
+      "Intent to use as a weapon affects legality"
+    ],
+    "exceptions": [
+      "Professional or official use",
+      "Transport with valid reason"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Public carry rules are strict"
+    },
+    "enforcement": "Police assess purpose and location when enforcing baton-related laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Weapons Act",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "germany-brass-knuckles",
+    "query": "are brass knuckles legal in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Brass knuckles are prohibited weapons in Germany and cannot be legally owned or carried.",
+    "conditions": [
+      "Explicitly banned under weapons law",
+      "Possession is illegal",
+      "Importation is prohibited"
+    ],
+    "exceptions": [
+      "Official or evidential use",
+      "Museum display with approval"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Clear prohibition"
+    },
+    "enforcement": "Authorities seize brass knuckles and prosecute possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Weapons Act",
+      "Federal police guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "germany-switchblade",
+    "query": "is a switchblade legal in Germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Switchblades are restricted in Germany, with legality depending on blade length and opening mechanism.",
+    "conditions": [
+      "Blade length limits apply",
+      "Certain automatic knives are banned",
+      "Carrying in public is restricted"
+    ],
+    "exceptions": [
+      "Short blades may be allowed",
+      "Collection use may be permitted"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible in serious violations",
+      "notes": "Technical specifications matter"
+    },
+    "enforcement": "Police check blade type and carry conditions during inspections.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German knife regulations",
+      "Weapons Act guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "germany-butterfly-knife",
+    "query": "is a butterfly knife legal in Germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Butterfly knives are prohibited weapons in Germany and cannot be legally owned or carried.",
+    "conditions": [
+      "Explicitly banned under weapons law",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official or evidential use",
+      "Non-functional display versions"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Clear prohibition"
+    },
+    "enforcement": "Police confiscate butterfly knives and may prosecute possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Weapons Act",
+      "Knife law guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "germany-kubotan",
+    "query": "is a kubotan legal in Germany",
+    "location": "Germany",
+    "verdict": "Yes",
+    "summary": "Kubotans are generally legal in Germany as simple everyday items, provided they are not clearly designed as weapons.",
+    "conditions": [
+      "Must not be clearly weaponised",
+      "Use must comply with self-defence laws",
+      "Carrying in restricted areas may be limited"
+    ],
+    "exceptions": [
+      "Weapon-like designs may be restricted",
+      "Use in an offence changes legality"
+    ],
+    "penalties": {
+      "fine": "Possible fine if misused",
+      "jail": "Possible if used in a crime",
+      "notes": "Generally low-risk item"
+    },
+    "enforcement": "Usually ignored unless used in a threatening or unlawful way.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German weapons guidance",
+      "Police interpretation"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "germany-sword-carry-public",
+    "query": "can you carry a sword in public in Germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public in Germany is restricted and generally requires a legitimate reason such as transport or events.",
+    "conditions": [
+      "Public carry without reason is restricted",
+      "Transport must be secure",
+      "Intent to use as a weapon is illegal"
+    ],
+    "exceptions": [
+      "Ceremonial or cultural use",
+      "Transport to events or collections"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Reason for carry is important"
+    },
+    "enforcement": "Police evaluate the context and reason for possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Weapons Act",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "germany-self-defence-keychain",
+    "query": "is a self defence keychain legal in Germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Self-defence keychains are legal if they are simple tools, but weaponised designs may be restricted under weapons law.",
+    "conditions": [
+      "Design determines legality",
+      "Weapon-like features increase restrictions",
+      "Use in self-defence must be proportionate"
+    ],
+    "exceptions": [
+      "Simple keychains are allowed",
+      "Non-weapon designs are generally legal"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible if used unlawfully",
+      "notes": "Design and use both matter"
+    },
+    "enforcement": "Authorities assess the design and intended use when enforcing.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Weapons Act",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

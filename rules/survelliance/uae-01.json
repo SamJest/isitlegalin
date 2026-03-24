@@ -1,0 +1,442 @@
+[
+  {
+    "id": "uae-cctv-home",
+    "query": "is home cctv legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "Yes",
+    "summary": "Home CCTV is generally legal in the UAE when used for security, but strict privacy and cybercrime laws apply, especially if others are recorded without consent.",
+    "conditions": [
+      "Cameras should mainly monitor your own property.",
+      "Recording neighbours or public areas can create legal risk.",
+      "Footage must not be shared without permission."
+    ],
+    "exceptions": [
+      "Recording private areas of others is strictly prohibited.",
+      "Local regulations may vary by emirate."
+    ],
+    "penalties": {
+      "fine": "Significant fines under cybercrime laws",
+      "jail": "Possible imprisonment",
+      "notes": "The UAE takes a strict stance on privacy violations."
+    },
+    "enforcement": "Authorities actively investigate complaints involving misuse of surveillance footage.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "General privacy regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "uae-cctv-business",
+    "query": "is business cctv legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "Yes",
+    "summary": "Business CCTV is widely used in the UAE for security purposes, but must comply with strict privacy and regulatory requirements.",
+    "conditions": [
+      "Monitoring must serve a clear security purpose.",
+      "Cameras must not invade private spaces.",
+      "Footage must be handled securely."
+    ],
+    "exceptions": [
+      "Recording without justification may lead to penalties.",
+      "Certain sectors have additional regulatory requirements."
+    ],
+    "penalties": {
+      "fine": "Significant fines for misuse",
+      "jail": "Possible in serious violations",
+      "notes": "Strict enforcement applies to privacy breaches."
+    },
+    "enforcement": "Authorities enforce surveillance rules through inspections and complaints.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "Local regulatory guidance"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "uae-hidden-cameras",
+    "query": "are hidden cameras legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Hidden cameras are generally illegal in the UAE, especially when used to secretly record individuals without their consent.",
+    "conditions": [
+      "Secret recording without consent is prohibited.",
+      "Privacy is strongly protected by law.",
+      "Use must not invade personal or private spaces."
+    ],
+    "exceptions": [
+      "Law enforcement may operate under separate authority.",
+      "Authorized security operations may have specific permissions."
+    ],
+    "penalties": {
+      "fine": "Large fines",
+      "jail": "Possible imprisonment",
+      "notes": "Severe penalties apply for covert surveillance."
+    },
+    "enforcement": "Authorities take strict action against unauthorized hidden recording.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "Criminal law provisions"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "uae-audio-recording",
+    "query": "is audio recording legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Recording conversations without consent is generally illegal in the UAE under strict privacy and cybercrime laws.",
+    "conditions": [
+      "Consent from all parties is typically required.",
+      "Secret recording is prohibited.",
+      "Private communications are protected."
+    ],
+    "exceptions": [
+      "Legal authorities may record under specific powers.",
+      "Public announcements may be recorded."
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement applies to unauthorized recording."
+    },
+    "enforcement": "Authorities act quickly on complaints involving unlawful recording.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "Privacy regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "uae-video-recording-public",
+    "query": "is it legal to record video in public in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Recording video in public is restricted in the UAE, especially if individuals are filmed without consent or footage is shared.",
+    "conditions": [
+      "Filming individuals without consent can be illegal.",
+      "Use of footage must not violate privacy laws.",
+      "Commercial or public use may require permission."
+    ],
+    "exceptions": [
+      "Tourist or general scenery filming is usually tolerated.",
+      "Authorized media activity may be permitted."
+    ],
+    "penalties": {
+      "fine": "Significant fines under cybercrime law",
+      "jail": "Possible imprisonment",
+      "notes": "Strict privacy rules apply even in public spaces."
+    },
+    "enforcement": "Authorities actively enforce laws against unauthorized filming and sharing.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "Media regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "uae-recording-police",
+    "query": "is it legal to record police in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Recording police officers in the UAE is generally restricted, especially if done without permission or shared publicly.",
+    "conditions": [
+      "Filming authorities without consent can be illegal.",
+      "Recording must not interfere with official duties.",
+      "Publishing footage is highly restricted."
+    ],
+    "exceptions": [
+      "Authorized media may have permissions.",
+      "Official documentation may be allowed under supervision."
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict rules apply when recording authorities."
+    },
+    "enforcement": "Authorities strictly enforce laws related to recording officials.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "Public order regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "uae-drone-surveillance",
+    "query": "is drone surveillance legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Drone use is regulated in the UAE, and using drones for surveillance is heavily restricted, especially in populated or sensitive areas.",
+    "conditions": [
+      "Drone operation requires registration and approval.",
+      "Flights are restricted in many areas.",
+      "Recording people without consent is prohibited."
+    ],
+    "exceptions": [
+      "Authorized commercial or government use may be permitted.",
+      "Designated flying zones may allow limited use."
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict aviation and privacy rules apply."
+    },
+    "enforcement": "Authorities enforce both aviation and privacy laws strictly.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE aviation authority rules",
+      "Cybercrime law"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "uae-gps-tracking",
+    "query": "is gps tracking someone legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Tracking a person without their consent is generally illegal in the UAE and can lead to serious penalties under privacy and cybercrime laws.",
+    "conditions": [
+      "Consent is required to track individuals.",
+      "Use must not invade privacy.",
+      "Tracking must have a lawful purpose."
+    ],
+    "exceptions": [
+      "Tracking your own property may be allowed.",
+      "Authorized corporate use may be permitted with consent."
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Covert tracking is treated as a serious offense."
+    },
+    "enforcement": "Authorities investigate complaints involving unauthorized tracking.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "Privacy regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "uae-employee-monitoring",
+    "query": "is employee monitoring legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "Yes",
+    "summary": "Employee monitoring is allowed in the UAE for business purposes, but must respect privacy laws and avoid excessive intrusion.",
+    "conditions": [
+      "Monitoring must have a legitimate purpose.",
+      "Employees should be aware of surveillance.",
+      "Data must be handled securely."
+    ],
+    "exceptions": [
+      "Covert monitoring may be restricted.",
+      "Sensitive areas cannot be monitored."
+    ],
+    "penalties": {
+      "fine": "Possible fines for misuse",
+      "jail": "Possible in serious violations",
+      "notes": "Privacy breaches can lead to strong penalties."
+    },
+    "enforcement": "Regulators and authorities act on complaints and violations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE labor law",
+      "Cybercrime law"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "uae-phone-call-recording",
+    "query": "is recording phone calls legal in the uae",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Recording phone calls without consent is generally illegal in the UAE and can result in serious penalties.",
+    "conditions": [
+      "All parties must consent to recording.",
+      "Secret recording is prohibited.",
+      "Private communications are protected."
+    ],
+    "exceptions": [
+      "Authorized investigations may allow recording.",
+      "Public broadcasts may be recorded."
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict privacy and cybercrime laws apply."
+    },
+    "enforcement": "Authorities enforce laws strictly when violations are reported.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Cybercrime Law",
+      "Privacy regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Kuwait,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

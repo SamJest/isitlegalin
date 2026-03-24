@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,Japan,illegal,Batons are generally treated as weapons in Japan and cannot be carried by civilians without a valid reason.,self-defence-weapons
+carry a kubotan,Japan,restricted,Kubotans may be legal as simple keychains but carrying them for use as a weapon can be illegal,self-defence-weapons
+carry a self-defence keychain,Japan,restricted,"Self-defence keychains may be legal if they are ordinary items, but weaponised versions can be treated as illegal weapons.",self-defence-weapons
+carry a sword in public,Japan,restricted,Carrying a sword in public in Japan is highly restricted and generally only allowed for legitimate purposes such as transport or cultural use.,self-defence-weapons
+carry a taser,Japan,illegal,Tasers are prohibited in Japan and are not legal for civilian ownership or carry.,self-defence-weapons
+carry pepper spray,Japan,restricted,Pepper spray is not explicitly banned in Japan but carrying it for self-defence can create legal issues,self-defence-weapons
+own a switchblade,Japan,illegal,Switchblades are illegal in Japan and are classified as prohibited knives.,self-defence-weapons
+possess a butterfly knife,Japan,illegal,Butterfly knives are illegal in Japan and fall under prohibited knife categories.,self-defence-weapons
+possess a stun gun,Japan,illegal,Stun guns are generally prohibited in Japan and are considered illegal weapons for civilian possession.,self-defence-weapons
+possess brass knuckles,Japan,illegal,Brass knuckles are illegal in Japan and are treated as prohibited weapons.,self-defence-weapons

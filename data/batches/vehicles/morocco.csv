@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Morocco,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

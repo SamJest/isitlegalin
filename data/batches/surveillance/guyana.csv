@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Guyana,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Guyana,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Guyana,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Guyana,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Guyana,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Guyana,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Guyana,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Guyana,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Guyana,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

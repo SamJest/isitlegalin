@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

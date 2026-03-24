@@ -1,0 +1,412 @@
+[
+  {
+    "id": "uk-speeding",
+    "query": "is speeding illegal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Driving over the speed limit is illegal in the UK and is enforced through cameras and police patrols.",
+    "conditions": [
+      "Speed limits vary by road type",
+      "Temporary limits may apply in roadworks",
+      "Drivers must always follow posted limits"
+    ],
+    "exceptions": [
+      "Emergency vehicles responding to incidents",
+      "Police discretion in limited cases"
+    ],
+    "penalties": {
+      "fine": "Fixed penalty or higher depending on speed",
+      "jail": "Possible for extreme cases",
+      "notes": "Points on licence are common"
+    },
+    "enforcement": "Speed cameras and police enforcement are widespread across the UK.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK Highway Code",
+      "Road traffic law guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "drink-driving"]
+  },
+  {
+    "id": "uk-driving-without-license",
+    "query": "is it illegal to drive without a licence in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Driving without a valid licence in the UK is illegal and can lead to fines and disqualification.",
+    "conditions": [
+      "Drivers must hold a valid licence",
+      "Learners must follow restrictions",
+      "Insurance is also required"
+    ],
+    "exceptions": [
+      "Supervised learner drivers",
+      "Certain exemptions for specific vehicles"
+    ],
+    "penalties": {
+      "fine": "Up to £1000 or more",
+      "jail": "Possible in serious cases",
+      "notes": "Points or bans may apply"
+    },
+    "enforcement": "Police can check licences during stops or through database checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK road traffic law",
+      "DVLA guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid driving licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "uk-drink-driving",
+    "query": "is drink driving illegal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Drink driving over the legal alcohol limit is illegal in the UK and heavily penalised.",
+    "conditions": [
+      "Legal alcohol limits apply",
+      "Applies to all motor vehicles",
+      "Testing can be done roadside"
+    ],
+    "exceptions": [
+      "None for normal drivers",
+      "Lower limits for certain drivers in some regions"
+    ],
+    "penalties": {
+      "fine": "Unlimited fine possible",
+      "jail": "Up to 6 months or more",
+      "notes": "Driving ban is common"
+    },
+    "enforcement": "Police carry out breath tests and roadside checks.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK drink driving law",
+      "Police enforcement guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-license"]
+  },
+  {
+    "id": "uk-using-phone-driving",
+    "query": "is using your phone while driving illegal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal in the UK, even when stopped in traffic.",
+    "conditions": [
+      "Applies to handheld devices",
+      "Covers calls, texting, and apps",
+      "Vehicle must be safely parked to use"
+    ],
+    "exceptions": [
+      "Hands-free systems are allowed",
+      "Emergency calls may be permitted"
+    ],
+    "penalties": {
+      "fine": "Fixed fine and points",
+      "jail": "Possible in serious cases",
+      "notes": "Points can lead to licence loss"
+    },
+    "enforcement": "Police monitor drivers and use cameras to detect violations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK Highway Code",
+      "Road traffic law"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "uk-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Driving without insurance in the UK is illegal and can result in fines, points, and vehicle seizure.",
+    "conditions": [
+      "Insurance is mandatory",
+      "Applies to all drivers",
+      "Vehicle must be covered at all times"
+    ],
+    "exceptions": [
+      "Declared off-road vehicles",
+      "Certain exemptions for specific cases"
+    ],
+    "penalties": {
+      "fine": "Fixed fine or court fine",
+      "jail": "Possible in serious cases",
+      "notes": "Vehicle may be seized"
+    },
+    "enforcement": "Automatic number plate recognition checks insurance status in real time.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK insurance law",
+      "DVLA enforcement guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-license", "speeding"]
+  },
+  {
+    "id": "uk-driving-without-mot",
+    "query": "is it illegal to drive without an MOT in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Driving a vehicle without a valid MOT certificate is illegal in most cases in the UK.",
+    "conditions": [
+      "Vehicles over 3 years require MOT",
+      "Must be valid at all times",
+      "Applies when used on public roads"
+    ],
+    "exceptions": [
+      "Driving to a pre-booked MOT test",
+      "New vehicles under 3 years"
+    ],
+    "penalties": {
+      "fine": "Up to £1000",
+      "jail": "Not typical",
+      "notes": "Vehicle may be deemed unsafe"
+    },
+    "enforcement": "Police and cameras check MOT status electronically.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK vehicle law",
+      "DVSA guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-mot",
+      "label": "Driving Without MOT",
+      "query_label": "driving without MOT legality",
+      "action_label": "drive without MOT",
+      "requirement_label": "valid MOT required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "speeding"]
+  },
+  {
+    "id": "uk-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Not wearing a seatbelt in the UK is illegal for most drivers and passengers.",
+    "conditions": [
+      "Seatbelts must be worn if fitted",
+      "Drivers responsible for children",
+      "Applies to front and rear seats"
+    ],
+    "exceptions": [
+      "Medical exemptions",
+      "Certain vehicle types"
+    ],
+    "penalties": {
+      "fine": "Fixed fine",
+      "jail": "Not typical",
+      "notes": "Driver may be liable"
+    },
+    "enforcement": "Police can stop drivers and issue penalties for non-compliance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK Highway Code",
+      "Road safety law"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "uk-driving-on-pavement",
+    "query": "is it illegal to drive on the pavement in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Driving on the pavement is illegal in the UK except in specific permitted situations.",
+    "conditions": [
+      "Pavements are for pedestrians",
+      "Vehicles must stay on the road",
+      "Crossing pavement must be safe"
+    ],
+    "exceptions": [
+      "Accessing driveways",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Rare",
+      "notes": "Dangerous driving charges possible"
+    },
+    "enforcement": "Police enforce through patrols and public reports.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK road traffic law",
+      "Highway Code"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-on-pavement",
+      "label": "Driving on Pavement",
+      "query_label": "drive on pavement legality",
+      "action_label": "drive on pavement",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "uk-dangerous-driving",
+    "query": "what counts as dangerous driving in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Dangerous driving is illegal in the UK and covers behaviour that puts others at serious risk.",
+    "conditions": [
+      "Driving far below expected standards",
+      "Creating serious danger",
+      "Includes reckless behaviour"
+    ],
+    "exceptions": [
+      "Emergency service exemptions in duty",
+      "None for normal drivers"
+    ],
+    "penalties": {
+      "fine": "Unlimited fine",
+      "jail": "Up to several years",
+      "notes": "Driving ban likely"
+    },
+    "enforcement": "Police investigate incidents and may charge based on evidence.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK criminal driving law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "uk-driving-without-tax",
+    "query": "is it illegal to drive without road tax in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Driving without valid vehicle tax is illegal in the UK and can lead to fines and penalties.",
+    "conditions": [
+      "Vehicle tax must be valid",
+      "Applies to vehicles on public roads",
+      "Must be declared SORN if not used"
+    ],
+    "exceptions": [
+      "Vehicles declared off-road",
+      "Certain exemptions"
+    ],
+    "penalties": {
+      "fine": "Penalty fine",
+      "jail": "Not typical",
+      "notes": "Vehicle may be clamped"
+    },
+    "enforcement": "Automatic systems detect untaxed vehicles.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK DVLA guidance",
+      "Vehicle taxation law"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "driving-without-tax",
+      "label": "Driving Without Tax",
+      "query_label": "road tax legality",
+      "action_label": "drive without tax",
+      "requirement_label": "vehicle tax required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-mot"]
+  }
+]

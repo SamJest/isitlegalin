@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Ethiopia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

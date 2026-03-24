@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Malaysia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Malaysia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Malaysia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Malaysia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Malaysia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Malaysia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Malaysia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Malaysia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Malaysia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

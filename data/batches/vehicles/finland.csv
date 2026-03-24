@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Finland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

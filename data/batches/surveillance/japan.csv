@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Japan,legal,Recording police in public is generally allowed in Japan as long as it does not interfere with their duties.,surveillance
+installing home cctv,Japan,legal,"Home CCTV is generally legal in Japan for security purposes, but privacy laws apply if cameras capture others.",surveillance
+monitoring staff,Japan,legal,Employee monitoring is allowed in Japan but must be reasonable and respect worker privacy rights.,surveillance
+recording conversations,Japan,legal,"Audio recording is generally legal in Japan, including recording conversations you are part of, but misuse can still lead to legal issues.",surveillance
+recording people in public,Japan,legal,"Recording video in public is generally allowed in Japan, but privacy and harassment laws still apply.",surveillance
+recording phone calls,Japan,legal,"Recording phone calls is generally legal in Japan if you are a participant in the conversation, but misuse can create legal risks.",surveillance
+tracking a person or vehicle,Japan,restricted,"GPS tracking in Japan can be legal in some contexts, but tracking someone without consent may violate privacy laws.",surveillance
+using camera drones,Japan,restricted,"Drone use is regulated in Japan, and using drones for surveillance is restricted depending on location and permissions.",surveillance
+using cctv in business,Japan,legal,"Businesses in Japan can use CCTV for security, but must comply with data protection and privacy expectations.",surveillance
+using hidden cameras,Japan,illegal,"Hidden cameras are generally illegal in Japan when used to secretly record individuals, especially in private spaces.",surveillance

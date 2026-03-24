@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,India,illegal,Dangerous driving is illegal in India and includes behaviour that endangers others.,vehicles
+drive on footpath,India,illegal,Driving on footpaths is illegal in India and can result in fines or penalties.,vehicles
+drive on pavement,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,India,illegal,Speeding is illegal in India and is enforced under the Motor Vehicles Act with fines and penalties.,vehicles
+drive recklessly,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,India,illegal,Drink driving above legal alcohol limits is illegal in India and strictly penalised.,vehicles
+drive uninsured,India,illegal,Driving without insurance is illegal in India and can result in fines or penalties.,vehicles
+drive with expired licence,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,India,illegal,Driving without a valid licence in India is illegal and can lead to fines or prosecution.,vehicles
+drive without MOT,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,India,illegal,Driving without a valid Pollution Under Control (PUC) certificate is illegal in India.,vehicles
+drive without registration,India,illegal,Driving an unregistered vehicle is illegal in India and subject to fines.,vehicles
+drive without tax,India,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,India,illegal,Wearing a seatbelt is mandatory in India for drivers and front-seat passengers.,vehicles
+use phone while driving,India,illegal,Using a handheld phone while driving is illegal in India and can lead to fines.,vehicles

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Peru,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

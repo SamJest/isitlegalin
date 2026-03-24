@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

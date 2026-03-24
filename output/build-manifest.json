@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2026-03-23T23:50:11.720Z",
+  "ruleCount": 5787,
+  "pageCount": 23148,
+  "averageDataShare": "48%",
+  "countries": 100,
+  "topics": 113,
+  "intents": 4,
+  "byVerdict": {
+    "Yes": 5604,
+    "No": 12188,
+    "Depends": 5356
+  },
+  "featuredHighRisk": [
+    {
+      "href": "/australia/legal/bringing-weapons-in-luggage/",
+      "label": "Is it legal to bring weapons in luggage in Australia?"
+    },
+    {
+      "href": "/germany/legal/bringing-weapons-in-luggage/",
+      "label": "Is it legal to bring weapons in luggage in Germany?"
+    },
+    {
+      "href": "/india/legal/bringing-weapons-in-luggage/",
+      "label": "Is it legal to bring weapons in luggage in India?"
+    },
+    {
+      "href": "/japan/legal/bringing-weapons-in-luggage/",
+      "label": "Is it legal to bring weapons in luggage in Japan?"
+    },
+    {
+      "href": "/uae/legal/bringing-weapons-in-luggage/",
+      "label": "Is it legal to bring weapons in luggage in the United Arab Emirates?"
+    },
+    {
+      "href": "/uk/legal/bringing-weapons-in-luggage/",
+      "label": "Is it legal to bring weapons in luggage in the United Kingdom?"
+    }
+  ]
+}

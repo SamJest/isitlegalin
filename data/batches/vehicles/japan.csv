@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Japan,illegal,Dangerous driving is illegal in Japan and includes behaviour that endangers others.,vehicles
+drive on footpath,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Japan,illegal,Driving on sidewalks is illegal in Japan except for specific access purposes.,vehicles
+drive over speed limit,Japan,illegal,Speeding is illegal in Japan and is strictly enforced with cameras and police patrols.,vehicles
+drive recklessly,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Japan,illegal,Drink driving is illegal in Japan with very strict penalties and low tolerance levels.,vehicles
+drive uninsured,Japan,illegal,Driving without mandatory insurance is illegal in Japan and subject to penalties.,vehicles
+drive with expired licence,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Japan,illegal,Driving without a valid shaken (vehicle inspection) is illegal in Japan.,vehicles
+drive without licence,Japan,illegal,Driving without a valid licence in Japan is illegal and treated as a serious offence.,vehicles
+drive without MOT,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Japan,illegal,Driving an unregistered vehicle is illegal in Japan and can lead to fines and penalties.,vehicles
+drive without tax,Japan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Japan,illegal,Seatbelt use is mandatory in Japan for drivers and passengers.,vehicles
+use phone while driving,Japan,illegal,Using a handheld phone while driving is illegal in Japan and strictly enforced.,vehicles

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "usa-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "You can bring alcohol into the United States, but limits apply and state laws may affect what is allowed.",
+    "conditions": [
+      "Alcohol must be for personal use.",
+      "Federal duty-free limits apply.",
+      "State laws may impose additional restrictions."
+    ],
+    "exceptions": [
+      "Higher quantities may be taxed.",
+      "Some states restrict certain alcohol types."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Penalties depend on quantity and compliance."
+    },
+    "enforcement": "Customs and Border Protection inspects goods at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "US Customs and Border Protection",
+      "Federal customs law"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "usa-carrying-cash-limit",
+    "query": "how much cash can you bring into the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "There is no limit on bringing cash into the USA, but amounts over $10,000 must be declared.",
+    "conditions": [
+      "Cash over $10,000 must be declared.",
+      "Declaration must be truthful and complete.",
+      "Funds must be legally obtained."
+    ],
+    "exceptions": [
+      "Failure to declare can lead to seizure.",
+      "Structuring amounts to avoid declaration is illegal."
+    ],
+    "penalties": {
+      "fine": "Seizure of funds and fines",
+      "jail": "Possible in serious cases",
+      "notes": "Strict anti-money laundering enforcement applies."
+    },
+    "enforcement": "CBP and federal agencies monitor cash declarations closely.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "US Customs and Border Protection",
+      "FinCEN rules"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "usa-bringing-medication",
+    "query": "can you bring medication into the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Medication can be brought into the USA for personal use, but controlled substances are strictly regulated.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry a valid prescription.",
+      "Controlled drugs are limited in quantity."
+    ],
+    "exceptions": [
+      "Certain drugs may be prohibited.",
+      "Large quantities may be questioned."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Rules depend on the specific drug."
+    },
+    "enforcement": "Customs officers may inspect and question medication imports.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "FDA guidance",
+      "US Customs and Border Protection"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "usa-bringing-food-into-country",
+    "query": "can you bring food into the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Many food items can be brought into the USA, but strict agricultural restrictions apply to certain products.",
+    "conditions": [
+      "All food must be declared.",
+      "Certain items are prohibited.",
+      "Inspection is required at entry."
+    ],
+    "exceptions": [
+      "Packaged and processed foods are more likely to be allowed.",
+      "Fresh produce is often restricted."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Not specified",
+      "notes": "Agricultural violations can carry heavy fines."
+    },
+    "enforcement": "USDA and CBP enforce strict food import rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "USDA regulations",
+      "CBP guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "usa-carrying-tobacco",
+    "query": "how much tobacco can you bring into the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Tobacco can be brought into the USA within federal duty-free limits, though state rules may vary.",
+    "conditions": [
+      "Federal limits apply to tobacco imports.",
+      "Items must be for personal use.",
+      "State laws may impose additional restrictions."
+    ],
+    "exceptions": [
+      "Higher quantities may be taxed.",
+      "Certain tobacco products may be restricted."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance may lead to seizure."
+    },
+    "enforcement": "CBP enforces tobacco import rules at borders.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBP guidance",
+      "Federal customs law"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "usa-bringing-electronics",
+    "query": "can you bring electronics into the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Personal electronics can be brought into the USA, but high-value items may be subject to duty or inspection.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Devices may be inspected at the border."
+    ],
+    "exceptions": [
+      "Commercial imports require proper documentation.",
+      "Certain restricted technologies may be limited."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare may lead to penalties."
+    },
+    "enforcement": "Customs officers may inspect electronics and enforce declaration rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBP guidance",
+      "US customs law"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "usa-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Prescription drugs can be brought into the USA for personal use with proper documentation.",
+    "conditions": [
+      "Carry a valid prescription.",
+      "Keep medication in original packaging.",
+      "Only bring reasonable quantities."
+    ],
+    "exceptions": [
+      "Certain substances are strictly controlled.",
+      "Unapproved drugs may be refused entry."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Strict enforcement applies to controlled drugs."
+    },
+    "enforcement": "Customs may inspect medications and verify documentation.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "FDA guidance",
+      "CBP rules"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "usa-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into the usa",
+    "location": "United States",
+    "verdict": "Depends",
+    "summary": "Certain weapons may be transported into the USA under strict rules, but many items are prohibited or heavily regulated.",
+    "conditions": [
+      "Firearms must be declared and transported correctly.",
+      "Weapons must comply with federal and state law.",
+      "Airline regulations must be followed."
+    ],
+    "exceptions": [
+      "Some weapons are completely prohibited.",
+      "State laws may impose additional restrictions."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible imprisonment",
+      "notes": "Rules vary widely depending on the item."
+    },
+    "enforcement": "Customs and security agencies enforce strict weapon transport rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "TSA regulations",
+      "CBP guidance"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "usa-customs-declaration-required",
+    "query": "do you need to declare items at us customs",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Travelers entering the USA must declare certain goods, especially those exceeding allowances or restricted items.",
+    "conditions": [
+      "Declare all goods exceeding limits.",
+      "Complete customs forms accurately.",
+      "Declare food, cash, and restricted items."
+    ],
+    "exceptions": [
+      "Personal goods within limits may not require declaration.",
+      "Certain items must always be declared."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations can result in penalties."
+    },
+    "enforcement": "CBP officers verify declarations and inspect luggage.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBP customs rules",
+      "US border regulations"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "usa-duty-free-limits",
+    "query": "what are duty free limits in the usa",
+    "location": "United States",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply when entering the USA, covering alcohol, tobacco, and other goods within set limits.",
+    "conditions": [
+      "Allowances vary depending on travel duration.",
+      "Goods must be for personal use.",
+      "Exceeding limits requires duty payment."
+    ],
+    "exceptions": [
+      "State laws may affect alcohol limits.",
+      "Commercial goods are excluded."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Exceeding limits without declaration leads to penalties."
+    },
+    "enforcement": "Customs checks ensure compliance with duty-free limits.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "CBP duty-free rules",
+      "US customs law"
+    ],
+    "country": {
+      "slug": "usa",
+      "name": "United States",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

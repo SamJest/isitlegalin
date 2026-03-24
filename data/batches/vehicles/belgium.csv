@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Belgium,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

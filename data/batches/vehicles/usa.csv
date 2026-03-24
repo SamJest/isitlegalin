@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,United States,illegal,Driving on sidewalks is illegal in most US jurisdictions except for specific access purposes.,vehicles
+drive over speed limit,United States,illegal,"Speeding is illegal across the United States, but specific limits and penalties vary by state and road type.",vehicles
+drive recklessly,United States,illegal,Reckless driving is illegal and generally involves dangerous behaviour that puts others at risk.,vehicles
+drive under influence,United States,illegal,Driving under the influence of alcohol is illegal in all US states and is heavily enforced.,vehicles
+drive uninsured,United States,illegal,"Driving without insurance is illegal in most US states, though requirements and penalties vary.",vehicles
+drive with expired licence,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,United States,illegal,"Driving without a valid license is illegal in all US states, though penalties vary by jurisdiction.",vehicles
+drive without MOT,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,United States,illegal,Driving without license plates is illegal in the US unless covered by temporary registration rules.,vehicles
+drive without pollution certificate,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,United States,illegal,Driving an unregistered vehicle is illegal in the US and subject to fines and penalties.,vehicles
+drive without tax,United States,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,United States,restricted,"Seatbelt laws exist in most US states, but enforcement and requirements vary.",vehicles
+use phone while driving,United States,restricted,"Using a handheld phone while driving is illegal in many US states, but laws vary significantly.",vehicles

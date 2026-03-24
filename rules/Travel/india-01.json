@@ -1,0 +1,442 @@
+[
+  {
+    "id": "india-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Alcohol can be brought into India within duty-free limits, though rules can vary slightly by state.",
+    "conditions": [
+      "Alcohol must be within duty-free allowance.",
+      "Items must be for personal use.",
+      "Excess quantities must be declared."
+    ],
+    "exceptions": [
+      "State-level alcohol rules may apply after entry.",
+      "Undeclared excess may be seized."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Alcohol laws vary between Indian states."
+    },
+    "enforcement": "Customs officers check baggage at international entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Customs Act India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "india-carrying-cash-limit",
+    "query": "how much cash can you bring into india",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Cash can be brought into India, but foreign currency above certain thresholds must be declared.",
+    "conditions": [
+      "Foreign currency above set limits must be declared.",
+      "Indian currency import is restricted for non-residents.",
+      "Declarations must be accurate."
+    ],
+    "exceptions": [
+      "Failure to declare may result in seizure.",
+      "Suspicious funds may be investigated."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "Strict foreign exchange regulations apply."
+    },
+    "enforcement": "Customs and financial authorities monitor cash imports.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Foreign Exchange Management Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "india-bringing-medication",
+    "query": "can you bring medication into india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Medication can be brought into India for personal use, but controlled drugs require proper documentation.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry a prescription or doctor’s letter.",
+      "Only reasonable quantities are allowed."
+    ],
+    "exceptions": [
+      "Certain drugs may be restricted.",
+      "Large quantities may be questioned."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Drug laws are strictly enforced."
+    },
+    "enforcement": "Customs may inspect medications at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Drug regulations India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "india-bringing-food-into-country",
+    "query": "can you bring food into india",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Food items can be brought into India, but restrictions apply to certain agricultural and animal products.",
+    "conditions": [
+      "Some foods are restricted or prohibited.",
+      "Inspection may occur at entry.",
+      "Items must comply with import rules."
+    ],
+    "exceptions": [
+      "Packaged foods may be allowed.",
+      "Restrictions depend on origin."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Not specified",
+      "notes": "Biosecurity and safety rules apply."
+    },
+    "enforcement": "Customs officers may inspect food items at entry.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Food safety regulations India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "india-carrying-tobacco",
+    "query": "how much tobacco can you bring into india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Tobacco can be brought into India within duty-free limits for personal use.",
+    "conditions": [
+      "Items must be within allowance limits.",
+      "Tobacco must be for personal use.",
+      "Excess must be declared."
+    ],
+    "exceptions": [
+      "Higher quantities may incur duty.",
+      "Undeclared goods may be seized."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Strict customs enforcement applies."
+    },
+    "enforcement": "Customs monitors tobacco imports at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Customs rules India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "india-bringing-electronics",
+    "query": "can you bring electronics into india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Personal electronics can be brought into India, but high-value goods may be subject to duty.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Duty applies above allowance."
+    ],
+    "exceptions": [
+      "Commercial imports require documentation.",
+      "New items may be taxed."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare can result in penalties."
+    },
+    "enforcement": "Customs officers may inspect goods at entry.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Customs rules India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "india-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Prescription drugs can be carried into India for personal use with appropriate documentation.",
+    "conditions": [
+      "Carry a valid prescription.",
+      "Keep medication in original packaging.",
+      "Only reasonable quantities are allowed."
+    ],
+    "exceptions": [
+      "Certain controlled drugs may be restricted.",
+      "Large quantities may be questioned."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible for illegal substances",
+      "notes": "Strict drug control laws apply."
+    },
+    "enforcement": "Authorities may inspect medications at the border.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Drug regulations India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "india-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into india",
+    "location": "India",
+    "verdict": "No",
+    "summary": "Weapons are generally prohibited from being brought into India without strict authorization.",
+    "conditions": [
+      "Weapons are heavily restricted.",
+      "Permits are required for exceptions.",
+      "Airline and customs rules apply."
+    ],
+    "exceptions": [
+      "Licensed sporting equipment may be allowed.",
+      "Special approvals may apply."
+    ],
+    "penalties": {
+      "fine": "Fines and confiscation",
+      "jail": "Possible imprisonment",
+      "notes": "Strict weapons laws apply."
+    },
+    "enforcement": "Authorities strictly enforce weapon import restrictions.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Arms Act",
+      "Customs guidance India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "india-customs-declaration-required",
+    "query": "do you need to declare items at india customs",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "You must declare certain goods when entering India, especially high-value items, cash, and restricted goods.",
+    "conditions": [
+      "Declare goods above duty-free limits.",
+      "Declare large amounts of cash.",
+      "Provide accurate information."
+    ],
+    "exceptions": [
+      "Personal goods within limits may not require declaration.",
+      "Certain items must always be declared."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations can lead to penalties."
+    },
+    "enforcement": "Customs officers inspect luggage and verify declarations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Customs Act India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "india-duty-free-limits",
+    "query": "what are duty free limits in india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply in India for alcohol, tobacco, and goods within specific limits.",
+    "conditions": [
+      "Allowances depend on travel origin.",
+      "Goods must be for personal use.",
+      "Exceeding limits requires duty payment."
+    ],
+    "exceptions": [
+      "Different rules for residents and tourists.",
+      "Commercial goods are excluded."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance can lead to penalties."
+    },
+    "enforcement": "Customs checks ensure compliance with duty-free rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Customs Authority",
+      "Customs rules India"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

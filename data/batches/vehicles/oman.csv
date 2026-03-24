@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

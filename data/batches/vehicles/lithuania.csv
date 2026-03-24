@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Lithuania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

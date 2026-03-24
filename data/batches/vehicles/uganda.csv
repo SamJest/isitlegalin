@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Uganda,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

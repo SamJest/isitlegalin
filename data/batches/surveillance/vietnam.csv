@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Vietnam,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Vietnam,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Vietnam,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Vietnam,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Vietnam,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Vietnam,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Vietnam,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Vietnam,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Vietnam,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

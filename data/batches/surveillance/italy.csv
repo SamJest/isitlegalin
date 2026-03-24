@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Italy,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Italy,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Italy,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Italy,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Italy,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Italy,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Italy,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Italy,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

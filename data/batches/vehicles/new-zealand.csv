@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,New Zealand,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

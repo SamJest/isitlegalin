@@ -1,0 +1,442 @@
+[
+  {
+    "id": "france-cctv-home",
+    "query": "is home cctv legal in france",
+    "location": "France",
+    "verdict": "Yes",
+    "summary": "Home CCTV is legal in France when used to monitor your own property, but strict privacy rules apply if cameras capture public areas or neighbours.",
+    "conditions": [
+      "Cameras should be limited to your private property.",
+      "Recording public areas is restricted under data protection laws.",
+      "Footage must not be misused or shared unlawfully."
+    ],
+    "exceptions": [
+      "Doorbell cameras may be allowed if not continuously recording public space.",
+      "Temporary recording for security may be justified."
+    ],
+    "penalties": {
+      "fine": "Possible fines under data protection law",
+      "jail": "Not specified",
+      "notes": "France enforces strong privacy protections under GDPR."
+    },
+    "enforcement": "Regulators may investigate complaints about intrusive or excessive surveillance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "French data protection authority guidance"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "france-cctv-business",
+    "query": "is business cctv legal in france",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Business CCTV is allowed in France under strict conditions, including necessity, transparency, and compliance with data protection laws.",
+    "conditions": [
+      "Monitoring must be justified and proportionate.",
+      "Clear signage is required.",
+      "Employee monitoring must be limited."
+    ],
+    "exceptions": [
+      "Covert surveillance is rarely allowed.",
+      "Sensitive areas cannot be monitored."
+    ],
+    "penalties": {
+      "fine": "Fines under GDPR and national law",
+      "jail": "Possible in serious violations",
+      "notes": "Strict rules apply to workplace surveillance."
+    },
+    "enforcement": "Data protection authorities actively review business surveillance practices.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "French labor and privacy law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "france-hidden-cameras",
+    "query": "are hidden cameras legal in france",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Hidden cameras are generally illegal in France when used to secretly record individuals without their knowledge.",
+    "conditions": [
+      "Secret recording without consent is prohibited.",
+      "Privacy rights are strongly protected.",
+      "Use must not infringe personal dignity."
+    ],
+    "exceptions": [
+      "Law enforcement may use covert methods under legal authority.",
+      "Very limited investigative use may be permitted."
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "France enforces strict privacy protections."
+    },
+    "enforcement": "Authorities investigate complaints involving covert surveillance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French Criminal Code",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "france-audio-recording",
+    "query": "is audio recording legal in france",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Recording private conversations without consent from all parties is illegal in France.",
+    "conditions": [
+      "All participants must consent to recording.",
+      "Secret recordings are prohibited.",
+      "Private communications are protected."
+    ],
+    "exceptions": [
+      "Public speeches or broadcasts may be recorded.",
+      "Legal proceedings may allow recording under specific rules."
+    ],
+    "penalties": {
+      "fine": "Criminal fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict consent rules apply to audio recording."
+    },
+    "enforcement": "Violations are often prosecuted when recordings are discovered.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French Criminal Code",
+      "Privacy law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "france-video-recording-public",
+    "query": "is it legal to record video in public in france",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Recording video in public is allowed in France, but sharing or publishing identifiable footage without consent can violate privacy laws.",
+    "conditions": [
+      "Recording in public spaces is generally permitted.",
+      "Publishing identifiable individuals requires consent.",
+      "Use must comply with data protection laws."
+    ],
+    "exceptions": [
+      "Journalistic use may have additional protections.",
+      "Large public events may allow broader recording."
+    ],
+    "penalties": {
+      "fine": "Possible fines under privacy laws",
+      "jail": "Possible in serious cases",
+      "notes": "Distribution of footage is often more restricted than recording."
+    },
+    "enforcement": "Authorities focus on misuse or publication rather than recording itself.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "French privacy law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "france-recording-police",
+    "query": "is it legal to record police in france",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Recording police in public is generally allowed in France, but sharing identifiable footage can be restricted under privacy and security laws.",
+    "conditions": [
+      "Recording in public spaces may be allowed.",
+      "Publishing identifiable officers may be restricted.",
+      "You must not interfere with police duties."
+    ],
+    "exceptions": [
+      "Journalistic activity may have protections.",
+      "Restricted zones may prohibit recording."
+    ],
+    "penalties": {
+      "fine": "Possible fines under privacy or security laws",
+      "jail": "Possible in serious cases",
+      "notes": "Legal risk often relates to distribution rather than recording."
+    },
+    "enforcement": "Authorities may act if recordings are misused or interfere with operations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French security law",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "france-drone-surveillance",
+    "query": "is drone surveillance legal in france",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Drone use is legal in France under strict aviation rules, but using drones to monitor people can raise privacy and data protection concerns.",
+    "conditions": [
+      "Drone flights must follow aviation regulations.",
+      "Recording private property without consent is restricted.",
+      "Use must comply with data protection laws."
+    ],
+    "exceptions": [
+      "Professional use may require permits.",
+      "Certain areas are restricted or prohibited."
+    ],
+    "penalties": {
+      "fine": "Fines for aviation or privacy violations",
+      "jail": "Possible in serious cases",
+      "notes": "Both aviation and privacy rules apply."
+    },
+    "enforcement": "Authorities enforce both flight safety and privacy regulations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French aviation authority rules",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "france-gps-tracking",
+    "query": "is gps tracking someone legal in france",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "GPS tracking is restricted in France and generally requires consent or a clear legal basis, especially when tracking individuals.",
+    "conditions": [
+      "Tracking must have a lawful purpose.",
+      "Consent is typically required.",
+      "Use must comply with data protection rules."
+    ],
+    "exceptions": [
+      "Employers may track company vehicles under strict conditions.",
+      "Tracking personal property may be allowed."
+    ],
+    "penalties": {
+      "fine": "Fines under data protection law",
+      "jail": "Possible in serious violations",
+      "notes": "Covert tracking is treated seriously."
+    },
+    "enforcement": "Regulators investigate complaints involving unlawful tracking.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "French privacy law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "france-employee-monitoring",
+    "query": "is employee monitoring legal in france",
+    "location": "France",
+    "verdict": "Depends",
+    "summary": "Employee monitoring is allowed in France under strict conditions, including transparency, necessity, and respect for worker privacy.",
+    "conditions": [
+      "Monitoring must be justified and proportionate.",
+      "Employees must be informed.",
+      "Worker representatives may need to be consulted."
+    ],
+    "exceptions": [
+      "Covert monitoring is rarely permitted.",
+      "Sensitive areas cannot be monitored."
+    ],
+    "penalties": {
+      "fine": "Fines under GDPR and labor law",
+      "jail": "Not specified",
+      "notes": "France enforces strong employee privacy protections."
+    },
+    "enforcement": "Labor authorities and data protection regulators oversee compliance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "French labor law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "france-phone-call-recording",
+    "query": "is recording phone calls legal in france",
+    "location": "France",
+    "verdict": "No",
+    "summary": "Recording phone calls without the consent of all parties is illegal in France.",
+    "conditions": [
+      "All participants must consent to recording.",
+      "Secret recording is prohibited.",
+      "Private communications are protected."
+    ],
+    "exceptions": [
+      "Public broadcasts may be recorded.",
+      "Legal proceedings may allow recording under specific rules."
+    ],
+    "penalties": {
+      "fine": "Criminal fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict consent rules apply to communications."
+    },
+    "enforcement": "Violations are typically prosecuted when recordings are discovered.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "French Criminal Code",
+      "Privacy law"
+    ],
+    "country": {
+      "slug": "france",
+      "name": "France",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

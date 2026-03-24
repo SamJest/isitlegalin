@@ -1,0 +1,222 @@
+[
+{
+"id": "france-vpn-legality",
+"query": "is vpn legal in france",
+"location": "France",
+"verdict": "Yes",
+"summary": "Using a VPN is legal in France, but it cannot be used to carry out illegal activities.",
+"conditions": [
+"VPN use is permitted",
+"Illegal activities remain punishable",
+"Subject to French law"
+],
+"exceptions": [
+"Using VPN to bypass restrictions may breach terms",
+"Workplace policies may restrict usage"
+],
+"penalties": {
+"fine": "Depends on underlying offence",
+"jail": "Depends on offence",
+"notes": "VPN itself is not illegal"
+},
+"enforcement": "Authorities target illegal conduct rather than VPN use",
+"last_updated": "2026-01-01",
+"sources": [
+"French law",
+"CNIL guidance"
+],
+"country": {
+"slug": "france",
+"name": "France",
+"region": "Europe"
+},
+"topic": {
+"slug": "vpn-legality",
+"label": "VPN Legality",
+"query_label": "vpn legal",
+"action_label": "use a vpn",
+"requirement_label": "vpn legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"online-privacy-laws"
+]
+},
+{
+"id": "france-torrenting-legality",
+"query": "is torrenting legal in france",
+"location": "France",
+"verdict": "Depends",
+"summary": "Torrenting is legal in France, but sharing copyrighted content without permission is illegal.",
+"conditions": [
+"Legal for non-copyrighted content",
+"Illegal for pirated files",
+"HADOPI system monitors activity"
+],
+"exceptions": [
+"Public domain content allowed",
+"Licensed content legal"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Rare",
+"notes": "Graduated warning system used"
+},
+"enforcement": "Authorities send warnings before penalties",
+"last_updated": "2026-01-01",
+"sources": [
+"French Copyright Law",
+"HADOPI authority"
+],
+"country": {
+"slug": "france",
+"name": "France",
+"region": "Europe"
+},
+"topic": {
+"slug": "torrenting-legality",
+"label": "Torrenting Laws",
+"query_label": "torrenting legal",
+"action_label": "torrent files",
+"requirement_label": "torrent legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"vpn-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "france-streaming-pirated-content",
+"query": "is streaming pirated content legal in france",
+"location": "France",
+"verdict": "No",
+"summary": "Streaming pirated content is illegal in France under copyright law.",
+"conditions": [
+"Applies to films, TV and sports",
+"Includes unauthorised streaming services",
+"Copyright protections apply"
+],
+"exceptions": [
+"Licensed platforms are legal",
+"Public domain content allowed"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Rare",
+"notes": "Focus often on providers"
+},
+"enforcement": "Authorities block illegal streaming sites",
+"last_updated": "2026-01-01",
+"sources": [
+"French Copyright Law",
+"ARCOM"
+],
+"country": {
+"slug": "france",
+"name": "France",
+"region": "Europe"
+},
+"topic": {
+"slug": "streaming-pirated-content",
+"label": "Streaming Piracy Laws",
+"query_label": "stream pirated content legal",
+"action_label": "stream pirated content",
+"requirement_label": "streaming legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"downloading-movies-illegally"
+]
+},
+{
+"id": "france-downloading-movies-illegally",
+"query": "is downloading movies illegally legal in france",
+"location": "France",
+"verdict": "No",
+"summary": "Downloading pirated movies is illegal in France and subject to enforcement.",
+"conditions": [
+"Applies to copyrighted content",
+"Permission required",
+"Includes peer-to-peer downloads"
+],
+"exceptions": [
+"Public domain allowed",
+"Licensed downloads legal"
+],
+"penalties": {
+"fine": "Fines possible",
+"jail": "Rare",
+"notes": "Warning system may apply"
+},
+"enforcement": "Authorities use monitoring and warning systems",
+"last_updated": "2026-01-01",
+"sources": [
+"French Copyright Law",
+"HADOPI"
+],
+"country": {
+"slug": "france",
+"name": "France",
+"region": "Europe"
+},
+"topic": {
+"slug": "downloading-movies-illegally",
+"label": "Illegal Downloading Laws",
+"query_label": "download movies legal",
+"action_label": "download pirated movies",
+"requirement_label": "downloading legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"torrenting-legality",
+"streaming-pirated-content"
+]
+},
+{
+"id": "france-online-gambling-legality",
+"query": "is online gambling legal in france",
+"location": "France",
+"verdict": "Yes",
+"summary": "Online gambling is legal in France for licensed operators under strict regulation.",
+"conditions": [
+"Operators must be licensed",
+"Limited types of gambling allowed",
+"Strict consumer protections"
+],
+"exceptions": [
+"Online casinos are restricted",
+"Unlicensed operators are illegal"
+],
+"penalties": {
+"fine": "Fines for illegal operators",
+"jail": "Possible for serious breaches",
+"notes": "Players rarely targeted"
+},
+"enforcement": "Regulated by ARJEL/ANJ authorities",
+"last_updated": "2026-01-01",
+"sources": [
+"French Gambling Law",
+"ANJ"
+],
+"country": {
+"slug": "france",
+"name": "France",
+"region": "Europe"
+},
+"topic": {
+"slug": "online-gambling-legality",
+"label": "Online Gambling Laws",
+"query_label": "online gambling legal",
+"action_label": "gamble online",
+"requirement_label": "gambling legality",
+"category_slugs": ["digital-laws"]
+},
+"related_topic_slugs": [
+"cryptocurrency-legality",
+"crypto-trading-legality"
+]
+}
+]

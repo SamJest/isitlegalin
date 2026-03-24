@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Taiwan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

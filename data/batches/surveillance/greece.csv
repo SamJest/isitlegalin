@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Greece,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Greece,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Greece,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Greece,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Greece,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Greece,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Greece,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Greece,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Greece,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

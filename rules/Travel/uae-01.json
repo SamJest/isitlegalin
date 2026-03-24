@@ -1,0 +1,442 @@
+[
+  {
+    "id": "uae-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into uae",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Alcohol can be brought into the UAE in limited quantities, but strict rules apply depending on the emirate and entry point.",
+    "conditions": [
+      "Alcohol must be within duty-free limits.",
+      "Import is only allowed through approved entry points.",
+      "Items must be for personal use."
+    ],
+    "exceptions": [
+      "Certain emirates have stricter rules.",
+      "Public possession laws still apply after entry."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible in serious breaches",
+      "notes": "Alcohol laws vary across the UAE."
+    },
+    "enforcement": "Customs strictly checks alcohol imports at airports and borders.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Local emirate regulations"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uae-carrying-cash-limit",
+    "query": "how much cash can you bring into uae",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "There is no limit on bringing cash into the UAE, but amounts over AED 60,000 must be declared.",
+    "conditions": [
+      "Cash above AED 60,000 must be declared.",
+      "Declarations must be accurate.",
+      "Funds must be legally obtained."
+    ],
+    "exceptions": [
+      "Failure to declare can result in seizure.",
+      "Suspicious funds may be investigated."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "Strict financial reporting laws apply."
+    },
+    "enforcement": "Authorities monitor large cash movements at borders.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Financial regulations UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "uae-bringing-medication",
+    "query": "can you bring medication into uae",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Medication can be brought into the UAE, but many drugs are strictly controlled and require prior approval.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry a prescription or medical report.",
+      "Controlled drugs require approval."
+    ],
+    "exceptions": [
+      "Some medications are completely banned.",
+      "Approval may be required before travel."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict drug laws apply even for common medications."
+    },
+    "enforcement": "Customs may inspect medication and verify documentation.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Ministry of Health",
+      "Customs guidance UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uae-bringing-food-into-country",
+    "query": "can you bring food into uae",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Food can be brought into the UAE, but certain items are restricted, especially those that may violate health or religious laws.",
+    "conditions": [
+      "Food must comply with import standards.",
+      "Items must be declared if required.",
+      "Certain products are restricted."
+    ],
+    "exceptions": [
+      "Pork products may be restricted.",
+      "Homemade food may be inspected."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Not specified",
+      "notes": "Non-compliant items are often seized."
+    },
+    "enforcement": "Customs officers inspect food items at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Food safety regulations UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "uae-carrying-tobacco",
+    "query": "how much tobacco can you bring into uae",
+    "location": "United Arab Emirates",
+    "verdict": "Yes",
+    "summary": "Tobacco can be brought into the UAE within duty-free limits for personal use.",
+    "conditions": [
+      "Items must be within duty-free allowance.",
+      "Tobacco must be for personal use.",
+      "Excess quantities must be declared."
+    ],
+    "exceptions": [
+      "Higher quantities may incur duty.",
+      "Undeclared goods may be seized."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Strict enforcement of import limits."
+    },
+    "enforcement": "Customs monitors tobacco imports at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Customs guidance UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uae-bringing-electronics",
+    "query": "can you bring electronics into uae",
+    "location": "United Arab Emirates",
+    "verdict": "Yes",
+    "summary": "Personal electronics can be brought into the UAE, but high-value items may be subject to declaration.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Duty may apply above limits."
+    ],
+    "exceptions": [
+      "Commercial imports require documentation.",
+      "Restricted communication devices may be regulated."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare may lead to penalties."
+    },
+    "enforcement": "Customs may inspect goods and enforce import rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Import regulations UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uae-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into uae",
+    "location": "United Arab Emirates",
+    "verdict": "Depends",
+    "summary": "Prescription drugs can be carried into the UAE, but many are controlled and require prior approval.",
+    "conditions": [
+      "Carry a valid prescription.",
+      "Keep medication in original packaging.",
+      "Controlled drugs require approval."
+    ],
+    "exceptions": [
+      "Some drugs are banned entirely.",
+      "Failure to declare can result in penalties."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement even for small quantities."
+    },
+    "enforcement": "Authorities may inspect medications at the border.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Ministry of Health",
+      "Customs guidance UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "uae-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into uae",
+    "location": "United Arab Emirates",
+    "verdict": "No",
+    "summary": "Weapons are strictly prohibited from being brought into the UAE without special authorization.",
+    "conditions": [
+      "Weapons are heavily restricted.",
+      "Permits are required for any exceptions.",
+      "Airline and customs rules apply."
+    ],
+    "exceptions": [
+      "Special government approvals may apply.",
+      "Licensed equipment may be allowed under strict conditions."
+    ],
+    "penalties": {
+      "fine": "Severe fines",
+      "jail": "Possible imprisonment",
+      "notes": "UAE has strict weapon laws."
+    },
+    "enforcement": "Authorities strictly enforce weapon import bans.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Criminal law UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "uae-customs-declaration-required",
+    "query": "do you need to declare items at uae customs",
+    "location": "United Arab Emirates",
+    "verdict": "Yes",
+    "summary": "You must declare certain goods when entering the UAE, especially cash, restricted items, and goods above limits.",
+    "conditions": [
+      "Declare goods above duty-free limits.",
+      "Declare large amounts of cash.",
+      "Provide accurate information."
+    ],
+    "exceptions": [
+      "Personal goods within limits may not require declaration.",
+      "Certain items must always be declared."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations are taken seriously."
+    },
+    "enforcement": "Customs officers inspect luggage and verify declarations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Customs guidance UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "uae-duty-free-limits",
+    "query": "what are duty free limits in uae",
+    "location": "United Arab Emirates",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply in the UAE for alcohol, tobacco, and goods within set limits.",
+    "conditions": [
+      "Allowances vary by emirate and entry point.",
+      "Goods must be for personal use.",
+      "Exceeding limits requires duty payment."
+    ],
+    "exceptions": [
+      "Different emirates may apply slightly different rules.",
+      "Commercial goods are excluded."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance may lead to penalties."
+    },
+    "enforcement": "Customs checks ensure compliance with allowance rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UAE Federal Customs Authority",
+      "Customs guidance UAE"
+    ],
+    "country": {
+      "slug": "uae",
+      "name": "United Arab Emirates",
+      "region": "Middle East"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

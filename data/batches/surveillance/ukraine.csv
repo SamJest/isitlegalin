@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Ukraine,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Ukraine,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Ukraine,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Ukraine,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Ukraine,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Ukraine,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Ukraine,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Ukraine,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Tunisia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

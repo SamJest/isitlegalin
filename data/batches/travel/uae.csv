@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,United Arab Emirates,restricted,Alcohol can be brought into the UAE in limited quantities with strict local rules,travel
+bring food into a country,United Arab Emirates,restricted,Food can be brought into the UAE but some items are restricted by health or religious rules,travel
+bringing cash into a country,United Arab Emirates,restricted,"There is no limit on bringing cash into the UAE, but amounts over AED 60,000 must be declared.",travel
+bringing duty free goods,United Arab Emirates,legal,"Duty-free allowances apply in the UAE for alcohol, tobacco, and goods within set limits.",travel
+bringing electronics into a country,United Arab Emirates,legal,"Personal electronics can be brought into the UAE, but high-value items may be subject to declaration.",travel
+bringing medication into a country,United Arab Emirates,restricted,"Medication can be brought into the UAE, but many drugs are strictly controlled and require prior approval.",travel
+bringing tobacco into a country,United Arab Emirates,legal,Tobacco can be brought into the UAE within duty-free limits for personal use.,travel
+bringing weapons in luggage,United Arab Emirates,illegal,Weapons are strictly prohibited from being brought into the UAE without special authorization.,travel
+carrying prescription drugs,United Arab Emirates,restricted,"Prescription drugs can be carried into the UAE, but many are controlled and require prior approval.",travel
+declaring goods at customs,United Arab Emirates,legal,"You must declare certain goods when entering the UAE, especially cash, restricted items, and goods above limits.",travel

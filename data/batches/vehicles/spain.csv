@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

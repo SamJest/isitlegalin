@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Bolivia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

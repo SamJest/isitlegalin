@@ -1,0 +1,412 @@
+[
+  {
+    "id": "uk-pepper-spray",
+    "query": "is pepper spray legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Pepper spray is treated as a prohibited weapon in the UK and cannot be carried or owned by civilians for self-defence.",
+    "conditions": [
+      "Classed as a prohibited weapon under UK law",
+      "Self-defence is not a valid reason for possession",
+      "Importing or purchasing is also restricted"
+    ],
+    "exceptions": [
+      "Authorised police use only",
+      "Inert or non-functional training sprays may differ"
+    ],
+    "penalties": {
+      "fine": "Unlimited fine possible",
+      "jail": "Up to several years imprisonment",
+      "notes": "Considered a serious weapons offence"
+    },
+    "enforcement": "Police and border officials actively seize and prosecute possession cases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK offensive weapons legislation",
+      "UK government guidance on prohibited weapons"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to possess pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "uk-stun-gun",
+    "query": "is a stun gun legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Stun guns are prohibited weapons in the UK and are illegal for civilian possession.",
+    "conditions": [
+      "Treated the same as firearms under law",
+      "Private ownership is not allowed",
+      "Importing or buying is illegal"
+    ],
+    "exceptions": [
+      "Authorised law enforcement use",
+      "Non-functional display items may be treated differently"
+    ],
+    "penalties": {
+      "fine": "Unlimited fine possible",
+      "jail": "Up to several years imprisonment",
+      "notes": "Strict enforcement for possession"
+    },
+    "enforcement": "Police treat stun gun possession as a serious offence and seize them immediately.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK firearms and offensive weapons law",
+      "Government prohibited weapons guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "uk-taser",
+    "query": "is a taser legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Tasers are restricted to authorised use and are not legal for civilians to own or carry in the UK.",
+    "conditions": [
+      "Classified under firearms legislation",
+      "Civilian possession is prohibited",
+      "Online purchases are still illegal"
+    ],
+    "exceptions": [
+      "Police and authorised personnel",
+      "Deactivated units may be treated differently"
+    ],
+    "penalties": {
+      "fine": "Unlimited fine possible",
+      "jail": "Possible prison sentence",
+      "notes": "Considered a high-risk weapon"
+    },
+    "enforcement": "Police enforce strict prohibition and seize tasers found in civilian possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK firearms legislation",
+      "Government weapons guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to possess a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "uk-baton",
+    "query": "is it legal to carry a baton in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Carrying a baton in public in the UK is generally illegal without a lawful reason.",
+    "conditions": [
+      "Considered an offensive weapon if carried for self-defence",
+      "Public carry requires a valid lawful reason",
+      "Expandable batons are especially restricted"
+    ],
+    "exceptions": [
+      "Work-related or ceremonial use",
+      "Authorised security or police use"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Intent is key in prosecution"
+    },
+    "enforcement": "Police assess intent and seize batons carried without a clear lawful purpose.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK offensive weapons law",
+      "Police guidance on carrying weapons"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "uk-brass-knuckles",
+    "query": "are brass knuckles legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Brass knuckles are banned weapons in the UK and cannot be owned or carried.",
+    "conditions": [
+      "Classed as offensive weapons by design",
+      "Possession alone can be illegal",
+      "Import and sale are also banned"
+    ],
+    "exceptions": [
+      "Museum or official use",
+      "Non-functional replicas may be treated differently"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible prison sentence",
+      "notes": "Strict prohibition applies"
+    },
+    "enforcement": "Authorities routinely seize brass knuckles and may prosecute possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK prohibited weapons list",
+      "Offensive weapons legislation"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "uk-switchblade",
+    "query": "is a switchblade legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Switchblades are prohibited knives in the UK and cannot be owned or imported.",
+    "conditions": [
+      "Automatic opening knives are banned",
+      "Public possession is illegal",
+      "Importing is restricted"
+    ],
+    "exceptions": [
+      "Museum or official handling",
+      "Non-functional display items"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Strict knife laws apply"
+    },
+    "enforcement": "Police and customs actively seize switchblades and may prosecute.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK knife law guidance",
+      "Offensive weapons legislation"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "uk-butterfly-knife",
+    "query": "is a butterfly knife legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "No",
+    "summary": "Butterfly knives are banned in the UK and are illegal to possess or import.",
+    "conditions": [
+      "Classed as prohibited offensive weapons",
+      "Ownership is restricted",
+      "Import rules are strict"
+    ],
+    "exceptions": [
+      "Official or museum use",
+      "Deactivated versions may differ"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Design-based prohibition"
+    },
+    "enforcement": "Police and customs frequently seize these knives.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK prohibited weapons list",
+      "Knife law guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "uk-kubotan",
+    "query": "is a kubotan legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "Depends",
+    "summary": "Kubotans can be legal if they are simple keychains, but may be illegal if designed or intended as weapons.",
+    "conditions": [
+      "Design and intent are key factors",
+      "Weapon-style kubotans may be classed as offensive weapons",
+      "Carrying for self-defence increases legal risk"
+    ],
+    "exceptions": [
+      "Plain keychains without weapon features",
+      "Everyday utility items"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Context determines legality"
+    },
+    "enforcement": "Police assess intent and design when deciding whether to take action.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK offensive weapons law",
+      "Police guidance on intent"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "uk-sword-carry-public",
+    "query": "can you carry a sword in public in the UK",
+    "location": "United Kingdom",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public is only legal with a valid reason such as work, ceremony, or transport.",
+    "conditions": [
+      "Must have a lawful reason",
+      "Transport must be secure",
+      "Certain sword types are restricted"
+    ],
+    "exceptions": [
+      "Ceremonial or religious use",
+      "Historical reenactments"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Reason for carry is critical"
+    },
+    "enforcement": "Police assess context and reason before deciding enforcement action.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK bladed articles law",
+      "Offensive weapons guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword public legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "uk-self-defence-keychain",
+    "query": "is a self defence keychain legal in the UK",
+    "location": "United Kingdom",
+    "verdict": "Depends",
+    "summary": "Self-defence keychains may be legal if they are ordinary items, but weapon-style designs can be treated as offensive weapons.",
+    "conditions": [
+      "Design and intended use matter",
+      "Carrying for protection may count against legality",
+      "Weapon-like features increase risk"
+    ],
+    "exceptions": [
+      "Normal keychains without weapon features",
+      "Utility-focused designs"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible imprisonment",
+      "notes": "Intent is often decisive"
+    },
+    "enforcement": "Police evaluate the item’s design and the reason for carrying it.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "UK offensive weapons guidance",
+      "Police interpretation guidance"
+    ],
+    "country": {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

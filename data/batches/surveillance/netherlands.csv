@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Netherlands,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Netherlands,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Netherlands,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Netherlands,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Netherlands,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Netherlands,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Netherlands,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Netherlands,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Netherlands,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

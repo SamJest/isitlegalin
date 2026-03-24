@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Laos,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

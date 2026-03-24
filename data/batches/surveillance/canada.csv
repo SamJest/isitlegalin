@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Canada,legal,Recording police in public is generally legal in Canada as long as you do not interfere with their duties or obstruct their work.,surveillance
+installing home cctv,Canada,legal,"Home CCTV is generally legal in Canada, especially when used to monitor your own property. Privacy concerns arise if cameras capture neighbouring properties or public areas.",surveillance
+monitoring staff,Canada,legal,"Employee monitoring is legal in Canada if it is reasonable, transparent, and necessary for business purposes. Excessive or hidden monitoring can breach privacy laws.",surveillance
+recording conversations,Canada,legal,"Canada generally follows a one-party consent rule, meaning you can record a conversation if you are part of it. Recording others without involvement is more restricted.",surveillance
+recording people in public,Canada,legal,"Recording video in public places is generally allowed in Canada, as long as it does not intrude on reasonable expectations of privacy or involve harassment.",surveillance
+recording phone calls,Canada,legal,"Canada allows phone call recording under a one-party consent rule, meaning you can record if you are part of the call.",surveillance
+tracking a person or vehicle,Canada,restricted,"GPS tracking in Canada is lawful in limited situations, but secretly tracking another person without consent can violate criminal or privacy laws.",surveillance
+using camera drones,Canada,restricted,"Drone use is legal in Canada under aviation rules, but using drones for surveillance can raise privacy concerns depending on how and where they are used.",surveillance
+using cctv in business,Canada,legal,"Businesses in Canada can use CCTV for security, but they must respect privacy laws and ensure monitoring is reasonable and necessary.",surveillance
+using hidden cameras,Canada,restricted,"Hidden cameras in Canada can be legal in limited contexts, but using them in places where people expect privacy is likely unlawful.",surveillance

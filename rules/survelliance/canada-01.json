@@ -1,0 +1,442 @@
+[
+  {
+    "id": "canada-cctv-home",
+    "query": "is home cctv legal in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Home CCTV is generally legal in Canada, especially when used to monitor your own property. Privacy concerns arise if cameras capture neighbouring properties or public areas.",
+    "conditions": [
+      "Cameras should focus on your own property where possible.",
+      "Recording public areas may trigger privacy considerations.",
+      "Footage should be used only for legitimate purposes."
+    ],
+    "exceptions": [
+      "Recording inside private spaces without consent can be illegal.",
+      "Provincial privacy laws may impose additional requirements."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil complaints under privacy laws",
+      "jail": "Possible in serious privacy violations",
+      "notes": "Issues usually arise when surveillance is excessive or intrusive."
+    },
+    "enforcement": "Privacy complaints are often handled by provincial regulators or civil courts.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian privacy law guidance",
+      "PIPEDA principles"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "canada-cctv-business",
+    "query": "is business cctv legal in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Businesses in Canada can use CCTV for security, but they must respect privacy laws and ensure monitoring is reasonable and necessary.",
+    "conditions": [
+      "Surveillance must serve a clear business purpose.",
+      "People should be informed through signage.",
+      "Data collection must be limited to what is necessary."
+    ],
+    "exceptions": [
+      "Covert monitoring is only justified in limited situations.",
+      "Employee monitoring must not be excessive or intrusive."
+    ],
+    "penalties": {
+      "fine": "Possible fines or regulatory action",
+      "jail": "Not specified",
+      "notes": "Penalties depend on misuse or violation of privacy obligations."
+    },
+    "enforcement": "Regulators may investigate complaints from employees or customers.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "PIPEDA",
+      "Provincial privacy commissioners"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "canada-hidden-cameras",
+    "query": "are hidden cameras legal in canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Hidden cameras in Canada can be legal in limited contexts, but using them in places where people expect privacy is likely unlawful.",
+    "conditions": [
+      "Recording must not violate reasonable expectations of privacy.",
+      "Use should be justified and proportionate.",
+      "Audio recording may be more strictly regulated."
+    ],
+    "exceptions": [
+      "Law enforcement operations follow different rules.",
+      "Certain investigations may justify temporary covert use."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible for serious privacy breaches",
+      "notes": "Secret recording in private settings carries the highest risk."
+    },
+    "enforcement": "Authorities act on complaints involving covert or intrusive surveillance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code provisions",
+      "Privacy law guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "canada-audio-recording",
+    "query": "is audio recording legal in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Canada generally follows a one-party consent rule, meaning you can record a conversation if you are part of it. Recording others without involvement is more restricted.",
+    "conditions": [
+      "At least one participant must consent to the recording.",
+      "Recording for illegal purposes can still be unlawful.",
+      "Privacy laws may apply if recordings are shared."
+    ],
+    "exceptions": [
+      "Recording conversations you are not part of is usually illegal.",
+      "Workplace or commercial use may have added requirements."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil claims",
+      "jail": "Possible under criminal law",
+      "notes": "The key issue is whether the recorder is a participant in the conversation."
+    },
+    "enforcement": "Cases often arise when recordings are used in disputes or reported to authorities.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Privacy commissioner guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "canada-video-recording-public",
+    "query": "is it legal to record video in public in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Recording video in public places is generally allowed in Canada, as long as it does not intrude on reasonable expectations of privacy or involve harassment.",
+    "conditions": [
+      "Filming in public spaces is typically permitted.",
+      "Recording should not be used to harass or intimidate.",
+      "Private property rules must be respected."
+    ],
+    "exceptions": [
+      "Certain restricted locations may prohibit filming.",
+      "Recording vulnerable individuals may raise legal concerns depending on context."
+    ],
+    "penalties": {
+      "fine": "Usually tied to related offenses such as trespass",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Video recording itself is usually lawful in public."
+    },
+    "enforcement": "Authorities usually intervene only if recording is linked to other unlawful behaviour.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian privacy principles",
+      "Public recording guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "canada-recording-police",
+    "query": "is it legal to record police in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Recording police in public is generally legal in Canada as long as you do not interfere with their duties or obstruct their work.",
+    "conditions": [
+      "You must keep a safe distance.",
+      "You cannot interfere with police operations.",
+      "Recording should take place in public areas."
+    ],
+    "exceptions": [
+      "Restricted or secured areas may have additional rules.",
+      "Interference with police could lead to charges."
+    ],
+    "penalties": {
+      "fine": "Possible fines for obstruction",
+      "jail": "Possible if interfering with police duties",
+      "notes": "The issue is usually conduct, not recording itself."
+    },
+    "enforcement": "Disputes typically arise if filming disrupts police activity.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian civil liberties guidance",
+      "General policing law principles"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "canada-drone-surveillance",
+    "query": "is drone surveillance legal in canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "Drone use is legal in Canada under aviation rules, but using drones for surveillance can raise privacy concerns depending on how and where they are used.",
+    "conditions": [
+      "Drone operation must follow national aviation regulations.",
+      "Flights should avoid restricted areas and unsafe conditions.",
+      "Recording private property may raise legal issues."
+    ],
+    "exceptions": [
+      "Commercial drone use may require additional licensing.",
+      "Local bylaws may impose further restrictions."
+    ],
+    "penalties": {
+      "fine": "Possible aviation or privacy fines",
+      "jail": "Possible in serious violations",
+      "notes": "Both flight rules and privacy laws can apply."
+    },
+    "enforcement": "Enforcement can involve aviation authorities or privacy regulators.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Transport Canada drone rules",
+      "Canadian privacy law"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "canada-gps-tracking",
+    "query": "is gps tracking someone legal in canada",
+    "location": "Canada",
+    "verdict": "Depends",
+    "summary": "GPS tracking in Canada is lawful in limited situations, but secretly tracking another person without consent can violate criminal or privacy laws.",
+    "conditions": [
+      "Tracking your own property or vehicle is generally allowed.",
+      "Tracking a person without consent can be unlawful.",
+      "Use connected to harassment or stalking is illegal."
+    ],
+    "exceptions": [
+      "Employers may track company vehicles with notice.",
+      "Parents may have broader authority over minors."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil claims",
+      "jail": "Possible under criminal law",
+      "notes": "Penalties increase where tracking is covert or abusive."
+    },
+    "enforcement": "Cases often arise in domestic disputes or harassment investigations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Privacy law guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "canada-employee-monitoring",
+    "query": "is employee monitoring legal in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Employee monitoring is legal in Canada if it is reasonable, transparent, and necessary for business purposes. Excessive or hidden monitoring can breach privacy laws.",
+    "conditions": [
+      "Monitoring must have a legitimate purpose.",
+      "Employees should be informed of surveillance.",
+      "Data collection should be limited and proportionate."
+    ],
+    "exceptions": [
+      "Covert monitoring is only allowed in rare circumstances.",
+      "Provincial rules may impose stricter limits."
+    ],
+    "penalties": {
+      "fine": "Possible regulatory penalties or civil claims",
+      "jail": "Not specified",
+      "notes": "Most risk comes from invasive or unjustified monitoring."
+    },
+    "enforcement": "Complaints are typically handled by privacy commissioners or employment tribunals.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "PIPEDA",
+      "Provincial employment privacy laws"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "canada-phone-call-recording",
+    "query": "is recording phone calls legal in canada",
+    "location": "Canada",
+    "verdict": "Yes",
+    "summary": "Canada allows phone call recording under a one-party consent rule, meaning you can record if you are part of the call.",
+    "conditions": [
+      "At least one participant must consent.",
+      "Recording for illegal purposes is prohibited.",
+      "Businesses should inform customers when recording calls."
+    ],
+    "exceptions": [
+      "Recording calls you are not part of is illegal.",
+      "Privacy laws may apply if recordings are shared."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible under criminal law",
+      "notes": "The key factor is whether the recorder is part of the conversation."
+    },
+    "enforcement": "Enforcement often occurs when recordings are disclosed in disputes or investigations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Canadian Criminal Code",
+      "Privacy law guidance"
+    ],
+    "country": {
+      "slug": "canada",
+      "name": "Canada",
+      "region": "North America"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

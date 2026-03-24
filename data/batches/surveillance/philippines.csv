@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Philippines,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Philippines,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Philippines,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Philippines,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Philippines,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Philippines,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Philippines,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Philippines,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Philippines,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

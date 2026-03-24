@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Brazil,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

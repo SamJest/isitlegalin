@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Sweden,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Sweden,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Sweden,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Sweden,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Sweden,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Sweden,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Sweden,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Sweden,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Sweden,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

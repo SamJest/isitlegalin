@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Portugal,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

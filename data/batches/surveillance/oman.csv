@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Oman,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Oman,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Oman,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Oman,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Oman,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Oman,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Oman,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Oman,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Oman,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

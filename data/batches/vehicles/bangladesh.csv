@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Bangladesh,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "india-cctv-home",
+    "query": "is home cctv legal in india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Home CCTV is generally legal in India when used for security, but privacy considerations apply if cameras capture others without consent.",
+    "conditions": [
+      "Cameras should mainly monitor your own property.",
+      "Recording public areas is usually tolerated but should be reasonable.",
+      "Footage must not be misused or shared unlawfully."
+    ],
+    "exceptions": [
+      "Recording private spaces of others can lead to legal issues.",
+      "Local housing rules or society guidelines may apply."
+    ],
+    "penalties": {
+      "fine": "Possible fines under privacy or IT laws",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Legal risk mainly comes from misuse or invasion of privacy."
+    },
+    "enforcement": "Enforcement usually follows complaints involving harassment or misuse of footage.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian IT Act",
+      "General privacy law principles"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "india-cctv-business",
+    "query": "is business cctv legal in india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Business CCTV is widely used in India for security and operational purposes, but must not violate privacy or labor rights.",
+    "conditions": [
+      "Monitoring must serve a legitimate purpose.",
+      "Employees should be informed where possible.",
+      "Sensitive private areas should not be recorded."
+    ],
+    "exceptions": [
+      "Covert surveillance may be challenged legally.",
+      "Certain industries may have additional compliance rules."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Penalties usually arise from misuse or invasion of privacy."
+    },
+    "enforcement": "Disputes are typically handled through complaints or civil proceedings.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian IT Act",
+      "Workplace law principles"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "india-hidden-cameras",
+    "query": "are hidden cameras legal in india",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Hidden cameras are not explicitly banned in all cases in India, but using them to secretly record individuals in private spaces can be illegal.",
+    "conditions": [
+      "Recording must not violate privacy rights.",
+      "Secret recording in private spaces is prohibited.",
+      "Use must not be for harassment or exploitation."
+    ],
+    "exceptions": [
+      "Law enforcement may use covert recording under authority.",
+      "Limited investigative use may be justified in some contexts."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible imprisonment in serious cases",
+      "notes": "Penalties depend on intent and level of intrusion."
+    },
+    "enforcement": "Authorities act on complaints involving privacy violations or misuse.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "IT Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "india-audio-recording",
+    "query": "is audio recording legal in india",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Audio recording laws in India are not always clearly defined, but recording conversations without consent can raise privacy and legal concerns.",
+    "conditions": [
+      "Recording must not violate privacy rights.",
+      "Use for illegal purposes is prohibited.",
+      "Consent is generally safer in private conversations."
+    ],
+    "exceptions": [
+      "Public conversations may have fewer restrictions.",
+      "Law enforcement may record under legal authority."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Legal outcomes depend on context and intent."
+    },
+    "enforcement": "Cases are often handled when recordings are used in disputes or complaints.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "IT Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "india-video-recording-public",
+    "query": "is it legal to record video in public in india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Recording video in public is generally allowed in India, but misuse of footage or invasion of privacy can lead to legal issues.",
+    "conditions": [
+      "Filming in public spaces is usually permitted.",
+      "Recording must not be used for harassment.",
+      "Private property rules must be respected."
+    ],
+    "exceptions": [
+      "Sensitive or restricted areas may prohibit filming.",
+      "Recording vulnerable individuals may raise legal concerns."
+    ],
+    "penalties": {
+      "fine": "Usually linked to related offenses",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Recording itself is usually lawful in public."
+    },
+    "enforcement": "Authorities typically act when recording is linked to harassment or misuse.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "Public order laws"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "india-recording-police",
+    "query": "is it legal to record police in india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Recording police in public is generally allowed in India as long as it does not interfere with their duties.",
+    "conditions": [
+      "You must not obstruct police work.",
+      "Recording should take place in public areas.",
+      "You must follow lawful instructions."
+    ],
+    "exceptions": [
+      "Restricted zones may prohibit recording.",
+      "Interference may lead to charges."
+    ],
+    "penalties": {
+      "fine": "Possible fines for obstruction",
+      "jail": "Possible if interfering with duties",
+      "notes": "Legal risk relates to behaviour, not recording itself."
+    },
+    "enforcement": "Disputes arise if recording interferes with police operations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian law principles",
+      "Civil liberties guidance"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "india-drone-surveillance",
+    "query": "is drone surveillance legal in india",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Drone use is regulated in India, and using drones for surveillance is restricted depending on location, permissions, and purpose.",
+    "conditions": [
+      "Drone use must follow aviation authority rules.",
+      "Flights require registration and compliance.",
+      "Recording private areas may raise legal issues."
+    ],
+    "exceptions": [
+      "Commercial use may require additional approvals.",
+      "Restricted zones prohibit drone activity."
+    ],
+    "penalties": {
+      "fine": "Possible fines for violations",
+      "jail": "Possible in serious cases",
+      "notes": "Both aviation and privacy laws apply."
+    },
+    "enforcement": "Authorities enforce drone rules through inspections and complaints.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "DGCA drone rules",
+      "Indian IT Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "india-gps-tracking",
+    "query": "is gps tracking someone legal in india",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "GPS tracking laws in India are context-based, but tracking someone without consent can lead to legal issues, especially if linked to harassment.",
+    "conditions": [
+      "Tracking must not violate privacy rights.",
+      "Consent is generally required when tracking individuals.",
+      "Use for harassment or stalking is illegal."
+    ],
+    "exceptions": [
+      "Tracking your own property may be allowed.",
+      "Employers may track company vehicles with notice."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible in serious cases",
+      "notes": "Penalties depend on intent and misuse."
+    },
+    "enforcement": "Cases often arise in harassment or domestic disputes.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian Penal Code",
+      "IT Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "india-employee-monitoring",
+    "query": "is employee monitoring legal in india",
+    "location": "India",
+    "verdict": "Yes",
+    "summary": "Employee monitoring is generally allowed in India for business purposes, but should not be excessive or violate privacy expectations.",
+    "conditions": [
+      "Monitoring must have a legitimate purpose.",
+      "Employees should be aware of monitoring.",
+      "Data must be handled responsibly."
+    ],
+    "exceptions": [
+      "Covert monitoring may be challenged legally.",
+      "Sensitive areas must not be monitored."
+    ],
+    "penalties": {
+      "fine": "Possible civil liability",
+      "jail": "Not specified",
+      "notes": "Issues arise mainly from misuse or excessive surveillance."
+    },
+    "enforcement": "Disputes are typically handled through employment or civil proceedings.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian labor law principles",
+      "IT Act"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "india-phone-call-recording",
+    "query": "is recording phone calls legal in india",
+    "location": "India",
+    "verdict": "Depends",
+    "summary": "Recording phone calls in India is not clearly defined in all cases, but recording without consent can raise privacy and legal concerns.",
+    "conditions": [
+      "Consent is generally safer in private calls.",
+      "Recording must not be used unlawfully.",
+      "Use must respect privacy rights."
+    ],
+    "exceptions": [
+      "Businesses may record calls with notice.",
+      "Law enforcement may record under authority."
+    ],
+    "penalties": {
+      "fine": "Possible fines or civil liability",
+      "jail": "Possible in serious misuse cases",
+      "notes": "Legal outcomes depend on context and intent."
+    },
+    "enforcement": "Cases usually arise when recordings are used in disputes.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Indian IT Act",
+      "General privacy law"
+    ],
+    "country": {
+      "slug": "india",
+      "name": "India",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,France,restricted,"Batons are regulated in France and may be owned, but carrying them in public is generally restricted without a valid reason.",self-defence-weapons
+carry a kubotan,France,legal,Kubotans are generally legal in France as simple keychain tools when not clearly designed as weapons,self-defence-weapons
+carry a self-defence keychain,France,restricted,"Self-defence keychains are legal if they are ordinary items, but weaponised designs may be restricted.",self-defence-weapons
+carry a sword in public,France,restricted,Carrying a sword in public in France is restricted and generally requires a legitimate reason such as transport or events.,self-defence-weapons
+carry a taser,France,restricted,"Tasers fall under regulated weapons in France and may be legal to own, but carrying them in public usually requires a valid reason.",self-defence-weapons
+carry pepper spray,France,restricted,Pepper spray is legal to possess within size limits but carrying it in public can be restricted,self-defence-weapons
+own a switchblade,France,restricted,"Switchblades are regulated in France and may be legal to own, but carrying them in public is restricted without justification.",self-defence-weapons
+possess a butterfly knife,France,restricted,"Butterfly knives are regulated in France and may be owned, but public carry without valid reason is restricted.",self-defence-weapons
+possess a stun gun,France,restricted,"Stun guns are regulated in France and may be legal to own, but carrying them in public is generally restricted.",self-defence-weapons
+possess brass knuckles,France,illegal,Brass knuckles are prohibited weapons in France and cannot be legally owned or carried.,self-defence-weapons

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "australia-speeding",
+    "query": "is speeding illegal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Speeding is illegal across Australia, with strict enforcement and varying limits depending on the state and road.",
+    "conditions": [
+      "Speed limits differ by state and road type",
+      "School and construction zones have lower limits",
+      "Excessive speeding leads to harsher penalties"
+    ],
+    "exceptions": [
+      "Emergency vehicles responding to incidents",
+      "Limited police discretion"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible for extreme offences",
+      "notes": "Demerit points commonly apply"
+    },
+    "enforcement": "Speed cameras and police patrols are widely used across Australia.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian road rules",
+      "State transport authority guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "speeding",
+      "label": "Speeding",
+      "query_label": "speeding legality",
+      "action_label": "drive over speed limit",
+      "requirement_label": "legal speed limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["drink-driving", "dangerous-driving"]
+  },
+  {
+    "id": "australia-driving-without-license",
+    "query": "is it illegal to drive without a licence in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Driving without a valid licence is illegal in Australia and carries penalties including fines and disqualification.",
+    "conditions": [
+      "Drivers must hold a valid licence",
+      "Learner drivers must be supervised",
+      "Suspended licences increase penalties"
+    ],
+    "exceptions": [
+      "Learner drivers with supervision",
+      "Limited regional allowances may apply"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Possible for repeat offences",
+      "notes": "Licence suspension likely"
+    },
+    "enforcement": "Police check licence status during stops and via databases.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian state traffic laws",
+      "Transport authority guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "driving-without-license",
+      "label": "Driving Without Licence",
+      "query_label": "driving without licence legality",
+      "action_label": "drive without licence",
+      "requirement_label": "valid licence required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "driving-without-insurance"]
+  },
+  {
+    "id": "australia-drink-driving",
+    "query": "is drink driving illegal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Drink driving is illegal in Australia and is strictly enforced with random breath testing.",
+    "conditions": [
+      "Legal blood alcohol limits apply",
+      "Lower limits for learner and provisional drivers",
+      "Applies to all motor vehicles"
+    ],
+    "exceptions": [
+      "None for standard drivers",
+      "Strict rules for all drivers"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Licence suspension common"
+    },
+    "enforcement": "Random breath testing is widely used by police across states.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian road rules",
+      "State police guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "drink-driving",
+      "label": "Drink Driving",
+      "query_label": "drink driving legality",
+      "action_label": "drive under influence",
+      "requirement_label": "legal alcohol limits",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "australia-using-phone-driving",
+    "query": "is using your phone while driving illegal in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Using a handheld phone while driving is illegal across Australia, with strict penalties.",
+    "conditions": [
+      "Handheld phone use is prohibited",
+      "Applies to calls, texting, and apps",
+      "Drivers must pull over safely to use"
+    ],
+    "exceptions": [
+      "Hands-free systems are allowed",
+      "Emergency calls permitted"
+    ],
+    "penalties": {
+      "fine": "High fines",
+      "jail": "Rare",
+      "notes": "Demerit points apply"
+    },
+    "enforcement": "Cameras and police patrols actively enforce mobile phone laws.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian road rules",
+      "State transport authority"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "using-phone-driving",
+      "label": "Using Phone While Driving",
+      "query_label": "phone driving legality",
+      "action_label": "use phone while driving",
+      "requirement_label": "hands-free requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "dangerous-driving"]
+  },
+  {
+    "id": "australia-driving-without-insurance",
+    "query": "is it illegal to drive without insurance in Australia",
+    "location": "Australia",
+    "verdict": "Depends",
+    "summary": "Basic third-party insurance is usually included with registration, but additional insurance is optional in Australia.",
+    "conditions": [
+      "Compulsory third-party insurance is required",
+      "Comprehensive insurance is optional",
+      "Rules vary by state"
+    ],
+    "exceptions": [
+      "Vehicles must be registered to have compulsory cover",
+      "Some variations by jurisdiction"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare",
+      "notes": "Driving unregistered is more serious"
+    },
+    "enforcement": "Authorities check registration and insurance status together.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian transport law",
+      "State insurance guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "driving-without-insurance",
+      "label": "Driving Without Insurance",
+      "query_label": "driving without insurance legality",
+      "action_label": "drive uninsured",
+      "requirement_label": "insurance requirement",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "speeding"]
+  },
+  {
+    "id": "australia-driving-without-registration",
+    "query": "is it illegal to drive without registration in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Driving an unregistered vehicle is illegal in Australia and can result in fines and vehicle seizure.",
+    "conditions": [
+      "Vehicles must be registered",
+      "Registration must be current",
+      "Applies on public roads"
+    ],
+    "exceptions": [
+      "Temporary permits",
+      "Short grace periods in some states"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare",
+      "notes": "Vehicle may be impounded"
+    },
+    "enforcement": "Police use number plate recognition and checks to enforce compliance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian road rules",
+      "State transport authorities"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "driving-without-registration",
+      "label": "Driving Without Registration",
+      "query_label": "vehicle registration legality",
+      "action_label": "drive without registration",
+      "requirement_label": "registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-insurance", "driving-without-license"]
+  },
+  {
+    "id": "australia-seatbelt-law",
+    "query": "is it illegal to not wear a seatbelt in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Wearing a seatbelt is mandatory for drivers and passengers in Australia.",
+    "conditions": [
+      "Seatbelts must be worn if fitted",
+      "Drivers responsible for passengers",
+      "Child restraint laws apply"
+    ],
+    "exceptions": [
+      "Medical exemptions",
+      "Certain vehicle types"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Not typical",
+      "notes": "Demerit points apply"
+    },
+    "enforcement": "Police enforce seatbelt laws through routine stops and cameras.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian road rules",
+      "State safety guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "seatbelt-law",
+      "label": "Seatbelt Law",
+      "query_label": "seatbelt legality",
+      "action_label": "not wear seatbelt",
+      "requirement_label": "seatbelt required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["using-phone-driving", "speeding"]
+  },
+  {
+    "id": "australia-driving-on-footpath",
+    "query": "is it illegal to drive on the footpath in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Driving on a footpath is illegal in Australia except for accessing property or in emergencies.",
+    "conditions": [
+      "Footpaths are for pedestrians",
+      "Driving is restricted",
+      "Must use designated crossings"
+    ],
+    "exceptions": [
+      "Accessing private property",
+      "Emergency vehicles"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare",
+      "notes": "May be treated as unsafe driving"
+    },
+    "enforcement": "Police enforce based on safety risks and local regulations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian road rules",
+      "Local government laws"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "driving-on-footpath",
+      "label": "Driving on Footpath",
+      "query_label": "drive on footpath legality",
+      "action_label": "drive on footpath",
+      "requirement_label": "must stay on road",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["dangerous-driving", "speeding"]
+  },
+  {
+    "id": "australia-dangerous-driving",
+    "query": "what is dangerous driving in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Dangerous driving is a serious offence in Australia involving behaviour that risks safety.",
+    "conditions": [
+      "Driving far below expected standards",
+      "Putting others at risk",
+      "Includes reckless or aggressive driving"
+    ],
+    "exceptions": [
+      "Emergency services in duty",
+      "None for normal drivers"
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible imprisonment",
+      "notes": "Licence disqualification likely"
+    },
+    "enforcement": "Police investigate and charge based on evidence and behaviour.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian criminal driving law",
+      "State police guidance"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "dangerous-driving",
+      "label": "Dangerous Driving",
+      "query_label": "dangerous driving legality",
+      "action_label": "drive dangerously",
+      "requirement_label": "safe driving standard",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["speeding", "drink-driving"]
+  },
+  {
+    "id": "australia-driving-with-expired-registration",
+    "query": "is it illegal to drive with expired registration in Australia",
+    "location": "Australia",
+    "verdict": "No",
+    "summary": "Driving with expired registration is illegal in Australia and can lead to fines and penalties.",
+    "conditions": [
+      "Registration must be current",
+      "Applies to all vehicles on public roads",
+      "Linked to insurance requirements"
+    ],
+    "exceptions": [
+      "Short grace periods in some states",
+      "Temporary permits"
+    ],
+    "penalties": {
+      "fine": "Varies by state",
+      "jail": "Rare",
+      "notes": "Vehicle may be unroadworthy"
+    },
+    "enforcement": "Authorities check registration status electronically using plate recognition.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Australian transport law",
+      "State registration rules"
+    ],
+    "country": {
+      "slug": "australia",
+      "name": "Australia",
+      "region": "Oceania"
+    },
+    "topic": {
+      "slug": "driving-with-expired-registration",
+      "label": "Driving With Expired Registration",
+      "query_label": "expired registration legality",
+      "action_label": "drive with expired registration",
+      "requirement_label": "valid registration required",
+      "category_slugs": ["vehicles"]
+    },
+    "related_topic_slugs": ["driving-without-registration", "driving-without-insurance"]
+  }
+]

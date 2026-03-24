@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Spain,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Spain,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Spain,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Spain,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Spain,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Spain,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Spain,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Spain,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Spain,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

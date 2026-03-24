@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Georgia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "japan-bringing-alcohol-into-country",
+    "query": "can you bring alcohol into japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Alcohol can be brought into Japan within duty-free limits, with taxes applying above the allowance.",
+    "conditions": [
+      "Alcohol must be for personal use.",
+      "Duty-free limits apply.",
+      "Excess quantities must be declared."
+    ],
+    "exceptions": [
+      "Higher quantities incur duty.",
+      "Undeclared goods may be seized."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Failure to declare can result in penalties."
+    },
+    "enforcement": "Customs officers inspect luggage and may question quantities.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Customs",
+      "Customs Tariff Law"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-alcohol-into-country",
+      "label": "Bringing Alcohol",
+      "query_label": "alcohol import rules",
+      "action_label": "bringing alcohol into a country",
+      "requirement_label": "alcohol allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "japan-carrying-cash-limit",
+    "query": "how much cash can you bring into japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "There is no limit on bringing cash into Japan, but amounts over ¥1,000,000 must be declared.",
+    "conditions": [
+      "Cash above ¥1,000,000 must be declared.",
+      "Declarations must be accurate.",
+      "Funds must be legally obtained."
+    ],
+    "exceptions": [
+      "Failure to declare may lead to penalties.",
+      "Suspicious funds may be investigated."
+    ],
+    "penalties": {
+      "fine": "Fines or seizure",
+      "jail": "Possible in serious cases",
+      "notes": "Anti-money laundering laws apply."
+    },
+    "enforcement": "Authorities monitor large cash movements at borders.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Customs",
+      "Financial regulations Japan"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "carrying-cash-limit",
+      "label": "Cash Limits",
+      "query_label": "cash import limits",
+      "action_label": "bringing cash into a country",
+      "requirement_label": "cash declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "japan-bringing-medication",
+    "query": "can you bring medication into japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Medication can be brought into Japan, but some drugs require approval or are restricted.",
+    "conditions": [
+      "Medication must be for personal use.",
+      "Carry a prescription or documentation.",
+      "Certain drugs require prior approval."
+    ],
+    "exceptions": [
+      "Some medications are banned.",
+      "Import certificates may be required."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict drug import laws apply."
+    },
+    "enforcement": "Customs may inspect medications and verify approval documents.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Ministry of Health",
+      "Customs guidance Japan"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-medication",
+      "label": "Bringing Medication",
+      "query_label": "medication import rules",
+      "action_label": "bringing medication into a country",
+      "requirement_label": "medication travel rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "carrying-prescription-drugs",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "japan-bringing-food-into-country",
+    "query": "can you bring food into japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Food can be brought into Japan, but strict rules apply to animal products and certain fresh items.",
+    "conditions": [
+      "Some foods are restricted or prohibited.",
+      "Inspection may be required.",
+      "Items must comply with import rules."
+    ],
+    "exceptions": [
+      "Packaged foods may be allowed.",
+      "Restrictions vary depending on origin."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Not specified",
+      "notes": "Biosecurity rules are enforced."
+    },
+    "enforcement": "Customs officers may inspect food items at entry.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Customs",
+      "Food import regulations Japan"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-food-into-country",
+      "label": "Bringing Food",
+      "query_label": "food import rules",
+      "action_label": "bringing food into a country",
+      "requirement_label": "food import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "japan-carrying-tobacco",
+    "query": "how much tobacco can you bring into japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Tobacco can be brought into Japan within duty-free limits for personal use.",
+    "conditions": [
+      "Items must be within duty-free allowance.",
+      "Tobacco must be for personal use.",
+      "Excess must be declared."
+    ],
+    "exceptions": [
+      "Higher quantities may incur duty.",
+      "Undeclared goods may be seized."
+    ],
+    "penalties": {
+      "fine": "Duty charges or fines",
+      "jail": "Not specified",
+      "notes": "Strict enforcement of import limits."
+    },
+    "enforcement": "Customs monitors tobacco imports at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Customs",
+      "Customs Tariff Law"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "carrying-tobacco",
+      "label": "Carrying Tobacco",
+      "query_label": "tobacco import limits",
+      "action_label": "bringing tobacco into a country",
+      "requirement_label": "tobacco allowance rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "japan-bringing-electronics",
+    "query": "can you bring electronics into japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Personal electronics can be brought into Japan, but high-value goods may be subject to declaration.",
+    "conditions": [
+      "Items must be for personal use.",
+      "High-value goods may require declaration.",
+      "Duty may apply above limits."
+    ],
+    "exceptions": [
+      "Commercial imports require documentation.",
+      "Certain communication devices may be restricted."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Failure to declare can result in penalties."
+    },
+    "enforcement": "Customs officers may inspect goods at entry points.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Customs",
+      "Import regulations Japan"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-electronics",
+      "label": "Bringing Electronics",
+      "query_label": "electronics import rules",
+      "action_label": "bringing electronics into a country",
+      "requirement_label": "electronics declaration rules",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "japan-carrying-prescription-drugs",
+    "query": "can you carry prescription drugs into japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Prescription drugs can be carried into Japan, but some require prior approval and documentation.",
+    "conditions": [
+      "Carry a valid prescription.",
+      "Keep medication in original packaging.",
+      "Some drugs require import certificates."
+    ],
+    "exceptions": [
+      "Certain drugs are banned.",
+      "Failure to obtain approval can lead to penalties."
+    ],
+    "penalties": {
+      "fine": "Confiscation or fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict rules apply to controlled substances."
+    },
+    "enforcement": "Authorities may inspect medications at the border.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Ministry of Health",
+      "Customs guidance Japan"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "carrying-prescription-drugs",
+      "label": "Prescription Drugs",
+      "query_label": "prescription drug import rules",
+      "action_label": "carrying prescription drugs",
+      "requirement_label": "drug import requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-medication",
+      "customs-declaration-required"
+    ]
+  },
+  {
+    "id": "japan-bringing-weapons-in-luggage",
+    "query": "can you bring weapons in luggage into japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Weapons are generally prohibited from being brought into Japan without strict authorization.",
+    "conditions": [
+      "Weapons are heavily restricted.",
+      "Permits are required for exceptions.",
+      "Airline and customs rules apply."
+    ],
+    "exceptions": [
+      "Special approvals may apply for sporting equipment.",
+      "Licensed imports may be allowed under strict conditions."
+    ],
+    "penalties": {
+      "fine": "Fines and confiscation",
+      "jail": "Possible imprisonment",
+      "notes": "Japan has strict weapon control laws."
+    },
+    "enforcement": "Customs strictly enforces weapon import bans.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan weapons law",
+      "Customs guidance Japan"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "bringing-weapons-in-luggage",
+      "label": "Weapons in Luggage",
+      "query_label": "weapons import rules",
+      "action_label": "bringing weapons in luggage",
+      "requirement_label": "weapon import restrictions",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "customs-declaration-required",
+      "duty-free-limits"
+    ]
+  },
+  {
+    "id": "japan-customs-declaration-required",
+    "query": "do you need to declare items at japan customs",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "You must declare certain goods when entering Japan, especially items above duty-free limits or restricted goods.",
+    "conditions": [
+      "Declare goods above duty-free limits.",
+      "Provide accurate information.",
+      "Use the correct customs channel."
+    ],
+    "exceptions": [
+      "Personal goods within limits may not require declaration.",
+      "Certain items must always be declared."
+    ],
+    "penalties": {
+      "fine": "Fines or confiscation",
+      "jail": "Possible in serious cases",
+      "notes": "False declarations can lead to penalties."
+    },
+    "enforcement": "Customs officers inspect luggage and verify declarations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Customs",
+      "Customs Tariff Law"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "customs-declaration-required",
+      "label": "Customs Declaration",
+      "query_label": "customs declaration rules",
+      "action_label": "declaring goods at customs",
+      "requirement_label": "customs declaration requirements",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "duty-free-limits",
+      "carrying-cash-limit"
+    ]
+  },
+  {
+    "id": "japan-duty-free-limits",
+    "query": "what are duty free limits in japan",
+    "location": "Japan",
+    "verdict": "Yes",
+    "summary": "Duty-free allowances apply when entering Japan for alcohol, tobacco, and certain goods within set limits.",
+    "conditions": [
+      "Allowances apply to personal-use goods.",
+      "Exceeding limits requires duty payment.",
+      "Items must be declared if above limits."
+    ],
+    "exceptions": [
+      "Commercial goods are excluded.",
+      "Different rules may apply to residents."
+    ],
+    "penalties": {
+      "fine": "Duty charges or confiscation",
+      "jail": "Not specified",
+      "notes": "Non-compliance can lead to penalties."
+    },
+    "enforcement": "Customs ensures compliance through inspections and declarations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japan Customs",
+      "Customs Tariff Law"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "duty-free-limits",
+      "label": "Duty Free Limits",
+      "query_label": "duty free allowance rules",
+      "action_label": "bringing duty free goods",
+      "requirement_label": "duty free limits",
+      "category_slugs": ["travel"]
+    },
+    "related_topic_slugs": [
+      "bringing-alcohol-into-country",
+      "carrying-tobacco"
+    ]
+  }
+]

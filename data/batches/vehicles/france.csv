@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,France,illegal,Dangerous driving is illegal in France and includes behaviour that endangers others.,vehicles
+drive on footpath,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,France,illegal,Driving on pavements is illegal in France except for accessing property or permitted areas.,vehicles
+drive on sidewalk,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,France,illegal,Speeding is illegal in France and strictly enforced with widespread use of speed cameras.,vehicles
+drive recklessly,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,France,illegal,Drink driving above legal alcohol limits is illegal in France and strictly enforced.,vehicles
+drive uninsured,France,illegal,Driving without mandatory insurance is illegal in France and carries severe penalties.,vehicles
+drive with expired licence,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,France,illegal,Driving without a valid technical inspection (contrôle technique) is illegal in France.,vehicles
+drive without licence,France,illegal,Driving without a valid licence is illegal in France and considered a serious offence.,vehicles
+drive without MOT,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,France,illegal,Driving an unregistered vehicle is illegal in France and subject to fines and penalties.,vehicles
+drive without tax,France,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,France,illegal,Wearing a seatbelt is mandatory in France for drivers and passengers.,vehicles
+use phone while driving,France,illegal,"Using a handheld phone while driving is illegal in France, even when stopped in traffic.",vehicles

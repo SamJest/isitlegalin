@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Pakistan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,China,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,China,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,China,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,China,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,China,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,China,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,China,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,China,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,China,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,China,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

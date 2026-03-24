@@ -1,0 +1,222 @@
+[
+{
+"id": "uk-minimum-wage-laws",
+"query": "minimum wage law uk",
+"location": "United Kingdom",
+"verdict": "Yes",
+"summary": "The UK has a legally mandated minimum wage, with rates varying by age and employment status.",
+"conditions": [
+"Applies to most workers",
+"Rates updated annually",
+"Different bands for age groups"
+],
+"exceptions": [
+"Apprentices have lower rates",
+"Self-employed not covered"
+],
+"penalties": {
+"fine": "Fines for employers and repayment of wages",
+"jail": "Possible in extreme cases",
+"notes": "Employers can be publicly named"
+},
+"enforcement": "HMRC enforces minimum wage compliance",
+"last_updated": "2026-01-01",
+"sources": [
+"UK Government",
+"HMRC"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "minimum-wage-laws",
+"label": "Minimum Wage Laws",
+"query_label": "minimum wage legal",
+"action_label": "pay minimum wage",
+"requirement_label": "minimum wage requirement",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"overtime-pay-laws",
+"maximum-working-hours"
+]
+},
+{
+"id": "uk-maximum-working-hours",
+"query": "maximum working hours uk law",
+"location": "United Kingdom",
+"verdict": "Yes",
+"summary": "UK law generally limits the average working week to 48 hours, though workers can opt out.",
+"conditions": [
+"48-hour weekly average limit",
+"Calculated over reference period",
+"Applies to most workers"
+],
+"exceptions": [
+"Workers can opt out voluntarily",
+"Some sectors have different rules"
+],
+"penalties": {
+"fine": "Fines for non-compliance",
+"jail": "Not typical",
+"notes": "Health and safety enforcement applies"
+},
+"enforcement": "Health and Safety Executive oversees compliance",
+"last_updated": "2026-01-01",
+"sources": [
+"Working Time Regulations",
+"UK Government"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "maximum-working-hours",
+"label": "Working Hours Laws",
+"query_label": "working hours legal",
+"action_label": "work hours",
+"requirement_label": "working hours limit",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"minimum-wage-laws",
+"overtime-pay-laws"
+]
+},
+{
+"id": "uk-overtime-pay-laws",
+"query": "is overtime pay required uk",
+"location": "United Kingdom",
+"verdict": "Depends",
+"summary": "Overtime pay is not always legally required in the UK, but total pay must not fall below minimum wage.",
+"conditions": [
+"Contract determines overtime pay",
+"Must meet minimum wage overall",
+"Common in many industries"
+],
+"exceptions": [
+"No legal requirement in many cases",
+"Collective agreements may apply"
+],
+"penalties": {
+"fine": "Fines if minimum wage breached",
+"jail": "Rare",
+"notes": "Focus is on minimum wage compliance"
+},
+"enforcement": "HMRC enforces wage laws",
+"last_updated": "2026-01-01",
+"sources": [
+"UK Government",
+"Employment law"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "overtime-pay-laws",
+"label": "Overtime Pay Laws",
+"query_label": "overtime legal",
+"action_label": "pay overtime",
+"requirement_label": "overtime requirement",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"minimum-wage-laws",
+"maximum-working-hours"
+]
+},
+{
+"id": "uk-employment-contract-requirements",
+"query": "is employment contract required uk",
+"location": "United Kingdom",
+"verdict": "Yes",
+"summary": "Employers must provide a written statement of employment terms, though not always a full contract.",
+"conditions": [
+"Written statement required",
+"Must include key terms",
+"Provided from day one"
+],
+"exceptions": [
+"Full contract not always mandatory",
+"Applies to employees and workers"
+],
+"penalties": {
+"fine": "Tribunal compensation possible",
+"jail": "Not applicable",
+"notes": "Claims can be brought by employees"
+},
+"enforcement": "Enforced through employment tribunals",
+"last_updated": "2026-01-01",
+"sources": [
+"UK Employment Law",
+"ACAS"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "employment-contract-requirements",
+"label": "Employment Contract Laws",
+"query_label": "employment contract legal",
+"action_label": "provide contract",
+"requirement_label": "contract requirement",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"probation-period-laws",
+"employee-termination-laws"
+]
+},
+{
+"id": "uk-probation-period-laws",
+"query": "probation period law uk",
+"location": "United Kingdom",
+"verdict": "Depends",
+"summary": "Probation periods are allowed in the UK but are not strictly defined by law.",
+"conditions": [
+"Common in employment contracts",
+"Terms set by employer",
+"Must still follow employment law"
+],
+"exceptions": [
+"No fixed legal duration",
+"Rights vary during probation"
+],
+"penalties": {
+"fine": "Not applicable",
+"jail": "Not applicable",
+"notes": "General employment protections still apply"
+},
+"enforcement": "Handled through employment tribunals if disputes arise",
+"last_updated": "2026-01-01",
+"sources": [
+"UK Employment Law",
+"ACAS"
+],
+"country": {
+"slug": "uk",
+"name": "United Kingdom",
+"region": "Europe"
+},
+"topic": {
+"slug": "probation-period-laws",
+"label": "Probation Period Laws",
+"query_label": "probation legal",
+"action_label": "set probation",
+"requirement_label": "probation rules",
+"category_slugs": ["employment-laws"]
+},
+"related_topic_slugs": [
+"employment-contract-requirements",
+"employee-termination-laws"
+]
+}
+]

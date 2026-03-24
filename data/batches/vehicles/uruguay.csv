@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Uruguay,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

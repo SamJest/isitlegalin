@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Nigeria,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

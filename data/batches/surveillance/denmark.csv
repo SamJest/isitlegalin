@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Denmark,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Denmark,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Denmark,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Denmark,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Denmark,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Denmark,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Denmark,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Denmark,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Denmark,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

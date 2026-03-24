@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Kazakhstan,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

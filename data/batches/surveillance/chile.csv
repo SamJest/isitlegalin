@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Chile,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Chile,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Chile,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Chile,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Chile,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Chile,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Chile,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Chile,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Chile,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

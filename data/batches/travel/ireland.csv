@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bring food into a country,Ireland,restricted,Estimated legal status based on general regulations. Verify locally.,travel
+bringing cash into a country,Ireland,restricted,Estimated legal status based on general regulations. Verify locally.,travel
+bringing duty free goods,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing electronics into a country,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing medication into a country,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing tobacco into a country,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing weapons in luggage,Ireland,illegal,Estimated legal status based on general regulations. Verify locally.,travel
+carrying prescription drugs,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,travel
+declaring goods at customs,Ireland,legal,Estimated legal status based on general regulations. Verify locally.,travel

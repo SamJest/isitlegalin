@@ -1,0 +1,442 @@
+[
+  {
+    "id": "germany-cctv-home",
+    "query": "is home cctv legal in germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Home CCTV is allowed in Germany in limited situations, but strict privacy laws apply, especially if cameras capture public spaces or neighbouring property.",
+    "conditions": [
+      "Cameras should only monitor your own property.",
+      "Recording public areas is heavily restricted.",
+      "Clear purpose and proportionality are required."
+    ],
+    "exceptions": [
+      "Doorbell cameras may be allowed if they do not continuously record public space.",
+      "Temporary recording for security may be justified in some cases."
+    ],
+    "penalties": {
+      "fine": "Significant fines under data protection law",
+      "jail": "Not specified",
+      "notes": "Germany enforces strict privacy rules under GDPR principles."
+    },
+    "enforcement": "Data protection authorities actively investigate complaints about intrusive surveillance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "German Federal Data Protection Act"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "cctv-home",
+      "label": "Home CCTV",
+      "query_label": "home cctv legality",
+      "action_label": "installing home cctv",
+      "requirement_label": "cctv rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "germany-cctv-business",
+    "query": "is business cctv legal in germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Business CCTV is allowed in Germany only under strict conditions, including necessity, transparency, and compliance with data protection laws.",
+    "conditions": [
+      "Monitoring must be necessary and proportionate.",
+      "Clear signage is required.",
+      "Employee monitoring must be justified."
+    ],
+    "exceptions": [
+      "Covert surveillance is rarely allowed and only in exceptional cases.",
+      "Highly sensitive areas cannot be monitored."
+    ],
+    "penalties": {
+      "fine": "Heavy fines under GDPR",
+      "jail": "Not specified",
+      "notes": "Germany has some of the strictest surveillance rules in Europe."
+    },
+    "enforcement": "Data protection regulators closely monitor business surveillance practices.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "German workplace surveillance guidance"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "cctv-business",
+      "label": "Business CCTV",
+      "query_label": "business cctv legality",
+      "action_label": "using cctv in business",
+      "requirement_label": "cctv compliance",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "employee-monitoring",
+      "video-recording-public"
+    ]
+  },
+  {
+    "id": "germany-hidden-cameras",
+    "query": "are hidden cameras legal in germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Hidden cameras are generally illegal in Germany, especially when used to secretly record people without their knowledge or consent.",
+    "conditions": [
+      "Secret recording without consent is prohibited.",
+      "Privacy rights are strongly protected.",
+      "Use must not violate personal dignity."
+    ],
+    "exceptions": [
+      "Very limited use may be allowed in serious investigations.",
+      "Law enforcement operates under separate rules."
+    ],
+    "penalties": {
+      "fine": "Significant fines",
+      "jail": "Possible in serious violations",
+      "notes": "Germany takes a strict stance on covert surveillance."
+    },
+    "enforcement": "Authorities act quickly on complaints involving hidden surveillance.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Criminal Code",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "hidden-cameras",
+      "label": "Hidden Cameras",
+      "query_label": "hidden camera legality",
+      "action_label": "using hidden cameras",
+      "requirement_label": "privacy rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "germany-audio-recording",
+    "query": "is audio recording legal in germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Recording private conversations without consent is illegal in Germany, even if you are part of the conversation.",
+    "conditions": [
+      "All parties must consent to recording.",
+      "Private conversations are strongly protected.",
+      "Secret recordings are prohibited."
+    ],
+    "exceptions": [
+      "Public speeches or events may be recorded.",
+      "Law enforcement may record under legal authority."
+    ],
+    "penalties": {
+      "fine": "Fines under criminal law",
+      "jail": "Possible imprisonment",
+      "notes": "Germany has strict two-party consent rules."
+    },
+    "enforcement": "Violations are often prosecuted when recordings are discovered or reported.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Criminal Code",
+      "Privacy law principles"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "audio-recording",
+      "label": "Audio Recording",
+      "query_label": "audio recording legality",
+      "action_label": "recording conversations",
+      "requirement_label": "consent to record",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "phone-call-recording",
+      "hidden-cameras"
+    ]
+  },
+  {
+    "id": "germany-video-recording-public",
+    "query": "is it legal to record video in public in germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Recording video in public is restricted in Germany, especially if individuals can be identified, due to strong privacy protections.",
+    "conditions": [
+      "Recording identifiable individuals requires legal justification.",
+      "Use must respect privacy and data protection laws.",
+      "Filming should avoid focusing on individuals without consent."
+    ],
+    "exceptions": [
+      "Large public events may allow broader filming.",
+      "Journalistic or artistic use may have special protections."
+    ],
+    "penalties": {
+      "fine": "Possible fines under data protection laws",
+      "jail": "Not specified",
+      "notes": "Germany prioritizes personal privacy even in public spaces."
+    },
+    "enforcement": "Complaints about unauthorized filming are taken seriously by regulators.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "German privacy law"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "video-recording-public",
+      "label": "Recording in Public",
+      "query_label": "public video recording legality",
+      "action_label": "recording people in public",
+      "requirement_label": "public recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "recording-police",
+      "cctv-home"
+    ]
+  },
+  {
+    "id": "germany-recording-police",
+    "query": "is it legal to record police in germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Recording police in Germany is allowed in some situations, but sharing or distributing footage without consent can be restricted.",
+    "conditions": [
+      "Recording in public may be allowed under certain conditions.",
+      "Publishing identifiable footage can violate privacy laws.",
+      "You must not interfere with police duties."
+    ],
+    "exceptions": [
+      "Journalistic use may have additional protections.",
+      "Restricted areas may prohibit recording."
+    ],
+    "penalties": {
+      "fine": "Possible fines under privacy laws",
+      "jail": "Possible in serious cases",
+      "notes": "Distribution of footage is often more restricted than recording itself."
+    },
+    "enforcement": "Authorities may act if recordings are misused or interfere with operations.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German privacy law",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "recording-police",
+      "label": "Recording Police",
+      "query_label": "recording police legality",
+      "action_label": "filming police officers",
+      "requirement_label": "rules for recording police",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "germany-drone-surveillance",
+    "query": "is drone surveillance legal in germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Drone use is legal in Germany under strict aviation and privacy rules, but using drones for surveillance can be heavily restricted.",
+    "conditions": [
+      "Drone flights must follow aviation regulations.",
+      "Recording private property without consent is restricted.",
+      "Use must comply with data protection laws."
+    ],
+    "exceptions": [
+      "Professional use may require permits.",
+      "Certain zones are completely restricted."
+    ],
+    "penalties": {
+      "fine": "Fines for aviation or privacy violations",
+      "jail": "Possible in serious cases",
+      "notes": "Both flight safety and privacy laws apply."
+    },
+    "enforcement": "Authorities enforce both aviation and data protection rules.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German aviation authority rules",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "drone-surveillance",
+      "label": "Drone Surveillance",
+      "query_label": "drone surveillance legality",
+      "action_label": "using camera drones",
+      "requirement_label": "drone recording rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "video-recording-public",
+      "gps-tracking"
+    ]
+  },
+  {
+    "id": "germany-gps-tracking",
+    "query": "is gps tracking someone legal in germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "GPS tracking another person without their consent is generally illegal in Germany due to strong privacy protections.",
+    "conditions": [
+      "Tracking must have a lawful basis.",
+      "Consent is usually required.",
+      "Use must not violate personal rights."
+    ],
+    "exceptions": [
+      "Tracking your own property may be allowed.",
+      "Employers may track company assets under strict conditions."
+    ],
+    "penalties": {
+      "fine": "Fines under privacy law",
+      "jail": "Possible in serious violations",
+      "notes": "Covert tracking is treated seriously under German law."
+    },
+    "enforcement": "Cases are often investigated following complaints or evidence of misuse.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German privacy law",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "gps-tracking",
+      "label": "GPS Tracking",
+      "query_label": "gps tracking legality",
+      "action_label": "tracking a person or vehicle",
+      "requirement_label": "tracking consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "drone-surveillance",
+      "employee-monitoring"
+    ]
+  },
+  {
+    "id": "germany-employee-monitoring",
+    "query": "is employee monitoring legal in germany",
+    "location": "Germany",
+    "verdict": "Depends",
+    "summary": "Employee monitoring is allowed in Germany only under strict conditions, with strong protections for worker privacy.",
+    "conditions": [
+      "Monitoring must be necessary and proportionate.",
+      "Works councils may need to be involved.",
+      "Employees must be informed."
+    ],
+    "exceptions": [
+      "Covert monitoring is rarely permitted.",
+      "Sensitive areas cannot be monitored."
+    ],
+    "penalties": {
+      "fine": "Heavy fines under GDPR",
+      "jail": "Not specified",
+      "notes": "Germany enforces strict workplace privacy standards."
+    },
+    "enforcement": "Regulators and labor bodies oversee workplace surveillance practices.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "GDPR",
+      "German labor law"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "employee-monitoring",
+      "label": "Employee Monitoring",
+      "query_label": "employee monitoring legality",
+      "action_label": "monitoring staff",
+      "requirement_label": "employee surveillance rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "cctv-business",
+      "audio-recording"
+    ]
+  },
+  {
+    "id": "germany-phone-call-recording",
+    "query": "is recording phone calls legal in germany",
+    "location": "Germany",
+    "verdict": "No",
+    "summary": "Recording phone calls without consent from all parties is illegal in Germany.",
+    "conditions": [
+      "All participants must agree to recording.",
+      "Secret recording is prohibited.",
+      "Private communications are protected."
+    ],
+    "exceptions": [
+      "Public broadcasts may be recorded.",
+      "Law enforcement may record under legal authority."
+    ],
+    "penalties": {
+      "fine": "Criminal fines",
+      "jail": "Possible imprisonment",
+      "notes": "Germany applies strict consent rules to communications."
+    },
+    "enforcement": "Violations are often prosecuted when recordings are discovered.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "German Criminal Code",
+      "GDPR"
+    ],
+    "country": {
+      "slug": "germany",
+      "name": "Germany",
+      "region": "Europe"
+    },
+    "topic": {
+      "slug": "phone-call-recording",
+      "label": "Phone Call Recording",
+      "query_label": "phone call recording legality",
+      "action_label": "recording phone calls",
+      "requirement_label": "phone recording consent rules",
+      "category_slugs": ["surveillance"]
+    },
+    "related_topic_slugs": [
+      "audio-recording",
+      "employee-monitoring"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,Bahrain,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bring food into a country,Bahrain,restricted,Estimated legal status based on general regulations. Verify locally.,travel
+bringing cash into a country,Bahrain,restricted,Estimated legal status based on general regulations. Verify locally.,travel
+bringing duty free goods,Bahrain,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing electronics into a country,Bahrain,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing medication into a country,Bahrain,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing tobacco into a country,Bahrain,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing weapons in luggage,Bahrain,illegal,Estimated legal status based on general regulations. Verify locally.,travel
+carrying prescription drugs,Bahrain,legal,Estimated legal status based on general regulations. Verify locally.,travel
+declaring goods at customs,Bahrain,legal,Estimated legal status based on general regulations. Verify locally.,travel

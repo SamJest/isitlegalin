@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

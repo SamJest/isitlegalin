@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Iceland,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

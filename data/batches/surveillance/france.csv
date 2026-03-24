@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,France,restricted,"Recording police in public is generally allowed in France, but sharing identifiable footage can be restricted under privacy and security laws.",surveillance
+installing home cctv,France,legal,"Home CCTV is legal in France when used to monitor your own property, but strict privacy rules apply if cameras capture public areas or neighbours.",surveillance
+monitoring staff,France,restricted,"Employee monitoring is allowed in France under strict conditions, including transparency, necessity, and respect for worker privacy.",surveillance
+recording conversations,France,illegal,Recording private conversations without consent from all parties is illegal in France.,surveillance
+recording people in public,France,restricted,"Recording video in public is allowed in France, but sharing or publishing identifiable footage without consent can violate privacy laws.",surveillance
+recording phone calls,France,illegal,Recording phone calls without the consent of all parties is illegal in France.,surveillance
+tracking a person or vehicle,France,restricted,"GPS tracking is restricted in France and generally requires consent or a clear legal basis, especially when tracking individuals.",surveillance
+using camera drones,France,restricted,"Drone use is legal in France under strict aviation rules, but using drones to monitor people can raise privacy and data protection concerns.",surveillance
+using cctv in business,France,restricted,"Business CCTV is allowed in France under strict conditions, including necessity, transparency, and compliance with data protection laws.",surveillance
+using hidden cameras,France,illegal,Hidden cameras are generally illegal in France when used to secretly record individuals without their knowledge.,surveillance

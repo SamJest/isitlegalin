@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Ukraine,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

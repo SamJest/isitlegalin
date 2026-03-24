@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Croatia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Croatia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Croatia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Croatia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Croatia,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Croatia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Croatia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Croatia,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Croatia,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

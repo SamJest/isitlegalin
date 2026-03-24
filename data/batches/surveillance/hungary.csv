@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,Hungary,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+installing home cctv,Hungary,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+monitoring staff,Hungary,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording conversations,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording people in public,Hungary,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+recording phone calls,Hungary,illegal,Estimated legal status based on general regulations. Verify locally.,surveillance
+tracking a person or vehicle,Hungary,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using camera drones,Hungary,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance
+using cctv in business,Hungary,legal,Estimated legal status based on general regulations. Verify locally.,surveillance
+using hidden cameras,Hungary,restricted,Estimated legal status based on general regulations. Verify locally.,surveillance

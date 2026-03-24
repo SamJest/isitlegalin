@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Moldova,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

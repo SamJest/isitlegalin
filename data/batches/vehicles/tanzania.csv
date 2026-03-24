@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Tanzania,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

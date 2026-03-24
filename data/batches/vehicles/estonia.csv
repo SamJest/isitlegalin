@@ -1,0 +1,20 @@
+activity,country,legal_status,notes,topic
+drive dangerously,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on footpath,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on pavement,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive on sidewalk,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive over speed limit,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive recklessly,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive under influence,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive uninsured,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired licence,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive with expired registration,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without inspection,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without licence,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without MOT,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without plates,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without pollution certificate,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without registration,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+drive without tax,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+not wear seatbelt,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles
+use phone while driving,Estonia,illegal,Estimated legal status based on general regulations. Verify locally.,vehicles

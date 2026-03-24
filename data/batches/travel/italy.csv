@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,Italy,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bring food into a country,Italy,restricted,Estimated legal status based on general regulations. Verify locally.,travel
+bringing cash into a country,Italy,restricted,Estimated legal status based on general regulations. Verify locally.,travel
+bringing duty free goods,Italy,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing electronics into a country,Italy,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing medication into a country,Italy,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing tobacco into a country,Italy,legal,Estimated legal status based on general regulations. Verify locally.,travel
+bringing weapons in luggage,Italy,illegal,Estimated legal status based on general regulations. Verify locally.,travel
+carrying prescription drugs,Italy,legal,Estimated legal status based on general regulations. Verify locally.,travel
+declaring goods at customs,Italy,legal,Estimated legal status based on general regulations. Verify locally.,travel

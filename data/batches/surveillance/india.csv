@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+filming police officers,India,legal,Recording police in public is generally allowed in India as long as it does not interfere with their duties.,surveillance
+installing home cctv,India,legal,"Home CCTV is generally legal in India when used for security, but privacy considerations apply if cameras capture others without consent.",surveillance
+monitoring staff,India,legal,"Employee monitoring is generally allowed in India for business purposes, but should not be excessive or violate privacy expectations.",surveillance
+recording conversations,India,restricted,"Audio recording laws in India are not always clearly defined, but recording conversations without consent can raise privacy and legal concerns.",surveillance
+recording people in public,India,legal,"Recording video in public is generally allowed in India, but misuse of footage or invasion of privacy can lead to legal issues.",surveillance
+recording phone calls,India,restricted,"Recording phone calls in India is not clearly defined in all cases, but recording without consent can raise privacy and legal concerns.",surveillance
+tracking a person or vehicle,India,restricted,"GPS tracking laws in India are context-based, but tracking someone without consent can lead to legal issues, especially if linked to harassment.",surveillance
+using camera drones,India,restricted,"Drone use is regulated in India, and using drones for surveillance is restricted depending on location, permissions, and purpose.",surveillance
+using cctv in business,India,legal,"Business CCTV is widely used in India for security and operational purposes, but must not violate privacy or labor rights.",surveillance
+using hidden cameras,India,restricted,"Hidden cameras are not explicitly banned in all cases in India, but using them to secretly record individuals in private spaces can be illegal.",surveillance

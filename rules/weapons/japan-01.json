@@ -1,0 +1,412 @@
+[
+  {
+    "id": "japan-pepper-spray",
+    "query": "is pepper spray legal in Japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Pepper spray is not explicitly banned in Japan, but carrying it for self-defence can lead to legal issues depending on circumstances.",
+    "conditions": [
+      "Intent to use as a weapon may be illegal",
+      "Public safety laws apply",
+      "Use must be strictly defensive"
+    ],
+    "exceptions": [
+      "Small personal safety items may be tolerated",
+      "Emergency self-defence situations"
+    ],
+    "penalties": {
+      "fine": "Possible fine",
+      "jail": "Possible detention",
+      "notes": "Strict interpretation of weapon intent"
+    },
+    "enforcement": "Police assess intent and context and may detain individuals carrying it.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese weapons law guidance",
+      "Public safety regulations"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "pepper-spray",
+      "label": "Pepper Spray",
+      "query_label": "pepper spray legality",
+      "action_label": "carry pepper spray",
+      "requirement_label": "legal to carry pepper spray",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "stun-gun"]
+  },
+  {
+    "id": "japan-stun-gun",
+    "query": "is a stun gun legal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Stun guns are generally prohibited in Japan and are considered illegal weapons for civilian possession.",
+    "conditions": [
+      "Classified as prohibited weapon",
+      "Civilian ownership is illegal",
+      "Importing is restricted"
+    ],
+    "exceptions": [
+      "Law enforcement use",
+      "Official authorised use"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement"
+    },
+    "enforcement": "Police strictly enforce weapon bans and seize stun guns on discovery.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese weapons law",
+      "Police enforcement guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "stun-gun",
+      "label": "Stun Gun",
+      "query_label": "stun gun legality",
+      "action_label": "possess a stun gun",
+      "requirement_label": "legal to own a stun gun",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["taser", "pepper-spray"]
+  },
+  {
+    "id": "japan-taser",
+    "query": "is a taser legal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Tasers are prohibited in Japan and are not legal for civilian ownership or carry.",
+    "conditions": [
+      "Classified as prohibited weapon",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Law enforcement use",
+      "Official government authorisation"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict prohibition"
+    },
+    "enforcement": "Authorities confiscate tasers and may prosecute possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese weapons regulations",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "taser",
+      "label": "Taser",
+      "query_label": "taser legality",
+      "action_label": "carry a taser",
+      "requirement_label": "legal to own a taser",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["stun-gun", "pepper-spray"]
+  },
+  {
+    "id": "japan-baton",
+    "query": "is it legal to carry a baton in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Batons are generally treated as weapons in Japan and cannot be carried by civilians without a valid reason.",
+    "conditions": [
+      "Considered a weapon under law",
+      "Public carry is restricted",
+      "Intent to use as a weapon is illegal"
+    ],
+    "exceptions": [
+      "Law enforcement use",
+      "Professional authorised use"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible detention",
+      "notes": "Strict public safety laws"
+    },
+    "enforcement": "Police may detain individuals found carrying batons without justification.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese criminal law",
+      "Public safety guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "baton",
+      "label": "Baton",
+      "query_label": "baton legality",
+      "action_label": "carry a baton",
+      "requirement_label": "legal to carry a baton",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "self-defence-keychain"]
+  },
+  {
+    "id": "japan-brass-knuckles",
+    "query": "are brass knuckles legal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Brass knuckles are illegal in Japan and are treated as prohibited weapons.",
+    "conditions": [
+      "Explicitly banned",
+      "Possession is illegal",
+      "Importing is prohibited"
+    ],
+    "exceptions": [
+      "Official use",
+      "Government authorisation"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Zero tolerance"
+    },
+    "enforcement": "Authorities confiscate brass knuckles and may prosecute.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese weapons law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "brass-knuckles",
+      "label": "Brass Knuckles",
+      "query_label": "brass knuckles legality",
+      "action_label": "possess brass knuckles",
+      "requirement_label": "legal to own brass knuckles",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "switchblade"]
+  },
+  {
+    "id": "japan-switchblade",
+    "query": "is a switchblade legal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Switchblades are illegal in Japan and are classified as prohibited knives.",
+    "conditions": [
+      "Automatic knives are banned",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official use",
+      "Authorised handling"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict knife control laws"
+    },
+    "enforcement": "Police seize switchblades and may detain offenders.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese knife laws",
+      "Weapons regulations"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "switchblade",
+      "label": "Switchblade",
+      "query_label": "switchblade legality",
+      "action_label": "own a switchblade",
+      "requirement_label": "legal to possess a switchblade",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["butterfly-knife", "brass-knuckles"]
+  },
+  {
+    "id": "japan-butterfly-knife",
+    "query": "is a butterfly knife legal in Japan",
+    "location": "Japan",
+    "verdict": "No",
+    "summary": "Butterfly knives are illegal in Japan and fall under prohibited knife categories.",
+    "conditions": [
+      "Classified as banned weapon",
+      "Possession is illegal",
+      "Importation is restricted"
+    ],
+    "exceptions": [
+      "Official use",
+      "Government authorisation"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict enforcement"
+    },
+    "enforcement": "Authorities confiscate butterfly knives and may prosecute possession.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese weapons regulations",
+      "Legal guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "butterfly-knife",
+      "label": "Butterfly Knife",
+      "query_label": "butterfly knife legality",
+      "action_label": "possess a butterfly knife",
+      "requirement_label": "legal to own a butterfly knife",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "baton"]
+  },
+  {
+    "id": "japan-kubotan",
+    "query": "is a kubotan legal in Japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Kubotans may be legal as simple keychains, but carrying them for use as a weapon can be illegal in Japan.",
+    "conditions": [
+      "Intent to use as a weapon is critical",
+      "Public safety laws apply",
+      "Weapon-like designs increase risk"
+    ],
+    "exceptions": [
+      "Simple non-weapon keychains",
+      "Everyday utility use"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible detention",
+      "notes": "Intent determines legality"
+    },
+    "enforcement": "Police evaluate context and intent when deciding enforcement.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese public safety law",
+      "Police interpretation guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "kubotan",
+      "label": "Kubotan",
+      "query_label": "kubotan legality",
+      "action_label": "carry a kubotan",
+      "requirement_label": "legal to carry a kubotan",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["baton", "self-defence-keychain"]
+  },
+  {
+    "id": "japan-sword-carry-public",
+    "query": "can you carry a sword in public in Japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Carrying a sword in public in Japan is highly restricted and generally only allowed for legitimate purposes such as transport or cultural use.",
+    "conditions": [
+      "Public carry without reason is illegal",
+      "Transport must be secure",
+      "Intent to use as a weapon is prohibited"
+    ],
+    "exceptions": [
+      "Cultural or ceremonial use",
+      "Transport for martial arts or display"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible imprisonment",
+      "notes": "Strict control over blades"
+    },
+    "enforcement": "Police carefully assess purpose and may detain individuals without valid justification.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese sword and firearms law",
+      "Police guidance"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "sword-carry-public",
+      "label": "Carry a Sword in Public",
+      "query_label": "carry sword legality",
+      "action_label": "carry a sword in public",
+      "requirement_label": "legal reason to carry a sword",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["switchblade", "butterfly-knife"]
+  },
+  {
+    "id": "japan-self-defence-keychain",
+    "query": "is a self defence keychain legal in Japan",
+    "location": "Japan",
+    "verdict": "Depends",
+    "summary": "Self-defence keychains may be legal if they are ordinary items, but weaponised versions can be treated as illegal weapons.",
+    "conditions": [
+      "Design determines legality",
+      "Intent to use as a weapon is key",
+      "Public safety laws apply"
+    ],
+    "exceptions": [
+      "Simple keychains are allowed",
+      "Non-weapon designs"
+    ],
+    "penalties": {
+      "fine": "Possible fines",
+      "jail": "Possible detention",
+      "notes": "Strict interpretation of intent"
+    },
+    "enforcement": "Authorities assess design and purpose when enforcing.",
+    "last_updated": "2026-01-01",
+    "sources": [
+      "Japanese legal guidance",
+      "Public safety law"
+    ],
+    "country": {
+      "slug": "japan",
+      "name": "Japan",
+      "region": "Asia"
+    },
+    "topic": {
+      "slug": "self-defence-keychain",
+      "label": "Self-Defence Keychain",
+      "query_label": "self defence keychain legality",
+      "action_label": "carry a self-defence keychain",
+      "requirement_label": "legal to carry a self-defence keychain",
+      "category_slugs": ["self-defence-weapons"]
+    },
+    "related_topic_slugs": ["kubotan", "baton"]
+  }
+]

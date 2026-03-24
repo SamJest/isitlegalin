@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+bring alcohol into a country,Australia,legal,Alcohol can be brought into Australia within duty-free limits subject to customs declarations,travel
+bring food into a country,Australia,restricted,Australia has strict biosecurity laws and many food items are restricted or prohibited,travel
+bringing cash into a country,Australia,restricted,"There is no limit on bringing cash into Australia, but amounts over AUD 10,000 must be declared.",travel
+bringing duty free goods,Australia,legal,"Duty-free allowances apply when entering Australia, covering alcohol, tobacco, and other goods within set limits.",travel
+bringing electronics into a country,Australia,legal,"Personal electronics can be brought into Australia, but high-value items may be subject to duty.",travel
+bringing medication into a country,Australia,legal,"Medication can be brought into Australia for personal use, but strict rules apply to controlled substances.",travel
+bringing tobacco into a country,Australia,legal,"Tobacco can be brought into Australia within strict limits, with taxes applying to most quantities.",travel
+bringing weapons in luggage,Australia,illegal,"Most weapons are prohibited from being brought into Australia, with very strict import controls.",travel
+carrying prescription drugs,Australia,legal,"Prescription drugs can be brought into Australia for personal use, but strict documentation rules apply.",travel
+declaring goods at customs,Australia,legal,"Travelers must declare many items when entering Australia, especially food, cash, and restricted goods.",travel

@@ -1,0 +1,11 @@
+activity,country,legal_status,notes,topic
+carry a baton,United States,restricted,"Batons are legal in some US states but restricted or prohibited in others, particularly for concealed carry.",self-defence-weapons
+carry a kubotan,United States,legal,Restricted venues may still prohibit carry,self-defence-weapons
+carry a self-defence keychain,United States,legal,"Self-defence keychains are generally legal in most US states, though certain designs may be restricted.",self-defence-weapons
+carry a sword in public,United States,restricted,"Carrying a sword in public is legal in some US states but restricted in others, especially in urban areas.",self-defence-weapons
+carry a taser,United States,restricted,Tasers are legal in most US states but may be restricted by local laws or conditions such as age or criminal history.,self-defence-weapons
+carry pepper spray,United States,restricted,State laws vary by jurisdiction,self-defence-weapons
+own a switchblade,United States,restricted,"Switchblade legality varies widely by state in the US, with some allowing them and others restricting or banning them.",self-defence-weapons
+possess a butterfly knife,United States,restricted,Butterfly knives are legal in some US states but restricted in others depending on local knife laws.,self-defence-weapons
+possess a stun gun,United States,restricted,"Stun guns are legal in many US states, but some states and cities impose restrictions or require permits.",self-defence-weapons
+possess brass knuckles,United States,restricted,Brass knuckles are legal in some states but banned or restricted in others across the US.,self-defence-weapons
