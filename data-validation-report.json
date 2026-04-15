@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "summary": {
+    "countries": 100,
+    "activities": 866,
+    "rules": 1038,
+    "penalties": 373,
+    "legal_status_counts": {
+      "restricted": 599,
+      "illegal": 276,
+      "legal": 81,
+      "unclear": 82
+    },
+    "errors": 0,
+    "warnings": 0
+  },
+  "errors": [],
+  "warnings": [],
+  "diagnostics": {
+    "countries_missing_required": [],
+    "countries_duplicates": [],
+    "activities_missing_required": [],
+    "activities_duplicates": [],
+    "rules_missing_required": [],
+    "rules_duplicates": [],
+    "penalties_missing_required": [],
+    "penalties_duplicates": [],
+    "invalid_rule_statuses": [],
+    "missing_rule_refs": [],
+    "penalty_orphans": []
+  }
+}

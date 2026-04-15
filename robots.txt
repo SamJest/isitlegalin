@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isitlegalin.com/sitemap.xml
